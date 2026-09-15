@@ -254,6 +254,39 @@ successfully without sending an email — this is expected behavior per the
 
 ---
 
+## 13. Newsletter demand-validation landing page
+
+Before investing in a real public newsletter (own domain, subscriber
+management, a proper bulk-email provider), there's a lightweight, ₹0 landing
+page at [`docs/index.html`](docs/index.html) to gauge interest first. It's
+static (no server) and hosted for free via **GitHub Pages**:
+
+1. Enable it once: repo **Settings → Pages → Source: Deploy from a branch →
+   Branch: `main`, folder: `/docs` → Save**. It'll be live within a minute at
+   `https://<your-username>.github.io/<your-repo>/`.
+2. The two forms on the page (subscribe, contact) need a free backend to
+   collect submissions — a Google Sheet + a small Apps Script you deploy
+   yourself, with no submission cap and no cost. Full copy-paste setup steps
+   are in [`docs/APPS_SCRIPT_SETUP.md`](docs/APPS_SCRIPT_SETUP.md).
+3. This page doesn't send any email itself - it only collects interest
+   (email + preferred language) into a Google Sheet you can review anytime.
+   If/when a real public newsletter gets built, it will be a twice-weekly,
+   general-news-only product (no "Client Opportunities" section, which stays
+   internal to Ninja Technolabs) using a proper email provider - not personal
+   Gmail SMTP, which isn't appropriate for bulk sending.
+4. **The "real story, today" card updates itself daily.** After each real
+   send, `src/showcase.py` takes today's top story, reuses the Gujarati text
+   verbatim (already written, no extra cost) and makes two small, no-retry
+   Gemini calls to adapt it into Hindi and English, then writes
+   `docs/data/today.json`. The GitHub Actions workflow commits that file back
+   to the repo automatically. The page fetches it on load - if that file is
+   ever missing (e.g. before the first real run) or a translation fails, the
+   page quietly falls back to a bundled example so it's never broken. This
+   step can never fail the actual daily email - any error in it is logged
+   and skipped.
+
+---
+
 ## Cost Protection
 
 All numeric limits live in `.env` (locally) / GitHub Secrets & workflow env

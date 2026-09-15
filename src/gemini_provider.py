@@ -23,6 +23,7 @@ from models import DigestResult, DigestStory, StoryCluster
 from summarizer import (
     RESPONSE_SCHEMA,
     TITLE_ONLY_RESPONSE_SCHEMA,
+    TRANSLATION_RESPONSE_SCHEMA,
     build_system_instruction,
     candidates_to_payload,
     parse_digest_response,
@@ -117,6 +118,30 @@ class GeminiProvider(AIProvider):
 
         logger.error("Gemini call failed after %d attempts: %s", max_attempts, last_error)
         return None
+
+    def translate_story(self, story: DigestStory, target_language: str) -> dict | None:
+        """Adapt an already-written (Gujarati) story into another language,
+        for the public landing page's showcase card only - not part of the
+        core digest. A single attempt, no retries: this is decorative
+        marketing content, so a failure just means today's showcase update
+        is skipped for that language rather than spending extra budget on it.
+        """
+        prompt = (
+            f"Translate/naturally adapt this AI news story from Gujarati into {target_language}. "
+            "Keep it accurate to the original meaning - do not add, remove, or embellish facts. "
+            "Keep company/product names as they are.\n\n"
+            f"Headline: {story.headline_gu}\n"
+            f"What happened: {story.what_happened_gu}\n"
+            f"Why it matters: {story.why_it_matters_gu}\n"
+        )
+        return self._call(
+            f"You are a professional translator adapting a short AI news story "
+            f"into natural, simple {target_language} for a general audience. "
+            "Respond only with JSON matching the provided schema.",
+            prompt,
+            TRANSLATION_RESPONSE_SCHEMA,
+            max_attempts=1,
+        )
 
     def _prefilter(self, candidates: list[StoryCluster], settings: Settings) -> list[StoryCluster]:
         payload = candidates_to_payload(candidates, full=False)

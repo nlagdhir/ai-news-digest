@@ -20,6 +20,7 @@ from email_sender import build_subject, render_digest_html, send_email
 from gemini_provider import GeminiProvider
 from news_ranker import preselect
 from rss_reader import fetch_articles
+from showcase import build_and_write_showcase
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 LOG_DIR = PROJECT_ROOT / "logs"
@@ -94,6 +95,12 @@ def run(args: argparse.Namespace) -> int:
         return 0
 
     send_email(html, subject, settings)
+
+    try:
+        build_and_write_showcase(digest, provider, settings)
+    except Exception:  # noqa: BLE001 - the showcase card is decorative; never fail the run over it
+        logger.exception("Showcase update failed - the daily email still sent successfully")
+
     return 0
 
 

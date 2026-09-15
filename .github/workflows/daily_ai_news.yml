@@ -17,7 +17,7 @@ on:
           - send-test   # full run, sends one real email (for manual verification)
 
 permissions:
-  contents: read
+  contents: write # needed to commit back docs/data/today.json (the landing page's daily showcase)
 
 jobs:
   send-digest:
@@ -56,6 +56,19 @@ jobs:
               python src/main.py
               ;;
           esac
+
+      - name: Commit updated showcase data
+        if: success()
+        run: |
+          if [ -n "$(git status --porcelain docs/data/today.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add docs/data/today.json
+            git commit -m "Update daily landing page showcase story"
+            git push
+          else
+            echo "No showcase data change to commit"
+          fi
 
       - name: Upload preview (test mode only)
         if: always()

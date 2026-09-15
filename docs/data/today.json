@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-09-15T17:24:34.414873+05:30",
+  "weekday": "Tuesday",
+  "story_count": 10,
+  "stories": {
+    "gu": {
+      "headline": "1. નાઈન્થ વેવે એમેઝોન બેડરોક પર AI-સંચાલિત ઓપન ફાઇનાન્સ ઓનબોર્ડિંગ બનાવ્યું",
+      "what_happened": "નાઈન્થ વેવ કંપનીએ એમેઝોન બેડરોક એજન્ટકોરનો ઉપયોગ કરીને 'કંપાસ' નામનો મલ્ટી-એજન્ટ AI ઓનબોર્ડિંગ આસિસ્ટન્ટ બનાવ્યો છે. આ આસિસ્ટન્ટ બેંક API ને ફાઇનાન્સિયલ ડેટા એક્સચેન્જ (FDX) સ્ટાન્ડર્ડ્સ સામે ચકાસે છે, પાલનનું સ્કોરિંગ કરે છે અને ઓનબોર્ડિંગ પ્રક્રિયાને ઝડપી બનાવે છે.",
+      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટો જટિલ, નિયમનકારી ઉદ્યોગો જેમ કે ફાઇનાન્સમાં કેવી રીતે કાર્યક્ષમતા અને પાલન સુધારી શકે છે, જે વ્યવસાયો માટે નોંધપાત્ર લાભ પ્રદાન કરે છે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"
+    },
+    "hi": {
+      "headline": "1. नाइन्थ वेव ने अमेज़न बेडरॉक पर AI-संचालित ओपन फाइनेंस ऑनबोर्डिंग बनाया",
+      "what_happened": "नाइन्थ वेव कंपनी ने अमेज़न बेडरॉक एजेंटकोर का उपयोग करके 'कम्पास' नामक एक मल्टी-एजेंट AI ऑनबोर्डिंग असिस्टेंट बनाया है। यह असिस्टेंट बैंक API को फाइनेंशियल डेटा एक्सचेंज (FDX) स्टैंडर्ड्स के खिलाफ जांचता है, अनुपालन की स्कोरिंग करता है और ऑनबोर्डिंग प्रक्रिया को तेज़ करता है।",
+      "why_it_matters": "यह दर्शाता है कि AI एजेंट जटिल, नियामक उद्योगों जैसे फाइनेंस में दक्षता और अनुपालन में कैसे सुधार कर सकते हैं, जो व्यवसायों के लिए महत्वपूर्ण लाभ प्रदान करता है।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"
+    },
+    "en": {
+      "headline": "1. Ninth Wave Built AI-Powered Open Finance Onboarding on Amazon Bedrock",
+      "what_happened": "Ninth Wave created a multi-agent AI onboarding assistant called 'Compass' using Amazon Bedrock AgentCore. This assistant checks bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and speeds up the onboarding process.",
+      "why_it_matters": "This shows how AI agents can improve efficiency and compliance in complex, regulated industries like finance, offering significant benefits for businesses.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"
+    }
+  }
+}

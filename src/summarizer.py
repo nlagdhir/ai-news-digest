@@ -112,6 +112,16 @@ TITLE_ONLY_RESPONSE_SCHEMA = {
     "required": ["top_ids"],
 }
 
+TRANSLATION_RESPONSE_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "headline": {"type": "string"},
+        "what_happened": {"type": "string"},
+        "why_it_matters": {"type": "string"},
+    },
+    "required": ["headline", "what_happened", "why_it_matters"],
+}
+
 
 def build_system_instruction(settings: Settings) -> str:
     return SYSTEM_INSTRUCTION.format(
