@@ -38,6 +38,15 @@ CHUNK_THRESHOLD = 25
 PREFILTER_TARGET_COUNT = 20
 
 MAX_ATTEMPTS_PER_CALL = 3  # 1 initial attempt + 2 retries
+
+# The pre-filter call has a solid, near-free local fallback (pre-ranking
+# order) if it fails, so it doesn't need retries. The final summarization/
+# translation call has no such cheap fallback (only the full headline-only
+# digest), so it must always get its full retry budget - capping the
+# pre-filter to a single attempt guarantees that, since
+# PREFILTER_MAX_ATTEMPTS + MAX_ATTEMPTS_PER_CALL never exceeds the default
+# MAX_AI_REQUESTS even in the worst case.
+PREFILTER_MAX_ATTEMPTS = 1
 RETRY_BACKOFF_SECONDS = (2, 8)
 
 FALLBACK_WHAT_HAPPENED_GU = "આજે AI સારાંશ સેવા ઉપલબ્ધ નથી. મૂળ સમાચાર વાંચવા માટે નીચે લિંક પર ક્લિક કરો."
@@ -60,7 +69,13 @@ class GeminiProvider(AIProvider):
     def _budget_available(self) -> bool:
         return self.requests_used < self._settings.max_ai_requests
 
-    def _call(self, system_instruction: str, contents: str, response_schema: dict) -> dict | None:
+    def _call(
+        self,
+        system_instruction: str,
+        contents: str,
+        response_schema: dict,
+        max_attempts: int = MAX_ATTEMPTS_PER_CALL,
+    ) -> dict | None:
         """Make one logical Gemini call, retrying a limited number of times
         on transient failures. Every individual attempt counts against the
         run's total request budget.
@@ -68,7 +83,7 @@ class GeminiProvider(AIProvider):
         from google.genai import types
 
         last_error: Exception | None = None
-        for attempt in range(MAX_ATTEMPTS_PER_CALL):
+        for attempt in range(max_attempts):
             if not self._budget_available():
                 logger.warning(
                     "MAX_AI_REQUESTS=%d reached, aborting further Gemini calls",
@@ -92,15 +107,15 @@ class GeminiProvider(AIProvider):
                 return json.loads(response.text)
             except Exception as exc:  # noqa: BLE001 - network/SDK/parse errors all handled the same
                 last_error = exc
-                if attempt < MAX_ATTEMPTS_PER_CALL - 1:
+                if attempt < max_attempts - 1:
                     backoff = RETRY_BACKOFF_SECONDS[min(attempt, len(RETRY_BACKOFF_SECONDS) - 1)]
                     logger.warning(
                         "Gemini call failed (attempt %d/%d): %s - retrying in %ds",
-                        attempt + 1, MAX_ATTEMPTS_PER_CALL, exc, backoff,
+                        attempt + 1, max_attempts, exc, backoff,
                     )
                     time.sleep(backoff)
 
-        logger.error("Gemini call failed after %d attempts: %s", MAX_ATTEMPTS_PER_CALL, last_error)
+        logger.error("Gemini call failed after %d attempts: %s", max_attempts, last_error)
         return None
 
     def _prefilter(self, candidates: list[StoryCluster], settings: Settings) -> list[StoryCluster]:
@@ -116,6 +131,7 @@ class GeminiProvider(AIProvider):
             "distinct stories before detailed summarization. Respond only with JSON.",
             prompt,
             TITLE_ONLY_RESPONSE_SCHEMA,
+            max_attempts=PREFILTER_MAX_ATTEMPTS,
         )
         if not data:
             logger.warning("Pre-filter call failed - falling back to local pre-ranking order")
