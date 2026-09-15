@@ -15,7 +15,11 @@ logger = logging.getLogger(__name__)
 MAX_SNIPPET_CHARS = 220
 
 SYSTEM_INSTRUCTION = """You are an experienced Gujarati technology journalist who writes a daily \
-AI news briefing for an educated general audience in Gujarat, India.
+AI news briefing for the team at {company_context}
+
+This reader runs a services business - the single most useful thing this \
+briefing can do beyond general awareness is surface stories that suggest a \
+concrete new product or service they could pitch to their own clients.
 
 You will be given a list of candidate news stories (title, source, source \
 tier, a short snippet, URL, and publish time). Your job:
@@ -30,6 +34,15 @@ tier, a short snippet, URL, and publish time). Your job:
    announcements, funding/acquisitions, important research, AI safety, AI \
    regulation/policy, major infrastructure/chip news, developer/coding AI, \
    India AI developments, and practical impact on businesses/users/developers.
+2b. PRIORITIZE stories that reveal a new AI capability, tool, API, framework, \
+   or adoption pattern this services company could turn into a client pitch \
+   or new offering (e.g. a new agent framework, a coding/dev-productivity \
+   tool, an enterprise AI integration pattern, an automation/CRM/e-commerce \
+   AI capability, a no-code AI platform). When two candidate stories are \
+   otherwise comparably important, prefer the one with a clearer, concrete \
+   business/service angle over one that is purely general-interest company \
+   news, a funding announcement with no product detail, or abstract policy \
+   debate.
 3. Ignore clickbait, SEO filler, promotional content, rumors without \
    reliable sourcing, and very minor/repetitive updates.
 4. Select at most {max_stories} stories. If fewer than {max_stories} are \
@@ -45,7 +58,16 @@ tier, a short snippet, URL, and publish time). Your job:
    (e.g. "અહેવાલો અનુસાર...").
 7. For "source_url", always reuse the exact URL given for the id you selected \
    as the representative - never invent or alter a URL.
-8. Also write one short overall "takeaway_gu" paragraph (2-4 sentences) about \
+8. For EVERY selected story, also fill "business_angle_gu": if the story \
+   suggests a concrete new product/service/feature this services company \
+   could realistically offer or pitch to a client, write 1-2 short Gujarati \
+   sentences naming the specific opportunity (e.g. which service line - web/ \
+   app development, AI/ML integration, e-commerce, cloud, automation, CRM - \
+   and what to pitch). If a story has no realistic business angle (e.g. pure \
+   policy debate, abstract research, general company news), leave \
+   "business_angle_gu" as an empty string - never invent a stretch just to \
+   fill it.
+9. Also write one short overall "takeaway_gu" paragraph (2-4 sentences) about \
    the most important AI trend visible across today's selected stories, and \
    3-5 very short "summary_bullets_gu" bullets in the style \
    "OpenAI — ટૂંકમાં શું થયું", one bullet per major company/theme present \
@@ -67,11 +89,12 @@ RESPONSE_SCHEMA = {
                     "what_happened_gu": {"type": "string"},
                     "why_it_matters_gu": {"type": "string"},
                     "source_url": {"type": "string"},
+                    "business_angle_gu": {"type": "string"},
                     "merged_ids": {"type": "array", "items": {"type": "string"}},
                 },
                 "required": [
-                    "id", "category", "headline_gu",
-                    "what_happened_gu", "why_it_matters_gu", "source_url",
+                    "id", "category", "headline_gu", "what_happened_gu",
+                    "why_it_matters_gu", "source_url", "business_angle_gu",
                 ],
             },
         },
@@ -94,6 +117,7 @@ def build_system_instruction(settings: Settings) -> str:
     return SYSTEM_INSTRUCTION.format(
         max_stories=settings.max_stories,
         categories=", ".join(CATEGORIES),
+        company_context=settings.company_context,
     )
 
 
@@ -147,6 +171,7 @@ def parse_digest_response(data: dict, candidates_by_id: dict[str, StoryCluster],
         headline = (item.get("headline_gu") or "").strip()
         what_happened = (item.get("what_happened_gu") or "").strip()
         why_it_matters = (item.get("why_it_matters_gu") or "").strip()
+        business_angle = (item.get("business_angle_gu") or "").strip()
         if not headline or not what_happened:
             logger.warning("AI returned incomplete story for id %r, skipping", cluster_id)
             continue
@@ -159,6 +184,7 @@ def parse_digest_response(data: dict, candidates_by_id: dict[str, StoryCluster],
                 why_it_matters_gu=why_it_matters,
                 source_name=cluster.source_name,
                 source_url=source_url,
+                business_angle_gu=business_angle,
             )
         )
         if len(stories) >= settings.max_stories:

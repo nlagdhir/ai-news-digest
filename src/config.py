@@ -43,6 +43,14 @@ CATEGORY_EMOJI = {
     "AI Regulation & Safety": "⚖️",
 }
 
+DEFAULT_COMPANY_CONTEXT = (
+    "Ninja Technolabs, an IT/software services company (founded 2011, 250+ "
+    "engineers, 1500+ projects delivered across 30+ countries) that builds for "
+    "clients across many industries: web & mobile app development, AI/ML "
+    "integration, e-commerce solutions, cloud development, business process "
+    "automation, and CRM integration."
+)
+
 
 def _int_env(name: str, default: int) -> int:
     raw = os.environ.get(name)
@@ -66,6 +74,7 @@ class Settings:
     timezone: str = "Asia/Kolkata"
     language: str = "gu"
     gemini_model: str = "gemini-2.5-flash"
+    company_context: str = DEFAULT_COMPANY_CONTEXT
 
     # Cost / safety limits
     lookback_hours: int = 24
@@ -87,6 +96,7 @@ class Settings:
             timezone=os.environ.get("TIMEZONE", "Asia/Kolkata"),
             language=os.environ.get("LANGUAGE", "gu"),
             gemini_model=os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
+            company_context=os.environ.get("COMPANY_CONTEXT", DEFAULT_COMPANY_CONTEXT),
             lookback_hours=_int_env("LOOKBACK_HOURS", 24),
             max_articles_to_process=_int_env("MAX_ARTICLES_TO_PROCESS", 40),
             max_stories=_int_env("MAX_STORIES", 10),

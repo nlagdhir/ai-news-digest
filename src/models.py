@@ -67,6 +67,7 @@ class DigestStory:
     why_it_matters_gu: str
     source_name: str
     source_url: str
+    business_angle_gu: str = ""
 
 
 @dataclass

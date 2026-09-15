@@ -25,6 +25,14 @@ TEMPLATE_NAME = "email.html"
 
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 465
+MAX_OPPORTUNITIES = 3
+
+
+def _client_opportunities(result: DigestResult) -> list:
+    """Stories the AI flagged with a concrete business/service angle,
+    surfaced as a standalone highlight section near the top of the email.
+    """
+    return [s for s in result.stories if s.business_angle_gu][:MAX_OPPORTUNITIES]
 
 
 def _group_by_category(result: DigestResult) -> list[dict]:
@@ -49,6 +57,7 @@ def render_digest_html(result: DigestResult, settings: Settings, now: datetime |
     return template.render(
         date_display=date_display,
         categories=_group_by_category(result),
+        opportunities=_client_opportunities(result),
         takeaway=result.takeaway_gu,
         summary_bullets=result.summary_bullets_gu,
         ai_degraded=result.ai_degraded,

@@ -188,7 +188,33 @@ authoritative when the same story appears in multiple places, add its
 domain to the `source_priority:` table at the bottom of the same file
 (lower number = higher priority).
 
-## 10. Changing the language
+## 10. Tailoring to your business (Client Opportunities)
+
+The digest is written for a services company, not just general AI news
+consumption. Set `COMPANY_CONTEXT` in `.env` (locally) or as a GitHub Secret
+(in CI) to describe your company and service lines in a sentence or two —
+this feeds directly into the AI prompt in `src/summarizer.py`, which:
+
+1. Gives extra ranking priority to stories that reveal a concrete new AI
+   capability, tool, or adoption pattern you could turn into a client pitch,
+   over generic company/funding news with no product angle.
+2. Fills in a `business_angle_gu` suggestion on every story where one
+   genuinely applies (left blank otherwise — it never invents a stretch).
+3. Surfaces up to 3 of the strongest opportunities in a dedicated
+   "💡 તમારા વ્યવસાય માટે તકો (Client Opportunities)" section near the top of
+   the email, in addition to the inline callout on individual stories.
+
+Default (already set) describes Ninja Technolabs: web & mobile app
+development, AI/ML integration, e-commerce, cloud development, business
+automation, and CRM integration, serving clients across industries. Update
+it any time your services or focus change — no code changes needed:
+
+```bash
+# in .env, or as a GitHub Secret named COMPANY_CONTEXT
+COMPANY_CONTEXT=Your Company, an X company that offers Y and Z to clients in [industries].
+```
+
+## 11. Changing the language
 
 The pipeline is written so the output language is a single setting
 (`LANGUAGE` environment variable, currently only `gu` is implemented). The
@@ -197,7 +223,7 @@ instructions live — adding Hindi (`hi`) or English (`en`) later means adding
 an alternate system-instruction template there and switching on
 `settings.language`, without changing any other file.
 
-## 11. Troubleshooting
+## 12. Troubleshooting
 
 **An RSS feed is unavailable / failing**
 This is expected occasionally — the app logs a warning (`Feed failed: ...`)
