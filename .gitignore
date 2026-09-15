@@ -1,0 +1,26 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Local run artifacts
+preview.html
+logs/*.log
+logs/*.txt
+
+# Editors / OS
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+
+# Test cache
+.pytest_cache/

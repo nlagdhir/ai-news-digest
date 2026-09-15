@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Daily</title>
+<style>
+  body, table, td { font-family: 'Noto Sans Gujarati', 'Segoe UI', Arial, sans-serif; }
+  @media only screen and (max-width: 600px) {
+    .container { width: 100% !important; }
+    .story-cell { padding: 14px !important; }
+    .header-cell { padding: 20px 16px !important; }
+  }
+</style>
+</head>
+<body style="margin:0; padding:0; background-color:#f2f4f7;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#f2f4f7;">
+    <tr>
+      <td align="center" style="padding:24px 12px;">
+        <table role="presentation" class="container" width="600" cellpadding="0" cellspacing="0" style="width:600px; max-width:600px; background-color:#ffffff; border-radius:8px; overflow:hidden;">
+
+          <!-- Header -->
+          <tr>
+            <td class="header-cell" style="background-color:#111827; padding:28px 24px; text-align:center;">
+              <div style="font-size:26px; font-weight:700; color:#ffffff;">🤖 AI Daily</div>
+              <div style="font-size:14px; color:#9ca3af; margin-top:6px;">{{ date_display }}</div>
+              <div style="font-size:14px; color:#e5e7eb; margin-top:12px; line-height:1.6;">
+                આજના સૌથી મહત્વના AI સમાચાર — સરળ ગુજરાતી ભાષામાં.
+              </div>
+            </td>
+          </tr>
+
+          {% if ai_degraded %}
+          <tr>
+            <td style="background-color:#fef3c7; color:#92400e; padding:12px 24px; font-size:13px; text-align:center;">
+              ⚠️ આજે AI સારાંશ સેવા ઉપલબ્ધ ન હોવાથી, ફક્ત મુખ્ય મથાળાં દર્શાવવામાં આવ્યા છે.
+            </td>
+          </tr>
+          {% endif %}
+
+          <!-- Category sections -->
+          {% for category in categories %}
+          <tr>
+            <td style="padding:20px 24px 4px 24px;">
+              <div style="font-size:18px; font-weight:700; color:#111827; border-bottom:2px solid #e5e7eb; padding-bottom:8px;">
+                {{ category.emoji }} {{ category.name }}
+              </div>
+            </td>
+          </tr>
+          {% for story in category.stories %}
+          <tr>
+            <td class="story-cell" style="padding:16px 24px;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background-color:#f9fafb; border-radius:6px;">
+                <tr>
+                  <td style="padding:16px 18px;">
+                    <div style="font-size:16px; font-weight:700; color:#111827; line-height:1.5;">
+                      {{ loop.index }}. {{ story.headline_gu }}
+                    </div>
+                    <div style="margin-top:10px; font-size:14px; color:#374151; line-height:1.7;">
+                      <strong style="color:#111827;">શું થયું?</strong><br>
+                      {{ story.what_happened_gu }}
+                    </div>
+                    {% if story.why_it_matters_gu %}
+                    <div style="margin-top:10px; font-size:14px; color:#374151; line-height:1.7;">
+                      <strong style="color:#111827;">આ કેમ મહત્વનું છે?</strong><br>
+                      {{ story.why_it_matters_gu }}
+                    </div>
+                    {% endif %}
+                    <div style="margin-top:12px; font-size:13px; color:#6b7280;">
+                      Source: {{ story.source_name }} &nbsp;·&nbsp;
+                      <a href="{{ story.source_url }}" style="color:#2563eb; text-decoration:none;">Read more →</a>
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          {% endfor %}
+          {% endfor %}
+
+          <!-- Biggest takeaway -->
+          {% if takeaway %}
+          <tr>
+            <td style="padding:20px 24px 4px 24px;">
+              <div style="font-size:18px; font-weight:700; color:#111827; border-bottom:2px solid #e5e7eb; padding-bottom:8px;">
+                ⭐ Today's Biggest Takeaway
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="story-cell" style="padding:12px 24px 20px 24px;">
+              <div style="font-size:14px; color:#374151; line-height:1.7; background-color:#eff6ff; border-radius:6px; padding:16px 18px;">
+                {{ takeaway }}
+              </div>
+            </td>
+          </tr>
+          {% endif %}
+
+          <!-- 30-second summary -->
+          {% if summary_bullets %}
+          <tr>
+            <td style="padding:8px 24px 4px 24px;">
+              <div style="font-size:18px; font-weight:700; color:#111827; border-bottom:2px solid #e5e7eb; padding-bottom:8px;">
+                ⚡ 30-Second Summary
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td class="story-cell" style="padding:12px 24px 24px 24px;">
+              <ul style="margin:0; padding-left:20px; font-size:14px; color:#374151; line-height:1.9;">
+                {% for bullet in summary_bullets %}
+                <li>{{ bullet }}</li>
+                {% endfor %}
+              </ul>
+            </td>
+          </tr>
+          {% endif %}
+
+          <!-- Footer -->
+          <tr>
+            <td style="padding:20px 24px; background-color:#f9fafb; text-align:center; font-size:12px; color:#9ca3af;">
+              AI Daily · સ્વયંસંચાલિત Gujarati AI સમાચાર ડાયજેસ્ટ<br>
+              Generated automatically via GitHub Actions + Google Gemini
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
