@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-15T17:24:34.414873+05:30",
-  "weekday": "Tuesday",
+  "generated_at": "2026-09-16T13:21:04.902281+05:30",
+  "weekday": "Wednesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. નાઈન્થ વેવે એમેઝોન બેડરોક પર AI-સંચાલિત ઓપન ફાઇનાન્સ ઓનબોર્ડિંગ બનાવ્યું",
-      "what_happened": "નાઈન્થ વેવ કંપનીએ એમેઝોન બેડરોક એજન્ટકોરનો ઉપયોગ કરીને 'કંપાસ' નામનો મલ્ટી-એજન્ટ AI ઓનબોર્ડિંગ આસિસ્ટન્ટ બનાવ્યો છે. આ આસિસ્ટન્ટ બેંક API ને ફાઇનાન્સિયલ ડેટા એક્સચેન્જ (FDX) સ્ટાન્ડર્ડ્સ સામે ચકાસે છે, પાલનનું સ્કોરિંગ કરે છે અને ઓનબોર્ડિંગ પ્રક્રિયાને ઝડપી બનાવે છે.",
-      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટો જટિલ, નિયમનકારી ઉદ્યોગો જેમ કે ફાઇનાન્સમાં કેવી રીતે કાર્યક્ષમતા અને પાલન સુધારી શકે છે, જે વ્યવસાયો માટે નોંધપાત્ર લાભ પ્રદાન કરે છે.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"
+      "headline": "1. ગૂગલે જેમિની 3.8 લાઇવ અને એક્સટેન્ડેડ થિંકિંગ મોડલ રજૂ કર્યા",
+      "what_happened": "ગૂગલ ડીપમાઇન્ડે તેમના જેમિની મોડલના નવા વર્ઝન 3.8 લાઇવ અને 3.8 લાઇવ એક્સટેન્ડેડ થિંકિંગની જાહેરાત કરી છે. 'લાઇવ' વર્ઝન રિયલ-ટાઇમ ઇન્ટરેક્શન માટે છે, જ્યારે 'એક્સટેન્ડેડ થિંકિંગ' વધુ ઊંડાણપૂર્વક વિચારવાની ક્ષમતા પ્રદાન કરે છે.",
+      "why_it_matters": "આ નવા મોડલ AI એપ્લિકેશન્સને વધુ ઝડપી અને વધુ બુદ્ધિશાળી બનાવશે, ખાસ કરીને એવા કાર્યો માટે જ્યાં તાત્કાલિક પ્રતિસાદ અને જટિલ તર્કની જરૂર હોય છે.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
     },
     "hi": {
-      "headline": "1. नाइन्थ वेव ने अमेज़न बेडरॉक पर AI-संचालित ओपन फाइनेंस ऑनबोर्डिंग बनाया",
-      "what_happened": "नाइन्थ वेव कंपनी ने अमेज़न बेडरॉक एजेंटकोर का उपयोग करके 'कम्पास' नामक एक मल्टी-एजेंट AI ऑनबोर्डिंग असिस्टेंट बनाया है। यह असिस्टेंट बैंक API को फाइनेंशियल डेटा एक्सचेंज (FDX) स्टैंडर्ड्स के खिलाफ जांचता है, अनुपालन की स्कोरिंग करता है और ऑनबोर्डिंग प्रक्रिया को तेज़ करता है।",
-      "why_it_matters": "यह दर्शाता है कि AI एजेंट जटिल, नियामक उद्योगों जैसे फाइनेंस में दक्षता और अनुपालन में कैसे सुधार कर सकते हैं, जो व्यवसायों के लिए महत्वपूर्ण लाभ प्रदान करता है।",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"
+      "headline": "1. गूगल ने जेमिनी 3.8 लाइव और एक्सटेंडेड थिंकिंग मॉडल पेश किए",
+      "what_happened": "गूगल डीपमाइंड ने अपने जेमिनी मॉडल के नए वर्जन 3.8 लाइव और 3.8 लाइव एक्सटेंडेड थिंकिंग की घोषणा की है। 'लाइव' वर्जन रियल-टाइम बातचीत के लिए है, जबकि 'एक्सटेंडेड थिंकिंग' अधिक गहराई से सोचने की क्षमता प्रदान करता है।",
+      "why_it_matters": "ये नए मॉडल AI एप्लीकेशन्स को और तेज़ और अधिक बुद्धिमान बनाएंगे, खासकर उन कामों के लिए जहाँ तुरंत प्रतिक्रिया और जटिल तर्क की आवश्यकता होती है।",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
     },
     "en": {
-      "headline": "1. Ninth Wave Built AI-Powered Open Finance Onboarding on Amazon Bedrock",
-      "what_happened": "Ninth Wave created a multi-agent AI onboarding assistant called 'Compass' using Amazon Bedrock AgentCore. This assistant checks bank APIs against Financial Data Exchange (FDX) standards, scores compliance, and speeds up the onboarding process.",
-      "why_it_matters": "This shows how AI agents can improve efficiency and compliance in complex, regulated industries like finance, offering significant benefits for businesses.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-ninth-wave-built-ai-powered-open-finance-onboarding-on-amazon-bedrock/"
+      "headline": "1. Google Introduces Gemini 3.8 Live and Extended Thinking Models",
+      "what_happened": "Google DeepMind has announced new versions of their Gemini model: 3.8 Live and 3.8 Live Extended Thinking. The 'Live' version is designed for real-time interaction, while 'Extended Thinking' provides deeper reasoning capabilities.",
+      "why_it_matters": "These new models will make AI applications faster and smarter, especially for tasks that require immediate responses and complex reasoning.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
     }
   }
 }
