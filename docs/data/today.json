@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-16T13:21:04.902281+05:30",
-  "weekday": "Wednesday",
+  "generated_at": "2026-09-17T13:25:03.207594+05:30",
+  "weekday": "Thursday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. ગૂગલે જેમિની 3.8 લાઇવ અને એક્સટેન્ડેડ થિંકિંગ મોડલ રજૂ કર્યા",
-      "what_happened": "ગૂગલ ડીપમાઇન્ડે તેમના જેમિની મોડલના નવા વર્ઝન 3.8 લાઇવ અને 3.8 લાઇવ એક્સટેન્ડેડ થિંકિંગની જાહેરાત કરી છે. 'લાઇવ' વર્ઝન રિયલ-ટાઇમ ઇન્ટરેક્શન માટે છે, જ્યારે 'એક્સટેન્ડેડ થિંકિંગ' વધુ ઊંડાણપૂર્વક વિચારવાની ક્ષમતા પ્રદાન કરે છે.",
-      "why_it_matters": "આ નવા મોડલ AI એપ્લિકેશન્સને વધુ ઝડપી અને વધુ બુદ્ધિશાળી બનાવશે, ખાસ કરીને એવા કાર્યો માટે જ્યાં તાત્કાલિક પ્રતિસાદ અને જટિલ તર્કની જરૂર હોય છે.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      "headline": "1. OpenAI AI દ્વારા જાહેરાતની દુનિયાને નવો આકાર આપી રહ્યું છે.",
+      "what_happened": "OpenAI એ AI-સંચાલિત જાહેરાત અનુભવો રજૂ કર્યા છે, જેમાં 'Sponsored Agents', માર્કેટર્સ માટેના ટૂલ્સ અને HubSpot તથા Shopify સાથેના ઇન્ટિગ્રેશનનો સમાવેશ થાય છે.",
+      "why_it_matters": "આ જાહેરાત ઉદ્યોગમાં AI ના વ્યાપક ઉપયોગ તરફ નિર્દેશ કરે છે, જે બ્રાન્ડ્સને ગ્રાહકો સાથે જોડાવા માટે નવા અને વધુ વ્યક્તિગત માર્ગો પ્રદાન કરે છે.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/reimagining-advertising-with-ai"
     },
     "hi": {
-      "headline": "1. गूगल ने जेमिनी 3.8 लाइव और एक्सटेंडेड थिंकिंग मॉडल पेश किए",
-      "what_happened": "गूगल डीपमाइंड ने अपने जेमिनी मॉडल के नए वर्जन 3.8 लाइव और 3.8 लाइव एक्सटेंडेड थिंकिंग की घोषणा की है। 'लाइव' वर्जन रियल-टाइम बातचीत के लिए है, जबकि 'एक्सटेंडेड थिंकिंग' अधिक गहराई से सोचने की क्षमता प्रदान करता है।",
-      "why_it_matters": "ये नए मॉडल AI एप्लीकेशन्स को और तेज़ और अधिक बुद्धिमान बनाएंगे, खासकर उन कामों के लिए जहाँ तुरंत प्रतिक्रिया और जटिल तर्क की आवश्यकता होती है।",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      "headline": "1. OpenAI AI द्वारा विज्ञापन की दुनिया को नया आकार दे रहा है",
+      "what_happened": "OpenAI ने AI-संचालित विज्ञापन अनुभव पेश किए हैं, जिसमें 'Sponsored Agents', मार्केटर्स के लिए टूल्स और HubSpot तथा Shopify के साथ इंटीग्रेशन शामिल हैं।",
+      "why_it_matters": "यह विज्ञापन उद्योग में AI के व्यापक उपयोग की ओर इशारा करता है, जो ब्रांड्स को ग्राहकों के साथ जुड़ने के लिए नए और अधिक व्यक्तिगत तरीके प्रदान करता है।",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/reimagining-advertising-with-ai"
     },
     "en": {
-      "headline": "1. Google Introduces Gemini 3.8 Live and Extended Thinking Models",
-      "what_happened": "Google DeepMind has announced new versions of their Gemini model: 3.8 Live and 3.8 Live Extended Thinking. The 'Live' version is designed for real-time interaction, while 'Extended Thinking' provides deeper reasoning capabilities.",
-      "why_it_matters": "These new models will make AI applications faster and smarter, especially for tasks that require immediate responses and complex reasoning.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+      "headline": "1. OpenAI is Reshaping the Advertising World with AI",
+      "what_happened": "OpenAI has introduced AI-powered advertising experiences, including 'Sponsored Agents', tools for marketers, and integrations with HubSpot and Shopify.",
+      "why_it_matters": "This points to the widespread use of AI in the advertising industry, offering brands new and more personalized ways to connect with customers.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/reimagining-advertising-with-ai"
     }
   }
 }
