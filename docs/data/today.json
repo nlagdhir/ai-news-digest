@@ -1,28 +1,21 @@
 {
-  "generated_at": "2026-09-17T13:25:03.207594+05:30",
-  "weekday": "Thursday",
+  "generated_at": "2026-09-18T13:05:01.634309+05:30",
+  "weekday": "Friday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. OpenAI AI દ્વારા જાહેરાતની દુનિયાને નવો આકાર આપી રહ્યું છે.",
-      "what_happened": "OpenAI એ AI-સંચાલિત જાહેરાત અનુભવો રજૂ કર્યા છે, જેમાં 'Sponsored Agents', માર્કેટર્સ માટેના ટૂલ્સ અને HubSpot તથા Shopify સાથેના ઇન્ટિગ્રેશનનો સમાવેશ થાય છે.",
-      "why_it_matters": "આ જાહેરાત ઉદ્યોગમાં AI ના વ્યાપક ઉપયોગ તરફ નિર્દેશ કરે છે, જે બ્રાન્ડ્સને ગ્રાહકો સાથે જોડાવા માટે નવા અને વધુ વ્યક્તિગત માર્ગો પ્રદાન કરે છે.",
+      "headline": "1. Cooley ChatGPT નો ઉપયોગ કરીને IPO ના કામને ઝડપી બનાવે છે",
+      "what_happened": "કૂલી (Cooley) નામની કાયદાકીય ફર્મે ChatGPT Work નો ઉપયોગ કરીને 'GO Public' નામનું ટૂલ બનાવ્યું છે. આનાથી IPO (Initial Public Offering) પ્રક્રિયામાં બુદ્ધિમત્તા ઉમેરાઈ છે, જે વકીલોને સમસ્યાઓ વહેલા ઓળખવામાં અને મહત્વપૂર્ણ નિર્ણયો પર ધ્યાન કેન્દ્રિત કરવામાં મદદ કરે છે.",
+      "why_it_matters": "આ દર્શાવે છે કે કેવી રીતે AI, ખાસ કરીને LLM, કાયદાકીય અને નાણાકીય જેવા પરંપરાગત ઉદ્યોગોમાં જટિલ અને સમય માંગી લેતી પ્રક્રિયાઓને સુવ્યવસ્થિત કરી શકે છે. તે કાર્યક્ષમતા અને ચોકસાઈ સુધારી શકે છે.",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/reimagining-advertising-with-ai"
-    },
-    "hi": {
-      "headline": "1. OpenAI AI द्वारा विज्ञापन की दुनिया को नया आकार दे रहा है",
-      "what_happened": "OpenAI ने AI-संचालित विज्ञापन अनुभव पेश किए हैं, जिसमें 'Sponsored Agents', मार्केटर्स के लिए टूल्स और HubSpot तथा Shopify के साथ इंटीग्रेशन शामिल हैं।",
-      "why_it_matters": "यह विज्ञापन उद्योग में AI के व्यापक उपयोग की ओर इशारा करता है, जो ब्रांड्स को ग्राहकों के साथ जुड़ने के लिए नए और अधिक व्यक्तिगत तरीके प्रदान करता है।",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/reimagining-advertising-with-ai"
+      "source_url": "https://openai.com/index/cooley-gopublic"
     },
     "en": {
-      "headline": "1. OpenAI is Reshaping the Advertising World with AI",
-      "what_happened": "OpenAI has introduced AI-powered advertising experiences, including 'Sponsored Agents', tools for marketers, and integrations with HubSpot and Shopify.",
-      "why_it_matters": "This points to the widespread use of AI in the advertising industry, offering brands new and more personalized ways to connect with customers.",
+      "headline": "1. Cooley Speeds Up IPO Work Using ChatGPT",
+      "what_happened": "A law firm called Cooley created a tool named 'GO Public' using ChatGPT Work. This tool adds intelligence to the IPO (Initial Public Offering) process, helping lawyers find problems sooner and focus on important decisions.",
+      "why_it_matters": "This shows how AI, especially Large Language Models (LLMs), can make complex and time-consuming tasks simpler in traditional fields like law and finance. It can make things more efficient and accurate.",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/reimagining-advertising-with-ai"
+      "source_url": "https://openai.com/index/cooley-gopublic"
     }
   }
 }
