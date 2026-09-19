@@ -1,21 +1,28 @@
 {
-  "generated_at": "2026-09-18T13:05:01.634309+05:30",
-  "weekday": "Friday",
+  "generated_at": "2026-09-19T12:59:35.749804+05:30",
+  "weekday": "Saturday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Cooley ChatGPT નો ઉપયોગ કરીને IPO ના કામને ઝડપી બનાવે છે",
-      "what_happened": "કૂલી (Cooley) નામની કાયદાકીય ફર્મે ChatGPT Work નો ઉપયોગ કરીને 'GO Public' નામનું ટૂલ બનાવ્યું છે. આનાથી IPO (Initial Public Offering) પ્રક્રિયામાં બુદ્ધિમત્તા ઉમેરાઈ છે, જે વકીલોને સમસ્યાઓ વહેલા ઓળખવામાં અને મહત્વપૂર્ણ નિર્ણયો પર ધ્યાન કેન્દ્રિત કરવામાં મદદ કરે છે.",
-      "why_it_matters": "આ દર્શાવે છે કે કેવી રીતે AI, ખાસ કરીને LLM, કાયદાકીય અને નાણાકીય જેવા પરંપરાગત ઉદ્યોગોમાં જટિલ અને સમય માંગી લેતી પ્રક્રિયાઓને સુવ્યવસ્થિત કરી શકે છે. તે કાર્યક્ષમતા અને ચોકસાઈ સુધારી શકે છે.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/cooley-gopublic"
+      "headline": "1. એમેઝોન બેડરોક પર નવું Kimi K3 મોડેલ ઉપલબ્ધ",
+      "what_happened": "Moonshot AI દ્વારા વિકસિત Kimi K3 મોડેલ હવે એમેઝોન બેડરોક પર ઉપલબ્ધ છે. આ એક ઓપન-વેઇટ મોડેલ છે જે કોડિંગ અને નોલેજ વર્ક માટે શક્તિશાળી વિકલ્પો પ્રદાન કરે છે. તેમાં નેટિવ વિઝન ક્ષમતા અને 10 લાખ ટોકનની મોટી કોન્ટેક્સ્ટ વિન્ડો છે.",
+      "why_it_matters": "આ મોડેલ ડેવલપર્સને વધુ શક્તિશાળી અને ખર્ચ-અસરકારક AI સોલ્યુશન્સ બનાવવામાં મદદ કરશે, ખાસ કરીને વિઝન-આધારિત એપ્લિકેશન્સ અને મોટા ડેટા સેટ સાથે કામ કરવા માટે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/"
+    },
+    "hi": {
+      "headline": "1. एमेज़ॉन बेडरॉक पर नया Kimi K3 मॉडल उपलब्ध",
+      "what_happened": "Moonshot AI द्वारा विकसित Kimi K3 मॉडल अब एमेज़ॉन बेडरॉक पर उपलब्ध है। यह एक ओपन-वेट मॉडल है जो कोडिंग और नॉलेज वर्क के लिए शक्तिशाली विकल्प प्रदान करता है। इसमें नेटिव विजन क्षमता और 10 लाख टोकन की बड़ी कॉन्टेक्स्ट विंडो है।",
+      "why_it_matters": "यह मॉडल डेवलपर्स को अधिक शक्तिशाली और लागत-प्रभावी AI सॉल्यूशंस बनाने में मदद करेगा, खासकर विजन-आधारित एप्लीकेशंस और बड़े डेटा सेट के साथ काम करने के लिए।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/"
     },
     "en": {
-      "headline": "1. Cooley Speeds Up IPO Work Using ChatGPT",
-      "what_happened": "A law firm called Cooley created a tool named 'GO Public' using ChatGPT Work. This tool adds intelligence to the IPO (Initial Public Offering) process, helping lawyers find problems sooner and focus on important decisions.",
-      "why_it_matters": "This shows how AI, especially Large Language Models (LLMs), can make complex and time-consuming tasks simpler in traditional fields like law and finance. It can make things more efficient and accurate.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/cooley-gopublic"
+      "headline": "1. New Kimi K3 Model Available on Amazon Bedrock",
+      "what_happened": "The Kimi K3 model, developed by Moonshot AI, is now available on Amazon Bedrock. This is an open-weight model that offers powerful options for coding and knowledge work. It features native vision capabilities and a large context window of 1 million tokens.",
+      "why_it_matters": "This model will help developers create more powerful and cost-effective AI solutions, especially for vision-based applications and working with large datasets.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/"
     }
   }
 }
