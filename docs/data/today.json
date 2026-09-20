@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-19T12:59:35.749804+05:30",
-  "weekday": "Saturday",
+  "generated_at": "2026-09-20T13:24:11.882696+05:30",
+  "weekday": "Sunday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. એમેઝોન બેડરોક પર નવું Kimi K3 મોડેલ ઉપલબ્ધ",
-      "what_happened": "Moonshot AI દ્વારા વિકસિત Kimi K3 મોડેલ હવે એમેઝોન બેડરોક પર ઉપલબ્ધ છે. આ એક ઓપન-વેઇટ મોડેલ છે જે કોડિંગ અને નોલેજ વર્ક માટે શક્તિશાળી વિકલ્પો પ્રદાન કરે છે. તેમાં નેટિવ વિઝન ક્ષમતા અને 10 લાખ ટોકનની મોટી કોન્ટેક્સ્ટ વિન્ડો છે.",
-      "why_it_matters": "આ મોડેલ ડેવલપર્સને વધુ શક્તિશાળી અને ખર્ચ-અસરકારક AI સોલ્યુશન્સ બનાવવામાં મદદ કરશે, ખાસ કરીને વિઝન-આધારિત એપ્લિકેશન્સ અને મોટા ડેટા સેટ સાથે કામ કરવા માટે.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/"
+      "headline": "1. Unity એ Claude Code અને OpenAI Codex માટે સત્તાવાર પ્લગઇન્સ લોન્ચ કર્યા.",
+      "what_happened": "Unity એ Claude Code અને OpenAI Codex માટે સત્તાવાર પ્લગઇન્સ લોન્ચ કર્યા છે. આનાથી AI એજન્ટ્સ જૂના ટ્યુટોરિયલ્સનો ઉપયોગ કરવાનું બંધ કરશે અને ડેવલપર્સને વધુ અપડેટેડ અને કાર્યક્ષમ કોડિંગ સહાય મળશે.",
+      "why_it_matters": "આ ડેવલપર્સ માટે AI-સંચાલિત કોડિંગ ટૂલ્સને વધુ સુલભ અને વિશ્વસનીય બનાવે છે, ખાસ કરીને ગેમ ડેવલપમેન્ટ અને 3D એપ્લિકેશન્સમાં.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
     },
     "hi": {
-      "headline": "1. एमेज़ॉन बेडरॉक पर नया Kimi K3 मॉडल उपलब्ध",
-      "what_happened": "Moonshot AI द्वारा विकसित Kimi K3 मॉडल अब एमेज़ॉन बेडरॉक पर उपलब्ध है। यह एक ओपन-वेट मॉडल है जो कोडिंग और नॉलेज वर्क के लिए शक्तिशाली विकल्प प्रदान करता है। इसमें नेटिव विजन क्षमता और 10 लाख टोकन की बड़ी कॉन्टेक्स्ट विंडो है।",
-      "why_it_matters": "यह मॉडल डेवलपर्स को अधिक शक्तिशाली और लागत-प्रभावी AI सॉल्यूशंस बनाने में मदद करेगा, खासकर विजन-आधारित एप्लीकेशंस और बड़े डेटा सेट के साथ काम करने के लिए।",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/"
+      "headline": "1. Unity ने Claude Code और OpenAI Codex के लिए आधिकारिक प्लगइन्स लॉन्च किए।",
+      "what_happened": "Unity ने Claude Code और OpenAI Codex के लिए आधिकारिक प्लगइन्स लॉन्च किए हैं। इससे AI एजेंट्स पुराने ट्यूटोरियल का उपयोग करना बंद कर देंगे और डेवलपर्स को अधिक अपडेटेड और कुशल कोडिंग सहायता मिलेगी।",
+      "why_it_matters": "यह डेवलपर्स के लिए AI-संचालित कोडिंग टूल्स को अधिक सुलभ और विश्वसनीय बनाता है, खासकर गेम डेवलपमेंट और 3D एप्लीकेशन्स में।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
     },
     "en": {
-      "headline": "1. New Kimi K3 Model Available on Amazon Bedrock",
-      "what_happened": "The Kimi K3 model, developed by Moonshot AI, is now available on Amazon Bedrock. This is an open-weight model that offers powerful options for coding and knowledge work. It features native vision capabilities and a large context window of 1 million tokens.",
-      "why_it_matters": "This model will help developers create more powerful and cost-effective AI solutions, especially for vision-based applications and working with large datasets.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-on-amazon-bedrock/"
+      "headline": "1. Unity Launches Official Plugins for Claude Code and OpenAI Codex",
+      "what_happened": "Unity has launched official plugins for Claude Code and OpenAI Codex. This means AI agents will stop using outdated tutorials, and developers will get more updated and efficient coding help.",
+      "why_it_matters": "This makes AI-powered coding tools more accessible and reliable for developers, especially in game development and 3D applications.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
     }
   }
 }
