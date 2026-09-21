@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-20T13:24:11.882696+05:30",
-  "weekday": "Sunday",
+  "generated_at": "2026-09-21T13:38:05.525970+05:30",
+  "weekday": "Monday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Unity એ Claude Code અને OpenAI Codex માટે સત્તાવાર પ્લગઇન્સ લોન્ચ કર્યા.",
-      "what_happened": "Unity એ Claude Code અને OpenAI Codex માટે સત્તાવાર પ્લગઇન્સ લોન્ચ કર્યા છે. આનાથી AI એજન્ટ્સ જૂના ટ્યુટોરિયલ્સનો ઉપયોગ કરવાનું બંધ કરશે અને ડેવલપર્સને વધુ અપડેટેડ અને કાર્યક્ષમ કોડિંગ સહાય મળશે.",
-      "why_it_matters": "આ ડેવલપર્સ માટે AI-સંચાલિત કોડિંગ ટૂલ્સને વધુ સુલભ અને વિશ્વસનીય બનાવે છે, ખાસ કરીને ગેમ ડેવલપમેન્ટ અને 3D એપ્લિકેશન્સમાં.",
+      "headline": "1. અલીબાબાનું Qwen-Image-2.1 મોડેલ ઓપન-વેઇટ ઇમેજ જનરેશનમાં ક્લોઝ્ડ મોડેલ્સને હરાવવાનો દાવો કરે છે.",
+      "what_happened": "અલીબાબાએ Qwen-Image-2.1 નામનું એક નવું ઓપન-વેઇટ ઇમેજ જનરેશન મોડેલ રજૂ કર્યું છે. આ મોડેલ માત્ર 7 બિલિયન પેરામીટર્સ સાથે ક્લોઝ્ડ-સોર્સ મોડેલ્સ કરતાં વધુ સારું પ્રદર્શન કરવાનો દાવો કરે છે.",
+      "why_it_matters": "આનો અર્થ એ છે કે ઓછા સંસાધનો સાથે પણ ઉચ્ચ ગુણવત્તાની ઇમેજ જનરેશન શક્ય બનશે, જે AI ડેવલપર્સ અને વ્યવસાયો માટે વધુ સુલભ અને કાર્યક્ષમ બનશે.",
       "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
+      "source_url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
     },
     "hi": {
-      "headline": "1. Unity ने Claude Code और OpenAI Codex के लिए आधिकारिक प्लगइन्स लॉन्च किए।",
-      "what_happened": "Unity ने Claude Code और OpenAI Codex के लिए आधिकारिक प्लगइन्स लॉन्च किए हैं। इससे AI एजेंट्स पुराने ट्यूटोरियल का उपयोग करना बंद कर देंगे और डेवलपर्स को अधिक अपडेटेड और कुशल कोडिंग सहायता मिलेगी।",
-      "why_it_matters": "यह डेवलपर्स के लिए AI-संचालित कोडिंग टूल्स को अधिक सुलभ और विश्वसनीय बनाता है, खासकर गेम डेवलपमेंट और 3D एप्लीकेशन्स में।",
+      "headline": "1. अलीबाबा का Qwen-Image-2.1 मॉडल ओपन-वेट इमेज जनरेशन में क्लोज्ड मॉडल्स को हराने का दावा करता है।",
+      "what_happened": "अलीबाबा ने Qwen-Image-2.1 नाम का एक नया ओपन-वेट इमेज जनरेशन मॉडल पेश किया है। यह मॉडल सिर्फ 7 बिलियन पैरामीटर्स के साथ क्लोज्ड-सोर्स मॉडल्स से बेहतर प्रदर्शन करने का दावा करता है।",
+      "why_it_matters": "इसका मतलब यह है कि कम संसाधनों के साथ भी उच्च गुणवत्ता वाली इमेज जनरेशन संभव हो पाएगी, जो AI डेवलपर्स और व्यवसायों के लिए अधिक सुलभ और कुशल बनेगी।",
       "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
+      "source_url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
     },
     "en": {
-      "headline": "1. Unity Launches Official Plugins for Claude Code and OpenAI Codex",
-      "what_happened": "Unity has launched official plugins for Claude Code and OpenAI Codex. This means AI agents will stop using outdated tutorials, and developers will get more updated and efficient coding help.",
-      "why_it_matters": "This makes AI-powered coding tools more accessible and reliable for developers, especially in game development and 3D applications.",
+      "headline": "1. Alibaba's Qwen-Image-2.1 Model Claims to Beat Closed Models in Open-Weight Image Generation",
+      "what_happened": "Alibaba has introduced a new open-weight image generation model called Qwen-Image-2.1. This model claims to perform better than closed-source models with only 7 billion parameters.",
+      "why_it_matters": "This means that high-quality image generation will be possible even with fewer resources, making it more accessible and efficient for AI developers and businesses.",
       "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/unity-launches-official-plugins-for-claude-code-and-openai-codex-to-stop-ai-agents-from-using-outdated-tutorials/"
+      "source_url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
     }
   }
 }
