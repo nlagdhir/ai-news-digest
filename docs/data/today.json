@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-21T13:38:05.525970+05:30",
-  "weekday": "Monday",
-  "story_count": 10,
+  "generated_at": "2026-09-22T13:22:57.175747+05:30",
+  "weekday": "Tuesday",
+  "story_count": 7,
   "stories": {
     "gu": {
-      "headline": "1. અલીબાબાનું Qwen-Image-2.1 મોડેલ ઓપન-વેઇટ ઇમેજ જનરેશનમાં ક્લોઝ્ડ મોડેલ્સને હરાવવાનો દાવો કરે છે.",
-      "what_happened": "અલીબાબાએ Qwen-Image-2.1 નામનું એક નવું ઓપન-વેઇટ ઇમેજ જનરેશન મોડેલ રજૂ કર્યું છે. આ મોડેલ માત્ર 7 બિલિયન પેરામીટર્સ સાથે ક્લોઝ્ડ-સોર્સ મોડેલ્સ કરતાં વધુ સારું પ્રદર્શન કરવાનો દાવો કરે છે.",
-      "why_it_matters": "આનો અર્થ એ છે કે ઓછા સંસાધનો સાથે પણ ઉચ્ચ ગુણવત્તાની ઇમેજ જનરેશન શક્ય બનશે, જે AI ડેવલપર્સ અને વ્યવસાયો માટે વધુ સુલભ અને કાર્યક્ષમ બનશે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
+      "headline": "1. Higgsfield AI એ GPT-6 Astra નો ઉપયોગ કરીને નવા વિડિયો ફીચર્સ લોન્ચ કર્યા",
+      "what_happened": "Higgsfield AI એ તેમના પ્લેટફોર્મ પર નવા વિડિયો ફીચર્સ રજૂ કર્યા છે, જે GPT-6 Astra ના ઉપયોગથી નાના વ્યવસાયો માટે વિડિયો જાહેરાતો બનાવવાનું સરળ બનાવે છે.",
+      "why_it_matters": "આ દર્શાવે છે કે કેવી રીતે અદ્યતન AI મોડેલો (જેમ કે GPT-6 Astra) નો ઉપયોગ કરીને સર્જનાત્મક સામગ્રી નિર્માણ પ્રક્રિયાઓને ઝડપી અને વધુ કાર્યક્ષમ બનાવી શકાય છે, ખાસ કરીને નાના વ્યવસાયો માટે.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
     "hi": {
-      "headline": "1. अलीबाबा का Qwen-Image-2.1 मॉडल ओपन-वेट इमेज जनरेशन में क्लोज्ड मॉडल्स को हराने का दावा करता है।",
-      "what_happened": "अलीबाबा ने Qwen-Image-2.1 नाम का एक नया ओपन-वेट इमेज जनरेशन मॉडल पेश किया है। यह मॉडल सिर्फ 7 बिलियन पैरामीटर्स के साथ क्लोज्ड-सोर्स मॉडल्स से बेहतर प्रदर्शन करने का दावा करता है।",
-      "why_it_matters": "इसका मतलब यह है कि कम संसाधनों के साथ भी उच्च गुणवत्ता वाली इमेज जनरेशन संभव हो पाएगी, जो AI डेवलपर्स और व्यवसायों के लिए अधिक सुलभ और कुशल बनेगी।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
+      "headline": "1. Higgsfield AI ने GPT-6 Astra का उपयोग करके नए वीडियो फीचर्स लॉन्च किए",
+      "what_happened": "Higgsfield AI ने अपने प्लेटफॉर्म पर नए वीडियो फीचर्स पेश किए हैं, जो GPT-6 Astra के उपयोग से छोटे व्यवसायों के लिए वीडियो विज्ञापन बनाना आसान बनाते हैं।",
+      "why_it_matters": "यह दर्शाता है कि कैसे उन्नत AI मॉडलों (जैसे GPT-6 Astra) का उपयोग करके रचनात्मक सामग्री निर्माण प्रक्रियाओं को तेज और अधिक कुशल बनाया जा सकता है, खासकर छोटे व्यवसायों के लिए।",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
     "en": {
-      "headline": "1. Alibaba's Qwen-Image-2.1 Model Claims to Beat Closed Models in Open-Weight Image Generation",
-      "what_happened": "Alibaba has introduced a new open-weight image generation model called Qwen-Image-2.1. This model claims to perform better than closed-source models with only 7 billion parameters.",
-      "why_it_matters": "This means that high-quality image generation will be possible even with fewer resources, making it more accessible and efficient for AI developers and businesses.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/alibabas-open-weight-qwen-image-2-1-claims-to-beat-closed-models-in-image-generation-with-just-7-billion-parameters/"
+      "headline": "1. Higgsfield AI Launches New Video Features Using GPT-6 Astra",
+      "what_happened": "Higgsfield AI has introduced new video features on their platform, making it easier for small businesses to create video ads using GPT-6 Astra.",
+      "why_it_matters": "This shows how advanced AI models (like GPT-6 Astra) can be used to make creative content creation processes faster and more efficient, especially for small businesses.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     }
   }
 }
