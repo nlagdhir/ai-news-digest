@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-22T13:22:57.175747+05:30",
-  "weekday": "Tuesday",
-  "story_count": 7,
+  "generated_at": "2026-09-23T13:26:13.860660+05:30",
+  "weekday": "Wednesday",
+  "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Higgsfield AI એ GPT-6 Astra નો ઉપયોગ કરીને નવા વિડિયો ફીચર્સ લોન્ચ કર્યા",
-      "what_happened": "Higgsfield AI એ તેમના પ્લેટફોર્મ પર નવા વિડિયો ફીચર્સ રજૂ કર્યા છે, જે GPT-6 Astra ના ઉપયોગથી નાના વ્યવસાયો માટે વિડિયો જાહેરાતો બનાવવાનું સરળ બનાવે છે.",
-      "why_it_matters": "આ દર્શાવે છે કે કેવી રીતે અદ્યતન AI મોડેલો (જેમ કે GPT-6 Astra) નો ઉપયોગ કરીને સર્જનાત્મક સામગ્રી નિર્માણ પ્રક્રિયાઓને ઝડપી અને વધુ કાર્યક્ષમ બનાવી શકાય છે, ખાસ કરીને નાના વ્યવસાયો માટે.",
+      "headline": "1. OpenAI એ GPT-6 Sol અને Luna મોડેલ્સ રજૂ કર્યા",
+      "what_happened": "OpenAI એ તેમના નવા ફ્રન્ટિયર ઇન્ટેલિજન્સ મોડેલ્સ GPT-6 Sol અને Luna લોન્ચ કર્યા છે. આ મોડેલ્સ ક્ષમતા અને ખર્ચના વિવિધ સંતુલન સાથે રોજિંદા કાર્યમાં મદદ કરશે.",
+      "why_it_matters": "આ નવા મોડેલ્સ AI ક્ષમતાઓમાં નોંધપાત્ર પ્રગતિ દર્શાવે છે, જે વધુ શક્તિશાળી અને કાર્યક્ષમ AI એપ્લિકેશન્સ બનાવવાનો માર્ગ ખોલે છે.",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
     },
     "hi": {
-      "headline": "1. Higgsfield AI ने GPT-6 Astra का उपयोग करके नए वीडियो फीचर्स लॉन्च किए",
-      "what_happened": "Higgsfield AI ने अपने प्लेटफॉर्म पर नए वीडियो फीचर्स पेश किए हैं, जो GPT-6 Astra के उपयोग से छोटे व्यवसायों के लिए वीडियो विज्ञापन बनाना आसान बनाते हैं।",
-      "why_it_matters": "यह दर्शाता है कि कैसे उन्नत AI मॉडलों (जैसे GPT-6 Astra) का उपयोग करके रचनात्मक सामग्री निर्माण प्रक्रियाओं को तेज और अधिक कुशल बनाया जा सकता है, खासकर छोटे व्यवसायों के लिए।",
+      "headline": "1. OpenAI ने GPT-6 Sol और Luna मॉडल्स लॉन्च किए",
+      "what_happened": "OpenAI ने अपने नए फ्रंटियर इंटेलिजेंस मॉडल्स GPT-6 Sol और Luna लॉन्च किए हैं। ये मॉडल्स क्षमता और लागत के विभिन्न संतुलन के साथ रोजमर्रा के कार्यों में मदद करेंगे।",
+      "why_it_matters": "ये नए मॉडल्स AI क्षमताओं में महत्वपूर्ण प्रगति दर्शाते हैं, जो अधिक शक्तिशाली और कुशल AI एप्लीकेशन्स बनाने का मार्ग प्रशस्त करते हैं।",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
     },
     "en": {
-      "headline": "1. Higgsfield AI Launches New Video Features Using GPT-6 Astra",
-      "what_happened": "Higgsfield AI has introduced new video features on their platform, making it easier for small businesses to create video ads using GPT-6 Astra.",
-      "why_it_matters": "This shows how advanced AI models (like GPT-6 Astra) can be used to make creative content creation processes faster and more efficient, especially for small businesses.",
+      "headline": "1. OpenAI Introduces GPT-6 Sol and Luna Models",
+      "what_happened": "OpenAI has launched its new frontier intelligence models, GPT-6 Sol and Luna. These models will assist with daily tasks, offering different balances of capability and cost.",
+      "why_it_matters": "These new models show significant progress in AI capabilities, paving the way for more powerful and efficient AI applications.",
       "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
     }
   }
 }
