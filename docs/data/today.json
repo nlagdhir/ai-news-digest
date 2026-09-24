@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-23T13:26:13.860660+05:30",
-  "weekday": "Wednesday",
+  "generated_at": "2026-09-24T13:15:13.104418+05:30",
+  "weekday": "Thursday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. OpenAI એ GPT-6 Sol અને Luna મોડેલ્સ રજૂ કર્યા",
-      "what_happened": "OpenAI એ તેમના નવા ફ્રન્ટિયર ઇન્ટેલિજન્સ મોડેલ્સ GPT-6 Sol અને Luna લોન્ચ કર્યા છે. આ મોડેલ્સ ક્ષમતા અને ખર્ચના વિવિધ સંતુલન સાથે રોજિંદા કાર્યમાં મદદ કરશે.",
-      "why_it_matters": "આ નવા મોડેલ્સ AI ક્ષમતાઓમાં નોંધપાત્ર પ્રગતિ દર્શાવે છે, જે વધુ શક્તિશાળી અને કાર્યક્ષમ AI એપ્લિકેશન્સ બનાવવાનો માર્ગ ખોલે છે.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+      "headline": "1. એમેઝોન બેડરોક પર ઓપન-વેઇટ મોડેલ્સ સાથે AI કોડિંગ એજન્ટનો ઉપયોગ કરો",
+      "what_happened": "AWS એ Amazon Bedrock પર OpenCode નામના ટર્મિનલ-નેટિવ AI કોડિંગ એજન્ટનો ઉપયોગ કેવી રીતે કરવો તે દર્શાવ્યું છે. આ સુરક્ષિત, લવચીક અને પે-પર-યુઝ કોડિંગ સહાયક પ્રદાન કરે છે.",
+      "why_it_matters": "આ ડેવલપર્સ માટે કોડિંગ પ્રક્રિયાને ઝડપી અને વધુ કાર્યક્ષમ બનાવવામાં મદદ કરે છે. ઓપન-વેઇટ મોડેલ્સનો ઉપયોગ ખર્ચ ઘટાડી શકે છે અને કસ્ટમાઇઝેશનની વધુ તકો પૂરી પાડી શકે છે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"
     },
     "hi": {
-      "headline": "1. OpenAI ने GPT-6 Sol और Luna मॉडल्स लॉन्च किए",
-      "what_happened": "OpenAI ने अपने नए फ्रंटियर इंटेलिजेंस मॉडल्स GPT-6 Sol और Luna लॉन्च किए हैं। ये मॉडल्स क्षमता और लागत के विभिन्न संतुलन के साथ रोजमर्रा के कार्यों में मदद करेंगे।",
-      "why_it_matters": "ये नए मॉडल्स AI क्षमताओं में महत्वपूर्ण प्रगति दर्शाते हैं, जो अधिक शक्तिशाली और कुशल AI एप्लीकेशन्स बनाने का मार्ग प्रशस्त करते हैं।",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+      "headline": "1. Amazon Bedrock पर ओपन-वेट मॉडल्स के साथ AI कोडिंग एजेंट का उपयोग करें",
+      "what_happened": "AWS ने दिखाया है कि Amazon Bedrock पर OpenCode नामक टर्मिनल-नेटिव AI कोडिंग एजेंट का उपयोग कैसे करें। यह एक सुरक्षित, लचीला और पे-पर-यूज़ कोडिंग सहायक प्रदान करता है।",
+      "why_it_matters": "यह डेवलपर्स के लिए कोडिंग प्रक्रिया को तेज़ और अधिक कुशल बनाने में मदद करता है। ओपन-वेट मॉडल्स का उपयोग लागत कम कर सकता है और कस्टमाइज़ेशन के अधिक अवसर प्रदान कर सकता है।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"
     },
     "en": {
-      "headline": "1. OpenAI Introduces GPT-6 Sol and Luna Models",
-      "what_happened": "OpenAI has launched its new frontier intelligence models, GPT-6 Sol and Luna. These models will assist with daily tasks, offering different balances of capability and cost.",
-      "why_it_matters": "These new models show significant progress in AI capabilities, paving the way for more powerful and efficient AI applications.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+      "headline": "1. Use an AI Coding Agent with Open-Weight Models on Amazon Bedrock",
+      "what_happened": "AWS has shown how to use OpenCode, a terminal-native AI coding agent, on Amazon Bedrock. This offers a secure, flexible, and pay-per-use coding assistant.",
+      "why_it_matters": "This helps developers make the coding process faster and more efficient. Using open-weight models can lower costs and offer more customization options.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"
     }
   }
 }
