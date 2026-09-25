@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-24T13:15:13.104418+05:30",
-  "weekday": "Thursday",
-  "story_count": 10,
+  "generated_at": "2026-09-25T13:35:07.871466+05:30",
+  "weekday": "Friday",
+  "story_count": 9,
   "stories": {
     "gu": {
-      "headline": "1. એમેઝોન બેડરોક પર ઓપન-વેઇટ મોડેલ્સ સાથે AI કોડિંગ એજન્ટનો ઉપયોગ કરો",
-      "what_happened": "AWS એ Amazon Bedrock પર OpenCode નામના ટર્મિનલ-નેટિવ AI કોડિંગ એજન્ટનો ઉપયોગ કેવી રીતે કરવો તે દર્શાવ્યું છે. આ સુરક્ષિત, લવચીક અને પે-પર-યુઝ કોડિંગ સહાયક પ્રદાન કરે છે.",
-      "why_it_matters": "આ ડેવલપર્સ માટે કોડિંગ પ્રક્રિયાને ઝડપી અને વધુ કાર્યક્ષમ બનાવવામાં મદદ કરે છે. ઓપન-વેઇટ મોડેલ્સનો ઉપયોગ ખર્ચ ઘટાડી શકે છે અને કસ્ટમાઇઝેશનની વધુ તકો પૂરી પાડી શકે છે.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"
+      "headline": "1. Google Gemini 3.8 Live Avatar સાથે આવ્યું.",
+      "what_happened": "Google DeepMind એ Gemini 3.8 Live રજૂ કર્યું છે, જેમાં 'Live Avatar' નામની નવી સુવિધા છે. આનાથી યુઝર્સ AI સાથે વધુ ઇન્ટરેક્ટિવ રીતે વાતચીત કરી શકશે.",
+      "why_it_matters": "આ સુવિધા AI ને વધુ વ્યક્તિગત અને ઇન્ટરેક્ટિવ બનાવે છે, જે ગ્રાહક સેવા, વર્ચ્યુઅલ સહાયકો અને શિક્ષણ જેવા ક્ષેત્રોમાં ક્રાંતિ લાવી શકે છે.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
     },
     "hi": {
-      "headline": "1. Amazon Bedrock पर ओपन-वेट मॉडल्स के साथ AI कोडिंग एजेंट का उपयोग करें",
-      "what_happened": "AWS ने दिखाया है कि Amazon Bedrock पर OpenCode नामक टर्मिनल-नेटिव AI कोडिंग एजेंट का उपयोग कैसे करें। यह एक सुरक्षित, लचीला और पे-पर-यूज़ कोडिंग सहायक प्रदान करता है।",
-      "why_it_matters": "यह डेवलपर्स के लिए कोडिंग प्रक्रिया को तेज़ और अधिक कुशल बनाने में मदद करता है। ओपन-वेट मॉडल्स का उपयोग लागत कम कर सकता है और कस्टमाइज़ेशन के अधिक अवसर प्रदान कर सकता है।",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"
+      "headline": "1. Google Gemini 3.8 Live Avatar के साथ आया।",
+      "what_happened": "Google DeepMind ने Gemini 3.8 Live पेश किया है, जिसमें 'Live Avatar' नाम की एक नई सुविधा है। इससे यूजर्स AI के साथ और अधिक इंटरैक्टिव तरीके से बातचीत कर सकेंगे।",
+      "why_it_matters": "यह सुविधा AI को और अधिक व्यक्तिगत और इंटरैक्टिव बनाती है, जो ग्राहक सेवा, वर्चुअल सहायकों और शिक्षा जैसे क्षेत्रों में क्रांति ला सकती है।",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
     },
     "en": {
-      "headline": "1. Use an AI Coding Agent with Open-Weight Models on Amazon Bedrock",
-      "what_happened": "AWS has shown how to use OpenCode, a terminal-native AI coding agent, on Amazon Bedrock. This offers a secure, flexible, and pay-per-use coding assistant.",
-      "why_it_matters": "This helps developers make the coding process faster and more efficient. Using open-weight models can lower costs and offer more customization options.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/use-open-weight-models-as-your-ai-coding-agent-with-amazon-bedrock/"
+      "headline": "1. Google Gemini 3.8 Launches with Live Avatar",
+      "what_happened": "Google DeepMind has introduced Gemini 3.8 Live, which includes a new feature called 'Live Avatar'. This will allow users to interact with AI in a more interactive way.",
+      "why_it_matters": "This feature makes AI more personal and interactive, which could revolutionize areas like customer service, virtual assistants, and education.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
     }
   }
 }
