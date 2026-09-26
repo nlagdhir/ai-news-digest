@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-25T13:35:07.871466+05:30",
-  "weekday": "Friday",
-  "story_count": 9,
+  "generated_at": "2026-09-26T13:26:08.198419+05:30",
+  "weekday": "Saturday",
+  "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Google Gemini 3.8 Live Avatar સાથે આવ્યું.",
-      "what_happened": "Google DeepMind એ Gemini 3.8 Live રજૂ કર્યું છે, જેમાં 'Live Avatar' નામની નવી સુવિધા છે. આનાથી યુઝર્સ AI સાથે વધુ ઇન્ટરેક્ટિવ રીતે વાતચીત કરી શકશે.",
-      "why_it_matters": "આ સુવિધા AI ને વધુ વ્યક્તિગત અને ઇન્ટરેક્ટિવ બનાવે છે, જે ગ્રાહક સેવા, વર્ચ્યુઅલ સહાયકો અને શિક્ષણ જેવા ક્ષેત્રોમાં ક્રાંતિ લાવી શકે છે.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+      "headline": "1. વ્હાઇટ હાઉસે OpenAI અને Anthropic ને નવા AI મોડેલ્સ બ્રિટિશ ટેસ્ટર્સ સાથે શેર કરતા પહેલા U.S. સમીક્ષા માટે કહ્યું",
+      "what_happened": "અમેરિકી વ્હાઇટ હાઉસે OpenAI અને Anthropic જેવી અગ્રણી AI કંપનીઓને તેમના નવા AI મોડેલ્સ બ્રિટિશ ટેસ્ટર્સ સાથે શેર કરતા પહેલા U.S. સરકાર દ્વારા તેની સમીક્ષા કરાવવા જણાવ્યું છે. આ પગલું AI સુરક્ષા અને રાષ્ટ્રીય સુરક્ષા સુનિશ્ચિત કરવા માટે લેવામાં આવ્યું છે.",
+      "why_it_matters": "આ દર્શાવે છે કે સરકારો AI મોડેલ્સના વિકાસ અને જમાવટ પર વધુ નિયંત્રણ રાખવા માંગે છે, ખાસ કરીને ફ્રન્ટિયર AI મોડેલ્સ પર. આનાથી AI કંપનીઓ માટે નિયમનકારી પાલન (regulatory compliance) નું મહત્વ વધે છે.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
     },
     "hi": {
-      "headline": "1. Google Gemini 3.8 Live Avatar के साथ आया।",
-      "what_happened": "Google DeepMind ने Gemini 3.8 Live पेश किया है, जिसमें 'Live Avatar' नाम की एक नई सुविधा है। इससे यूजर्स AI के साथ और अधिक इंटरैक्टिव तरीके से बातचीत कर सकेंगे।",
-      "why_it_matters": "यह सुविधा AI को और अधिक व्यक्तिगत और इंटरैक्टिव बनाती है, जो ग्राहक सेवा, वर्चुअल सहायकों और शिक्षा जैसे क्षेत्रों में क्रांति ला सकती है।",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+      "headline": "1. व्हाइट हाउस ने OpenAI और Anthropic से कहा कि वे अपने नए AI मॉडल्स को ब्रिटिश टेस्टर्स के साथ साझा करने से पहले अमेरिकी सरकार से उनकी समीक्षा करवाएं",
+      "what_happened": "अमेरिकी व्हाइट हाउस ने OpenAI और Anthropic जैसी प्रमुख AI कंपनियों से कहा है कि वे अपने नए AI मॉडल्स को ब्रिटिश टेस्टर्स के साथ साझा करने से पहले अमेरिकी सरकार से उनकी समीक्षा करवाएं। यह कदम AI सुरक्षा और राष्ट्रीय सुरक्षा सुनिश्चित करने के लिए उठाया गया है।",
+      "why_it_matters": "यह दर्शाता है कि सरकारें AI मॉडल्स के विकास और तैनाती पर अधिक नियंत्रण रखना चाहती हैं, खासकर अत्याधुनिक (फ्रंटियर) AI मॉडल्स पर। इससे AI कंपनियों के लिए नियामक अनुपालन (regulatory compliance) का महत्व बढ़ जाता है।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
     },
     "en": {
-      "headline": "1. Google Gemini 3.8 Launches with Live Avatar",
-      "what_happened": "Google DeepMind has introduced Gemini 3.8 Live, which includes a new feature called 'Live Avatar'. This will allow users to interact with AI in a more interactive way.",
-      "why_it_matters": "This feature makes AI more personal and interactive, which could revolutionize areas like customer service, virtual assistants, and education.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
+      "headline": "1. White House Asks OpenAI and Anthropic for U.S. Review Before Sharing New AI Models with British Testers",
+      "what_happened": "The U.S. White House has asked leading AI companies like OpenAI and Anthropic to have their new AI models reviewed by the U.S. government before sharing them with British testers. This step was taken to ensure AI safety and national security.",
+      "why_it_matters": "This shows that governments want more control over the development and deployment of AI models, especially frontier AI models. This increases the importance of regulatory compliance for AI companies.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
     }
   }
 }
