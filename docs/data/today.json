@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-26T13:26:08.198419+05:30",
-  "weekday": "Saturday",
+  "generated_at": "2026-09-27T13:57:43.493038+05:30",
+  "weekday": "Sunday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. વ્હાઇટ હાઉસે OpenAI અને Anthropic ને નવા AI મોડેલ્સ બ્રિટિશ ટેસ્ટર્સ સાથે શેર કરતા પહેલા U.S. સમીક્ષા માટે કહ્યું",
-      "what_happened": "અમેરિકી વ્હાઇટ હાઉસે OpenAI અને Anthropic જેવી અગ્રણી AI કંપનીઓને તેમના નવા AI મોડેલ્સ બ્રિટિશ ટેસ્ટર્સ સાથે શેર કરતા પહેલા U.S. સરકાર દ્વારા તેની સમીક્ષા કરાવવા જણાવ્યું છે. આ પગલું AI સુરક્ષા અને રાષ્ટ્રીય સુરક્ષા સુનિશ્ચિત કરવા માટે લેવામાં આવ્યું છે.",
-      "why_it_matters": "આ દર્શાવે છે કે સરકારો AI મોડેલ્સના વિકાસ અને જમાવટ પર વધુ નિયંત્રણ રાખવા માંગે છે, ખાસ કરીને ફ્રન્ટિયર AI મોડેલ્સ પર. આનાથી AI કંપનીઓ માટે નિયમનકારી પાલન (regulatory compliance) નું મહત્વ વધે છે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
+      "headline": "1. ભારતમાં Google Gemini અને AI મોડ દ્વારા ફ્લિપકાર્ટ પરથી ખરીદીનું પરીક્ષણ",
+      "what_happened": "ગૂગલ ભારતમાં તેની AI સહાયક Gemini અને AI મોડ દ્વારા વોલમાર્ટની માલિકીના ફ્લિપકાર્ટ પરથી ઉત્પાદનો ખરીદવાની સુવિધાનું પરીક્ષણ કરી રહ્યું છે. આ સુવિધા હાલમાં અમુક ઉત્પાદનો અને વપરાશકર્તાઓ માટે મર્યાદિત છે, અને ઓક્ટોબરમાં તેનો વ્યાપક રોલઆઉટ થવાની યોજના છે.",
+      "why_it_matters": "આ એક મહત્વપૂર્ણ પગલું છે જે AI ને સીધા ઈ-કોમર્સમાં એકીકૃત કરે છે. તે વપરાશકર્તાઓ માટે ખરીદીના અનુભવને વધુ સરળ અને ઇન્ટરેક્ટિવ બનાવશે. ભારતીય બજારમાં AI ના વ્યાપક ઉપયોગ માટે આ એક મોટો સંકેત છે.",
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
     },
     "hi": {
-      "headline": "1. व्हाइट हाउस ने OpenAI और Anthropic से कहा कि वे अपने नए AI मॉडल्स को ब्रिटिश टेस्टर्स के साथ साझा करने से पहले अमेरिकी सरकार से उनकी समीक्षा करवाएं",
-      "what_happened": "अमेरिकी व्हाइट हाउस ने OpenAI और Anthropic जैसी प्रमुख AI कंपनियों से कहा है कि वे अपने नए AI मॉडल्स को ब्रिटिश टेस्टर्स के साथ साझा करने से पहले अमेरिकी सरकार से उनकी समीक्षा करवाएं। यह कदम AI सुरक्षा और राष्ट्रीय सुरक्षा सुनिश्चित करने के लिए उठाया गया है।",
-      "why_it_matters": "यह दर्शाता है कि सरकारें AI मॉडल्स के विकास और तैनाती पर अधिक नियंत्रण रखना चाहती हैं, खासकर अत्याधुनिक (फ्रंटियर) AI मॉडल्स पर। इससे AI कंपनियों के लिए नियामक अनुपालन (regulatory compliance) का महत्व बढ़ जाता है।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
+      "headline": "1. भारत में Google Gemini और AI मोड के ज़रिए Flipkart से खरीदारी का परीक्षण",
+      "what_happened": "गूगल भारत में अपने AI सहायक Gemini और AI मोड के ज़रिए वॉलमार्ट के स्वामित्व वाले Flipkart से उत्पाद खरीदने की सुविधा का परीक्षण कर रहा है। यह सुविधा फिलहाल कुछ उत्पादों और उपयोगकर्ताओं के लिए सीमित है, और अक्टूबर में इसे बड़े पैमाने पर शुरू करने की योजना है।",
+      "why_it_matters": "यह एक महत्वपूर्ण कदम है जो AI को सीधे ई-कॉमर्स में जोड़ता है। यह उपयोगकर्ताओं के लिए खरीदारी के अनुभव को और भी आसान और इंटरैक्टिव बनाएगा। यह भारतीय बाज़ार में AI के व्यापक उपयोग का एक बड़ा संकेत है।",
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
     },
     "en": {
-      "headline": "1. White House Asks OpenAI and Anthropic for U.S. Review Before Sharing New AI Models with British Testers",
-      "what_happened": "The U.S. White House has asked leading AI companies like OpenAI and Anthropic to have their new AI models reviewed by the U.S. government before sharing them with British testers. This step was taken to ensure AI safety and national security.",
-      "why_it_matters": "This shows that governments want more control over the development and deployment of AI models, especially frontier AI models. This increases the importance of regulatory compliance for AI companies.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/"
+      "headline": "1. Google Gemini and AI Mode Testing Shopping from Flipkart in India",
+      "what_happened": "Google is testing a feature in India that allows users to buy products from Walmart-owned Flipkart through its AI assistant Gemini and AI mode. This feature is currently limited to certain products and users, with a wider rollout planned for October.",
+      "why_it_matters": "This is an important step that integrates AI directly into e-commerce. It will make the shopping experience more simple and interactive for users. This also signals a major move towards the widespread use of AI in the Indian market.",
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
     }
   }
 }
