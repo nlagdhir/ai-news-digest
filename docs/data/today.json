@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-27T13:57:43.493038+05:30",
-  "weekday": "Sunday",
+  "generated_at": "2026-09-28T14:23:19.205965+05:30",
+  "weekday": "Monday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. ભારતમાં Google Gemini અને AI મોડ દ્વારા ફ્લિપકાર્ટ પરથી ખરીદીનું પરીક્ષણ",
-      "what_happened": "ગૂગલ ભારતમાં તેની AI સહાયક Gemini અને AI મોડ દ્વારા વોલમાર્ટની માલિકીના ફ્લિપકાર્ટ પરથી ઉત્પાદનો ખરીદવાની સુવિધાનું પરીક્ષણ કરી રહ્યું છે. આ સુવિધા હાલમાં અમુક ઉત્પાદનો અને વપરાશકર્તાઓ માટે મર્યાદિત છે, અને ઓક્ટોબરમાં તેનો વ્યાપક રોલઆઉટ થવાની યોજના છે.",
-      "why_it_matters": "આ એક મહત્વપૂર્ણ પગલું છે જે AI ને સીધા ઈ-કોમર્સમાં એકીકૃત કરે છે. તે વપરાશકર્તાઓ માટે ખરીદીના અનુભવને વધુ સરળ અને ઇન્ટરેક્ટિવ બનાવશે. ભારતીય બજારમાં AI ના વ્યાપક ઉપયોગ માટે આ એક મોટો સંકેત છે.",
-      "source_name": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+      "headline": "1. સંશોધકોએ GPT-6 Astra ને સીધા રોબોટ સાથે જોડીને અજાણ્યા રસોડાને સાફ કરાવ્યું",
+      "what_happened": "સંશોધકોએ OpenAI ના GPT-6 Astra મોડેલને એક રોબોટ સાથે સફળતાપૂર્વક જોડ્યું. આ રોબોટે અજાણ્યા રસોડામાં વસ્તુઓને ઓળખીને અને ગોઠવીને સફાઈ કરી, જે તેની ઉચ્ચ સ્તરની સમજણ અને અનુકૂલનક્ષમતા દર્શાવે છે.",
+      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટ્સ ભૌતિક દુનિયામાં જટિલ કાર્યોને સ્વતંત્ર રીતે હેન્ડલ કરી શકે છે. તે રોબોટિક્સ અને ઓટોમેશનમાં AI ના ભવિષ્ય માટે એક મોટું પગલું છે.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/"
     },
     "hi": {
-      "headline": "1. भारत में Google Gemini और AI मोड के ज़रिए Flipkart से खरीदारी का परीक्षण",
-      "what_happened": "गूगल भारत में अपने AI सहायक Gemini और AI मोड के ज़रिए वॉलमार्ट के स्वामित्व वाले Flipkart से उत्पाद खरीदने की सुविधा का परीक्षण कर रहा है। यह सुविधा फिलहाल कुछ उत्पादों और उपयोगकर्ताओं के लिए सीमित है, और अक्टूबर में इसे बड़े पैमाने पर शुरू करने की योजना है।",
-      "why_it_matters": "यह एक महत्वपूर्ण कदम है जो AI को सीधे ई-कॉमर्स में जोड़ता है। यह उपयोगकर्ताओं के लिए खरीदारी के अनुभव को और भी आसान और इंटरैक्टिव बनाएगा। यह भारतीय बाज़ार में AI के व्यापक उपयोग का एक बड़ा संकेत है।",
-      "source_name": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+      "headline": "1. शोधकर्ताओं ने GPT-6 Astra को सीधे रोबोट से जोड़कर एक अनजान रसोई को साफ करवाया",
+      "what_happened": "शोधकर्ताओं ने OpenAI के GPT-6 Astra मॉडल को एक रोबोट से सफलतापूर्वक जोड़ा। इस रोबोट ने एक अनजान रसोई में चीजों को पहचानकर और व्यवस्थित करके सफाई की, जो उसकी उच्च स्तर की समझ और अनुकूलनशीलता को दर्शाता है।",
+      "why_it_matters": "यह दर्शाता है कि AI एजेंट्स भौतिक दुनिया में जटिल कार्यों को स्वतंत्र रूप से संभाल सकते हैं। यह रोबोटिक्स और ऑटोमेशन में AI के भविष्य के लिए एक बड़ा कदम है।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/"
     },
     "en": {
-      "headline": "1. Google Gemini and AI Mode Testing Shopping from Flipkart in India",
-      "what_happened": "Google is testing a feature in India that allows users to buy products from Walmart-owned Flipkart through its AI assistant Gemini and AI mode. This feature is currently limited to certain products and users, with a wider rollout planned for October.",
-      "why_it_matters": "This is an important step that integrates AI directly into e-commerce. It will make the shopping experience more simple and interactive for users. This also signals a major move towards the widespread use of AI in the Indian market.",
-      "source_name": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+      "headline": "1. Researchers Connected GPT-6 Astra Directly to a Robot to Clean an Unfamiliar Kitchen",
+      "what_happened": "Researchers successfully linked OpenAI's GPT-6 Astra model with a robot. The robot then cleaned an unfamiliar kitchen by recognizing and arranging items, showing its advanced understanding and ability to adapt.",
+      "why_it_matters": "This shows that AI agents can independently manage complex tasks in the real world. It's a significant step forward for the future of AI in robotics and automation.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/"
     }
   }
 }
