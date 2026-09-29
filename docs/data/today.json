@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-28T14:23:19.205965+05:30",
-  "weekday": "Monday",
+  "generated_at": "2026-09-29T14:21:35.999253+05:30",
+  "weekday": "Tuesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. સંશોધકોએ GPT-6 Astra ને સીધા રોબોટ સાથે જોડીને અજાણ્યા રસોડાને સાફ કરાવ્યું",
-      "what_happened": "સંશોધકોએ OpenAI ના GPT-6 Astra મોડેલને એક રોબોટ સાથે સફળતાપૂર્વક જોડ્યું. આ રોબોટે અજાણ્યા રસોડામાં વસ્તુઓને ઓળખીને અને ગોઠવીને સફાઈ કરી, જે તેની ઉચ્ચ સ્તરની સમજણ અને અનુકૂલનક્ષમતા દર્શાવે છે.",
-      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટ્સ ભૌતિક દુનિયામાં જટિલ કાર્યોને સ્વતંત્ર રીતે હેન્ડલ કરી શકે છે. તે રોબોટિક્સ અને ઓટોમેશનમાં AI ના ભવિષ્ય માટે એક મોટું પગલું છે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/"
+      "headline": "1. AWS પર Claude Sonnet 5.5 રજૂ કરાયું",
+      "what_happened": "Anthropicનું નવું Claude Sonnet 5.5 મોડેલ હવે Amazon Bedrock અને AWS પર ઉપલબ્ધ છે. આ એક વધુ સ્માર્ટ અને કાર્યક્ષમ Sonnet મોડેલ છે, જે ખાસ કરીને કોડિંગ અને નોલેજ વર્ક માટે બનાવવામાં આવ્યું છે, અને તેની કાર્યક્ષમતા વધુ સારી હોવા છતાં ખર્ચ ઓછો છે.",
+      "why_it_matters": "આ મોડેલ ઓછા ખર્ચે વધુ સારી કામગીરી આપે છે, જે કંપનીઓ માટે AI એપ્લિકેશન્સને વધુ સુલભ બનાવશે. કોડિંગ અને નોલેજ મેનેજમેન્ટ જેવા કાર્યોમાં તેની કાર્યક્ષમતા નોંધપાત્ર સુધારો લાવી શકે છે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
     },
     "hi": {
-      "headline": "1. शोधकर्ताओं ने GPT-6 Astra को सीधे रोबोट से जोड़कर एक अनजान रसोई को साफ करवाया",
-      "what_happened": "शोधकर्ताओं ने OpenAI के GPT-6 Astra मॉडल को एक रोबोट से सफलतापूर्वक जोड़ा। इस रोबोट ने एक अनजान रसोई में चीजों को पहचानकर और व्यवस्थित करके सफाई की, जो उसकी उच्च स्तर की समझ और अनुकूलनशीलता को दर्शाता है।",
-      "why_it_matters": "यह दर्शाता है कि AI एजेंट्स भौतिक दुनिया में जटिल कार्यों को स्वतंत्र रूप से संभाल सकते हैं। यह रोबोटिक्स और ऑटोमेशन में AI के भविष्य के लिए एक बड़ा कदम है।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/"
+      "headline": "1. AWS पर Claude Sonnet 5.5 पेश किया गया",
+      "what_happened": "Anthropic का नया Claude Sonnet 5.5 मॉडल अब Amazon Bedrock और AWS पर उपलब्ध है। यह एक अधिक स्मार्ट और कुशल Sonnet मॉडल है, जो खासकर कोडिंग और नॉलेज वर्क के लिए बनाया गया है, और इसकी कार्यक्षमता बेहतर होने के बावजूद लागत कम है।",
+      "why_it_matters": "यह मॉडल कम लागत पर बेहतर प्रदर्शन देता है, जो कंपनियों के लिए AI एप्लीकेशन्स को अधिक सुलभ बनाएगा। कोडिंग और नॉलेज मैनेजमेंट जैसे कार्यों में इसकी कार्यक्षमता उल्लेखनीय सुधार ला सकती है।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
     },
     "en": {
-      "headline": "1. Researchers Connected GPT-6 Astra Directly to a Robot to Clean an Unfamiliar Kitchen",
-      "what_happened": "Researchers successfully linked OpenAI's GPT-6 Astra model with a robot. The robot then cleaned an unfamiliar kitchen by recognizing and arranging items, showing its advanced understanding and ability to adapt.",
-      "why_it_matters": "This shows that AI agents can independently manage complex tasks in the real world. It's a significant step forward for the future of AI in robotics and automation.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/"
+      "headline": "1. Claude Sonnet 5.5 Released on AWS",
+      "what_happened": "Anthropic's new Claude Sonnet 5.5 model is now available on Amazon Bedrock and AWS. This is a smarter and more efficient Sonnet model, specifically designed for coding and knowledge work, offering better performance at a lower cost.",
+      "why_it_matters": "This model provides better performance at a lower cost, making AI applications more accessible for companies. Its efficiency can bring significant improvements to tasks like coding and knowledge management.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
     }
   }
 }
