@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-29T14:21:35.999253+05:30",
-  "weekday": "Tuesday",
+  "generated_at": "2026-10-01T14:45:01.494509+05:30",
+  "weekday": "Thursday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. AWS પર Claude Sonnet 5.5 રજૂ કરાયું",
-      "what_happened": "Anthropicનું નવું Claude Sonnet 5.5 મોડેલ હવે Amazon Bedrock અને AWS પર ઉપલબ્ધ છે. આ એક વધુ સ્માર્ટ અને કાર્યક્ષમ Sonnet મોડેલ છે, જે ખાસ કરીને કોડિંગ અને નોલેજ વર્ક માટે બનાવવામાં આવ્યું છે, અને તેની કાર્યક્ષમતા વધુ સારી હોવા છતાં ખર્ચ ઓછો છે.",
-      "why_it_matters": "આ મોડેલ ઓછા ખર્ચે વધુ સારી કામગીરી આપે છે, જે કંપનીઓ માટે AI એપ્લિકેશન્સને વધુ સુલભ બનાવશે. કોડિંગ અને નોલેજ મેનેજમેન્ટ જેવા કાર્યોમાં તેની કાર્યક્ષમતા નોંધપાત્ર સુધારો લાવી શકે છે.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
+      "headline": "1. Google DeepMind એ Gemini 4 Argon મોડેલ રજૂ કર્યું",
+      "what_happened": "Google DeepMind એ તેમના આગામી \"ફ્રન્ટિયર ઇન્ટેલિજન્સ\" મોડેલ, Gemini 4 Argon ની જાહેરાત કરી છે. આ મોડેલ AI ક્ષમતાઓમાં નવી સીમાઓ સર કરશે તેવી અપેક્ષા છે.",
+      "why_it_matters": "આ એક મુખ્ય AI મોડેલ રિલીઝ છે જે ભવિષ્યના AI એપ્લીકેશન્સ અને સેવાઓ માટે પાયો નાખશે અને AI ક્ષમતાઓને વધુ આગળ વધારશે.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
     },
     "hi": {
-      "headline": "1. AWS पर Claude Sonnet 5.5 पेश किया गया",
-      "what_happened": "Anthropic का नया Claude Sonnet 5.5 मॉडल अब Amazon Bedrock और AWS पर उपलब्ध है। यह एक अधिक स्मार्ट और कुशल Sonnet मॉडल है, जो खासकर कोडिंग और नॉलेज वर्क के लिए बनाया गया है, और इसकी कार्यक्षमता बेहतर होने के बावजूद लागत कम है।",
-      "why_it_matters": "यह मॉडल कम लागत पर बेहतर प्रदर्शन देता है, जो कंपनियों के लिए AI एप्लीकेशन्स को अधिक सुलभ बनाएगा। कोडिंग और नॉलेज मैनेजमेंट जैसे कार्यों में इसकी कार्यक्षमता उल्लेखनीय सुधार ला सकती है।",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
+      "headline": "1. Google DeepMind ने Gemini 4 Argon मॉडल पेश किया",
+      "what_happened": "Google DeepMind ने अपने आगामी \"फ्रंटियर इंटेलिजेंस\" मॉडल, Gemini 4 Argon की घोषणा की है। उम्मीद है कि यह मॉडल AI क्षमताओं में नई ऊंचाइयों को छुएगा।",
+      "why_it_matters": "यह एक प्रमुख AI मॉडल रिलीज़ है जो भविष्य के AI एप्लीकेशन्स और सेवाओं के लिए नींव रखेगा और AI क्षमताओं को और आगे बढ़ाएगा।",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
     },
     "en": {
-      "headline": "1. Claude Sonnet 5.5 Released on AWS",
-      "what_happened": "Anthropic's new Claude Sonnet 5.5 model is now available on Amazon Bedrock and AWS. This is a smarter and more efficient Sonnet model, specifically designed for coding and knowledge work, offering better performance at a lower cost.",
-      "why_it_matters": "This model provides better performance at a lower cost, making AI applications more accessible for companies. Its efficiency can bring significant improvements to tasks like coding and knowledge management.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-sonnet-5-5-on-aws/"
+      "headline": "1. Google DeepMind Unveils Gemini 4 Argon Model",
+      "what_happened": "Google DeepMind has announced Gemini 4 Argon, their upcoming \"frontier intelligence\" model. This model is expected to push new boundaries in AI capabilities.",
+      "why_it_matters": "This is a major AI model release that will lay the foundation for future AI applications and services, and further advance AI capabilities.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
     }
   }
 }
