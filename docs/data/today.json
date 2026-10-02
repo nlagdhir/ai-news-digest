@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-01T14:45:01.494509+05:30",
-  "weekday": "Thursday",
+  "generated_at": "2026-10-02T14:18:34.768904+05:30",
+  "weekday": "Friday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Google DeepMind એ Gemini 4 Argon મોડેલ રજૂ કર્યું",
-      "what_happened": "Google DeepMind એ તેમના આગામી \"ફ્રન્ટિયર ઇન્ટેલિજન્સ\" મોડેલ, Gemini 4 Argon ની જાહેરાત કરી છે. આ મોડેલ AI ક્ષમતાઓમાં નવી સીમાઓ સર કરશે તેવી અપેક્ષા છે.",
-      "why_it_matters": "આ એક મુખ્ય AI મોડેલ રિલીઝ છે જે ભવિષ્યના AI એપ્લીકેશન્સ અને સેવાઓ માટે પાયો નાખશે અને AI ક્ષમતાઓને વધુ આગળ વધારશે.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      "headline": "1. OpenAI નું નવું GPT-6 Astra Ultrafast મોડેલ હવે NVIDIA GPUs પર ઉપલબ્ધ",
+      "what_happened": "OpenAI એ તેનું નવું અને અત્યંત ઝડપી GPT-6 Astra Ultrafast મોડેલ લોન્ચ કર્યું છે, જે હવે OpenAI API અને ChatGPT Work તથા Codex યુઝર્સ માટે ઉપલબ્ધ છે. આ મોડેલ NVIDIA Blackwell GPUs પર ચાલે છે, જે તેની કાર્યક્ષમતામાં નોંધપાત્ર વધારો કરે છે.",
+      "why_it_matters": "આ નવું, ઝડપી મોડેલ AI એપ્લિકેશન્સની કામગીરીમાં સુધારો કરશે. ખાસ કરીને એન્ટરપ્રાઇઝ યુઝર્સ માટે, તે જટિલ કાર્યોને વધુ ઝડપથી અને અસરકારક રીતે પૂર્ણ કરવામાં મદદ કરશે, જેનાથી ઉત્પાદકતા વધશે.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/"
     },
     "hi": {
-      "headline": "1. Google DeepMind ने Gemini 4 Argon मॉडल पेश किया",
-      "what_happened": "Google DeepMind ने अपने आगामी \"फ्रंटियर इंटेलिजेंस\" मॉडल, Gemini 4 Argon की घोषणा की है। उम्मीद है कि यह मॉडल AI क्षमताओं में नई ऊंचाइयों को छुएगा।",
-      "why_it_matters": "यह एक प्रमुख AI मॉडल रिलीज़ है जो भविष्य के AI एप्लीकेशन्स और सेवाओं के लिए नींव रखेगा और AI क्षमताओं को और आगे बढ़ाएगा।",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      "headline": "1. OpenAI का नया GPT-6 Astra Ultrafast मॉडल अब NVIDIA GPUs पर उपलब्ध",
+      "what_happened": "OpenAI ने अपना नया और बेहद तेज़ GPT-6 Astra Ultrafast मॉडल लॉन्च किया है, जो अब OpenAI API और ChatGPT Work तथा Codex यूज़र्स के लिए उपलब्ध है। यह मॉडल NVIDIA Blackwell GPUs पर चलता है, जिससे इसकी कार्यक्षमता में काफी वृद्धि होती है।",
+      "why_it_matters": "यह नया, तेज़ मॉडल AI एप्लिकेशन्स के प्रदर्शन में सुधार करेगा। खासकर एंटरप्राइज़ यूज़र्स के लिए, यह जटिल कार्यों को तेज़ी से और प्रभावी ढंग से पूरा करने में मदद करेगा, जिससे उत्पादकता बढ़ेगी।",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/"
     },
     "en": {
-      "headline": "1. Google DeepMind Unveils Gemini 4 Argon Model",
-      "what_happened": "Google DeepMind has announced Gemini 4 Argon, their upcoming \"frontier intelligence\" model. This model is expected to push new boundaries in AI capabilities.",
-      "why_it_matters": "This is a major AI model release that will lay the foundation for future AI applications and services, and further advance AI capabilities.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
+      "headline": "1. OpenAI's New GPT-6 Astra Ultrafast Model Now Available on NVIDIA GPUs",
+      "what_happened": "OpenAI has launched its new and extremely fast GPT-6 Astra Ultrafast model, which is now available to OpenAI API, ChatGPT Work, and Codex users. This model runs on NVIDIA Blackwell GPUs, significantly boosting its performance.",
+      "why_it_matters": "This new, faster model will improve the performance of AI applications. Especially for enterprise users, it will help complete complex tasks more quickly and efficiently, thereby increasing productivity.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/"
     }
   }
 }
