@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-03T13:56:05.302562+05:30",
-  "weekday": "Saturday",
+  "generated_at": "2026-10-04T14:09:20.424048+05:30",
+  "weekday": "Sunday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Google Gemini 4 Argon 1 મિલિયન ટોકન આઉટપુટ વિન્ડો સાથે લોન્ચ થયું",
-      "what_happened": "Google એ તેનું નવું Gemini 4 Argon મોડેલ રજૂ કર્યું છે, જેમાં 1 મિલિયન ટોકન સુધીની અત્યંત મોટી આઉટપુટ વિન્ડો છે.",
-      "why_it_matters": "આ વિશાળ કોન્ટેક્સ્ટ વિન્ડો AI ને અત્યંત લાંબા દસ્તાવેજો, કોડબેઝ અને વાતચીતને વધુ સારી રીતે સમજવામાં અને પ્રક્રિયા કરવામાં મદદ કરશે, જે AI ક્ષમતાઓને નોંધપાત્ર રીતે વિસ્તૃત કરે છે.",
-      "source_name": "Google News - Gemini",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDI4ZUhXLU9UTi12bVBKSS1FWm5uY3FpdDk3R0xRYXJEYkdRd0xEOTlpbnREWHZWNEhCakp3cDg3Tk81OW9jZHF6ejl4anZBcGRpMmV3M1dhSGJ1NUFlMHlFZUZRS2Z4THRtT0tSM1NVcnVxNVRHNVNvX0dGb0NFUl8tRWhDOGJtOEVkTC1LYkJJblI0N1dIbVp0SVVrOFJRMzUtV2l6RXdTRTA?oc=5"
+      "headline": "1. AI એજન્ટ્સની વિશ્વસનીયતા: ડેટાબેઝ સાથે અસહમતિ",
+      "what_happened": "AI એજન્ટ્સ જ્યારે કોઈ કાર્ય પૂર્ણ થયાનું જણાવે છે, ત્યારે ડેટાબેઝમાં તેની પુષ્ટિ ન થવાના કિસ્સાઓ પર એક બ્લોગ પોસ્ટ પ્રકાશિત થઈ છે. આ દર્શાવે છે કે AI એજન્ટ્સ કેટલીકવાર ખોટી રીતે કાર્ય પૂર્ણ થયાનું માની શકે છે.",
+      "why_it_matters": "આ AI એજન્ટ્સની કાર્યક્ષમતા અને વિશ્વસનીયતા પર પ્રશ્નો ઉભા કરે છે. ભવિષ્યમાં AI એજન્ટ્સને વધુ ભરોસાપાત્ર બનાવવા માટે તેમની કાર્યપદ્ધતિમાં સુધારાની જરૂર છે.",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox"
     },
     "hi": {
-      "headline": "1. Google Gemini 4 Argon 1 मिलियन टोकन आउटपुट विंडो के साथ लॉन्च हुआ",
-      "what_happened": "Google ने अपना नया Gemini 4 Argon मॉडल पेश किया है, जिसमें 1 मिलियन टोकन तक की बहुत बड़ी आउटपुट विंडो है।",
-      "why_it_matters": "यह विशाल कॉन्टेक्स्ट विंडो AI को बहुत लंबे दस्तावेज़ों, कोडबेस और बातचीत को बेहतर ढंग से समझने और प्रोसेस करने में मदद करेगी, जिससे AI क्षमताओं का काफी विस्तार होगा।",
-      "source_name": "Google News - Gemini",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDI4ZUhXLU9UTi12bVBKSS1FWm5uY3FpdDk3R0xRYXJEYkdRd0xEOTlpbnREWHZWNEhCakp3cDg3Tk81OW9jZHF6ejl4anZBcGRpMmV3M1dhSGJ1NUFlMHlFZUZRS2Z4THRtT0tSM1NVcnVxNVRHNVNvX0dGb0NFUl8tRWhDOGJtOEVkTC1LYkJJblI0N1dIbVp0SVVrOFJRMzUtV2l6RXdTRTA?oc=5"
+      "headline": "1. AI एजेंट्स की विश्वसनीयता: डेटाबेस से असहमति",
+      "what_happened": "जब AI एजेंट्स किसी कार्य के पूरा होने की जानकारी देते हैं, तब डेटाबेस में उसकी पुष्टि न होने के मामलों पर एक ब्लॉग पोस्ट प्रकाशित हुई है। यह दर्शाता है कि AI एजेंट्स कभी-कभी गलत तरीके से कार्य पूरा हुआ मान सकते हैं।",
+      "why_it_matters": "यह AI एजेंट्स की कार्यक्षमता और विश्वसनीयता पर सवाल उठाता है। भविष्य में AI एजेंट्स को अधिक भरोसेमंद बनाने के लिए उनकी कार्यप्रणाली में सुधार की आवश्यकता है।",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox"
     },
     "en": {
-      "headline": "1. Google Gemini 4 Argon Launched with 1 Million Token Output Window",
-      "what_happened": "Google has introduced its new Gemini 4 Argon model, which features an extremely large output window of up to 1 million tokens.",
-      "why_it_matters": "This massive context window will help AI better understand and process extremely long documents, codebases, and conversations, significantly expanding AI capabilities.",
-      "source_name": "Google News - Gemini",
-      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDI4ZUhXLU9UTi12bVBKSS1FWm5uY3FpdDk3R0xRYXJEYkdRd0xEOTlpbnREWHZWNEhCakp3cDg3Tk81OW9jZHF6ejl4anZBcGRpMmV3M1dhSGJ1NUFlMHlFZUZRS2Z4THRtT0tSM1NVcnVxNVRHNVNvX0dGb0NFUl8tRWhDOGJtOEVkTC1LYkJJblI0N1dIbVp0SVVrOFJRMzUtV2l6RXdTRTA?oc=5"
+      "headline": "1. Reliability of AI Agents: Disagreement with Database",
+      "what_happened": "A blog post has been published about cases where AI agents report completing a task, but this is not confirmed in the database. This shows that AI agents can sometimes incorrectly assume a task is finished.",
+      "why_it_matters": "This raises questions about the efficiency and reliability of AI agents. Improvements are needed in their working methods to make AI agents more trustworthy in the future.",
+      "source_name": "Hugging Face Blog",
+      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox"
     }
   }
 }
