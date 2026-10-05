@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-04T14:09:20.424048+05:30",
-  "weekday": "Sunday",
-  "story_count": 10,
+  "generated_at": "2026-10-05T14:54:22.214284+05:30",
+  "weekday": "Monday",
+  "story_count": 7,
   "stories": {
     "gu": {
-      "headline": "1. AI એજન્ટ્સની વિશ્વસનીયતા: ડેટાબેઝ સાથે અસહમતિ",
-      "what_happened": "AI એજન્ટ્સ જ્યારે કોઈ કાર્ય પૂર્ણ થયાનું જણાવે છે, ત્યારે ડેટાબેઝમાં તેની પુષ્ટિ ન થવાના કિસ્સાઓ પર એક બ્લોગ પોસ્ટ પ્રકાશિત થઈ છે. આ દર્શાવે છે કે AI એજન્ટ્સ કેટલીકવાર ખોટી રીતે કાર્ય પૂર્ણ થયાનું માની શકે છે.",
-      "why_it_matters": "આ AI એજન્ટ્સની કાર્યક્ષમતા અને વિશ્વસનીયતા પર પ્રશ્નો ઉભા કરે છે. ભવિષ્યમાં AI એજન્ટ્સને વધુ ભરોસાપાત્ર બનાવવા માટે તેમની કાર્યપદ્ધતિમાં સુધારાની જરૂર છે.",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox"
+      "headline": "1. Googleના સંશોધકોએ AI એજન્ટોને પરીક્ષણો યાદ રાખતા અટકાવવાનો માર્ગ શોધી કાઢ્યો.",
+      "what_happened": "Googleના સંશોધકોએ એક નવી પદ્ધતિ વિકસાવી છે જે સ્વ-સુધારણા કરતા AI એજન્ટોને તેમના તાલીમ ડેટા અથવા પરીક્ષણોને 'યાદ' રાખવાથી રોકે છે. આનાથી એજન્ટો વધુ સામાન્ય અને અસરકારક રીતે શીખી શકે છે.",
+      "why_it_matters": "આ સંશોધન AI એજન્ટોની વિશ્વસનીયતા અને કાર્યક્ષમતા વધારવા માટે મહત્વપૂર્ણ છે. તે સુનિશ્ચિત કરવામાં મદદ કરે છે કે AI એજન્ટો વાસ્તવિક દુનિયાની પરિસ્થિતિઓમાં વધુ સારી રીતે કાર્ય કરે, માત્ર તેમને શીખવેલા ઉદાહરણોનું પુનરાવર્તન ન કરે.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
     },
     "hi": {
-      "headline": "1. AI एजेंट्स की विश्वसनीयता: डेटाबेस से असहमति",
-      "what_happened": "जब AI एजेंट्स किसी कार्य के पूरा होने की जानकारी देते हैं, तब डेटाबेस में उसकी पुष्टि न होने के मामलों पर एक ब्लॉग पोस्ट प्रकाशित हुई है। यह दर्शाता है कि AI एजेंट्स कभी-कभी गलत तरीके से कार्य पूरा हुआ मान सकते हैं।",
-      "why_it_matters": "यह AI एजेंट्स की कार्यक्षमता और विश्वसनीयता पर सवाल उठाता है। भविष्य में AI एजेंट्स को अधिक भरोसेमंद बनाने के लिए उनकी कार्यप्रणाली में सुधार की आवश्यकता है।",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox"
+      "headline": "1. Google के शोधकर्ताओं ने AI एजेंटों को परीक्षणों को याद रखने से रोकने का तरीका खोजा।",
+      "what_happened": "Google के शोधकर्ताओं ने एक नई विधि विकसित की है जो स्वयं-सुधार करने वाले AI एजेंटों को उनके प्रशिक्षण डेटा या परीक्षणों को 'याद' रखने से रोकती है। इससे एजेंट अधिक सामान्य और प्रभावी ढंग से सीख सकते हैं।",
+      "why_it_matters": "यह शोध AI एजेंटों की विश्वसनीयता और दक्षता बढ़ाने के लिए महत्वपूर्ण है। यह सुनिश्चित करने में मदद करता है कि AI एजेंट वास्तविक दुनिया की स्थितियों में बेहतर ढंग से काम करें, न कि केवल उन्हें सिखाए गए उदाहरणों को दोहराएं।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
     },
     "en": {
-      "headline": "1. Reliability of AI Agents: Disagreement with Database",
-      "what_happened": "A blog post has been published about cases where AI agents report completing a task, but this is not confirmed in the database. This shows that AI agents can sometimes incorrectly assume a task is finished.",
-      "why_it_matters": "This raises questions about the efficiency and reliability of AI agents. Improvements are needed in their working methods to make AI agents more trustworthy in the future.",
-      "source_name": "Hugging Face Blog",
-      "source_url": "https://huggingface.co/blog/microsoft/thinkingbox"
+      "headline": "1. Google Researchers Find Way to Stop AI Agents from Memorizing Tests",
+      "what_happened": "Researchers at Google have developed a new method that prevents self-improving AI agents from 'memorizing' their training data or the tests they are given. This allows the agents to learn in a more general and effective way.",
+      "why_it_matters": "This research is important for making AI agents more reliable and efficient. It helps ensure that AI agents perform better in real-world situations, rather than just repeating examples they've already been taught.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
     }
   }
 }
