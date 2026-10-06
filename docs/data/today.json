@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-05T14:54:22.214284+05:30",
-  "weekday": "Monday",
-  "story_count": 7,
+  "generated_at": "2026-10-06T14:43:35.614223+05:30",
+  "weekday": "Tuesday",
+  "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Googleના સંશોધકોએ AI એજન્ટોને પરીક્ષણો યાદ રાખતા અટકાવવાનો માર્ગ શોધી કાઢ્યો.",
-      "what_happened": "Googleના સંશોધકોએ એક નવી પદ્ધતિ વિકસાવી છે જે સ્વ-સુધારણા કરતા AI એજન્ટોને તેમના તાલીમ ડેટા અથવા પરીક્ષણોને 'યાદ' રાખવાથી રોકે છે. આનાથી એજન્ટો વધુ સામાન્ય અને અસરકારક રીતે શીખી શકે છે.",
-      "why_it_matters": "આ સંશોધન AI એજન્ટોની વિશ્વસનીયતા અને કાર્યક્ષમતા વધારવા માટે મહત્વપૂર્ણ છે. તે સુનિશ્ચિત કરવામાં મદદ કરે છે કે AI એજન્ટો વાસ્તવિક દુનિયાની પરિસ્થિતિઓમાં વધુ સારી રીતે કાર્ય કરે, માત્ર તેમને શીખવેલા ઉદાહરણોનું પુનરાવર્તન ન કરે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
+      "headline": "1. OpenAI ChatGPT માં નવી વિઝ્યુઅલ જાહેરાત ફોર્મેટ રજૂ કરી",
+      "what_happened": "OpenAI એ ChatGPT માં નવી વિઝ્યુઅલ જાહેરાત ફોર્મેટ રજૂ કરી છે અને જાહેરાતકર્તાઓ માટે માપન સાધનો, એટ્રિબ્યુશન ભાગીદારી અને બ્રાન્ડ યોગ્યતાનો વિસ્તાર કર્યો છે.",
+      "why_it_matters": "આનાથી AI પ્લેટફોર્મ પર જાહેરાત કરવાની નવી રીતો ખુલી છે, જે બ્રાન્ડ્સને AI વપરાશકર્તાઓ સુધી પહોંચવામાં મદદ કરશે. તે AI મોડેલો દ્વારા જાહેરાતની અસરકારકતા માપવા માટે વધુ સારા સાધનો પણ પૂરા પાડે છે.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
     },
     "hi": {
-      "headline": "1. Google के शोधकर्ताओं ने AI एजेंटों को परीक्षणों को याद रखने से रोकने का तरीका खोजा।",
-      "what_happened": "Google के शोधकर्ताओं ने एक नई विधि विकसित की है जो स्वयं-सुधार करने वाले AI एजेंटों को उनके प्रशिक्षण डेटा या परीक्षणों को 'याद' रखने से रोकती है। इससे एजेंट अधिक सामान्य और प्रभावी ढंग से सीख सकते हैं।",
-      "why_it_matters": "यह शोध AI एजेंटों की विश्वसनीयता और दक्षता बढ़ाने के लिए महत्वपूर्ण है। यह सुनिश्चित करने में मदद करता है कि AI एजेंट वास्तविक दुनिया की स्थितियों में बेहतर ढंग से काम करें, न कि केवल उन्हें सिखाए गए उदाहरणों को दोहराएं।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
+      "headline": "1. OpenAI ने ChatGPT में नया विज़ुअल विज्ञापन फॉर्मेट पेश किया",
+      "what_happened": "OpenAI ने ChatGPT में नया विज़ुअल विज्ञापन फॉर्मेट पेश किया है और विज्ञापनदाताओं के लिए मापन उपकरण, एट्रिब्यूशन पार्टनरशिप और ब्रांड उपयुक्तता का विस्तार किया है।",
+      "why_it_matters": "इससे AI प्लेटफॉर्म पर विज्ञापन करने के नए तरीके खुले हैं, जो ब्रांड्स को AI उपयोगकर्ताओं तक पहुँचने में मदद करेंगे। यह AI मॉडलों द्वारा विज्ञापन की प्रभावशीलता मापने के लिए बेहतर उपकरण भी प्रदान करता है।",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
     },
     "en": {
-      "headline": "1. Google Researchers Find Way to Stop AI Agents from Memorizing Tests",
-      "what_happened": "Researchers at Google have developed a new method that prevents self-improving AI agents from 'memorizing' their training data or the tests they are given. This allows the agents to learn in a more general and effective way.",
-      "why_it_matters": "This research is important for making AI agents more reliable and efficient. It helps ensure that AI agents perform better in real-world situations, rather than just repeating examples they've already been taught.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/"
+      "headline": "1. OpenAI Introduces New Visual Ad Format in ChatGPT",
+      "what_happened": "OpenAI has launched a new visual ad format within ChatGPT. They've also expanded measurement tools, attribution partnerships, and brand suitability options for advertisers.",
+      "why_it_matters": "This development opens up new advertising opportunities on AI platforms, helping brands connect with AI users. It also provides better tools to measure how effective ads are when delivered through AI models.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
     }
   }
 }
