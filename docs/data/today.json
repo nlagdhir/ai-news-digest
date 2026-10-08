@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-06T14:43:35.614223+05:30",
-  "weekday": "Tuesday",
+  "generated_at": "2026-10-08T14:48:04.329482+05:30",
+  "weekday": "Thursday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. OpenAI ChatGPT માં નવી વિઝ્યુઅલ જાહેરાત ફોર્મેટ રજૂ કરી",
-      "what_happened": "OpenAI એ ChatGPT માં નવી વિઝ્યુઅલ જાહેરાત ફોર્મેટ રજૂ કરી છે અને જાહેરાતકર્તાઓ માટે માપન સાધનો, એટ્રિબ્યુશન ભાગીદારી અને બ્રાન્ડ યોગ્યતાનો વિસ્તાર કર્યો છે.",
-      "why_it_matters": "આનાથી AI પ્લેટફોર્મ પર જાહેરાત કરવાની નવી રીતો ખુલી છે, જે બ્રાન્ડ્સને AI વપરાશકર્તાઓ સુધી પહોંચવામાં મદદ કરશે. તે AI મોડેલો દ્વારા જાહેરાતની અસરકારકતા માપવા માટે વધુ સારા સાધનો પણ પૂરા પાડે છે.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      "headline": "1. NVIDIA અને Microsoft Windows PC માટે AI એજન્ટ્સ સાથે નવા યુગની શરૂઆત કરી રહ્યા છે.",
+      "what_happened": "NVIDIA અને Microsoft એ Windows PC પર AI એજન્ટ્સ ચલાવવા માટે હાર્ડવેર અને સોફ્ટવેરનું સહ-એન્જિનિયરિંગ કરવાની જાહેરાત કરી છે, જેમાં RTX Spark ટેકનોલોજીનો ઉપયોગ થશે.",
+      "why_it_matters": "આનાથી સ્થાનિક AI ક્ષમતાઓ વધશે અને યુઝર્સ તેમના PC પર જ શક્તિશાળી AI એજન્ટ્સ ચલાવી શકશે, જે ગોપનીયતા અને પ્રદર્શન માટે ફાયદાકારક છે.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
     },
     "hi": {
-      "headline": "1. OpenAI ने ChatGPT में नया विज़ुअल विज्ञापन फॉर्मेट पेश किया",
-      "what_happened": "OpenAI ने ChatGPT में नया विज़ुअल विज्ञापन फॉर्मेट पेश किया है और विज्ञापनदाताओं के लिए मापन उपकरण, एट्रिब्यूशन पार्टनरशिप और ब्रांड उपयुक्तता का विस्तार किया है।",
-      "why_it_matters": "इससे AI प्लेटफॉर्म पर विज्ञापन करने के नए तरीके खुले हैं, जो ब्रांड्स को AI उपयोगकर्ताओं तक पहुँचने में मदद करेंगे। यह AI मॉडलों द्वारा विज्ञापन की प्रभावशीलता मापने के लिए बेहतर उपकरण भी प्रदान करता है।",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      "headline": "1. NVIDIA और Microsoft Windows PC के लिए AI एजेंट्स के साथ एक नए युग की शुरुआत कर रहे हैं।",
+      "what_happened": "NVIDIA और Microsoft ने Windows PC पर AI एजेंट्स चलाने के लिए हार्डवेयर और सॉफ्टवेयर का सह-इंजीनियरिंग करने की घोषणा की है, जिसमें RTX Spark टेक्नोलॉजी का उपयोग होगा।",
+      "why_it_matters": "इससे स्थानीय AI क्षमताएं बढ़ेंगी और उपयोगकर्ता अपने PC पर ही शक्तिशाली AI एजेंट्स चला पाएंगे, जो गोपनीयता और प्रदर्शन के लिए फायदेमंद है।",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
     },
     "en": {
-      "headline": "1. OpenAI Introduces New Visual Ad Format in ChatGPT",
-      "what_happened": "OpenAI has launched a new visual ad format within ChatGPT. They've also expanded measurement tools, attribution partnerships, and brand suitability options for advertisers.",
-      "why_it_matters": "This development opens up new advertising opportunities on AI platforms, helping brands connect with AI users. It also provides better tools to measure how effective ads are when delivered through AI models.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      "headline": "1. NVIDIA and Microsoft Usher in New Era with AI Agents for Windows PCs",
+      "what_happened": "NVIDIA and Microsoft have announced they are co-engineering hardware and software to run AI agents on Windows PCs, utilizing RTX Spark technology.",
+      "why_it_matters": "This will boost local AI capabilities, allowing users to run powerful AI agents directly on their PCs, which offers benefits for privacy and performance.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
     }
   }
 }
