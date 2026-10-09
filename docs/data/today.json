@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-08T14:48:04.329482+05:30",
-  "weekday": "Thursday",
+  "generated_at": "2026-10-09T14:56:50.234101+05:30",
+  "weekday": "Friday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. NVIDIA અને Microsoft Windows PC માટે AI એજન્ટ્સ સાથે નવા યુગની શરૂઆત કરી રહ્યા છે.",
-      "what_happened": "NVIDIA અને Microsoft એ Windows PC પર AI એજન્ટ્સ ચલાવવા માટે હાર્ડવેર અને સોફ્ટવેરનું સહ-એન્જિનિયરિંગ કરવાની જાહેરાત કરી છે, જેમાં RTX Spark ટેકનોલોજીનો ઉપયોગ થશે.",
-      "why_it_matters": "આનાથી સ્થાનિક AI ક્ષમતાઓ વધશે અને યુઝર્સ તેમના PC પર જ શક્તિશાળી AI એજન્ટ્સ ચલાવી શકશે, જે ગોપનીયતા અને પ્રદર્શન માટે ફાયદાકારક છે.",
-      "source_name": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+      "headline": "1. Sophos એ OpenAI Daybreak નો ઉપયોગ કરીને સાયબર-ખતરાની તપાસનો સમય 96% ઘટાડ્યો.",
+      "what_happened": "Sophos નામની સાયબર સુરક્ષા કંપનીએ OpenAI ના Daybreak પ્લેટફોર્મનો ઉપયોગ કરીને સાયબર-ખતરાની તપાસમાં લાગતો સમય 96% જેટલો ઘટાડ્યો છે. આનાથી 52% MDR (Managed Detection and Response) કેસમાં માનવીય દેખરેખ જાળવી રાખીને ઓટોમેશન શક્ય બન્યું છે.",
+      "why_it_matters": "આ દર્શાવે છે કે AI સાયબર સુરક્ષા કામગીરીને કેટલી અસરકારક રીતે સુધારી શકે છે, જેનાથી કંપનીઓ ઝડપથી જોખમો શોધી અને તેનો પ્રતિસાદ આપી શકે છે.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/sophos"
     },
     "hi": {
-      "headline": "1. NVIDIA और Microsoft Windows PC के लिए AI एजेंट्स के साथ एक नए युग की शुरुआत कर रहे हैं।",
-      "what_happened": "NVIDIA और Microsoft ने Windows PC पर AI एजेंट्स चलाने के लिए हार्डवेयर और सॉफ्टवेयर का सह-इंजीनियरिंग करने की घोषणा की है, जिसमें RTX Spark टेक्नोलॉजी का उपयोग होगा।",
-      "why_it_matters": "इससे स्थानीय AI क्षमताएं बढ़ेंगी और उपयोगकर्ता अपने PC पर ही शक्तिशाली AI एजेंट्स चला पाएंगे, जो गोपनीयता और प्रदर्शन के लिए फायदेमंद है।",
-      "source_name": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+      "headline": "1. Sophos ने OpenAI Daybreak का उपयोग करके साइबर-खतरे की जांच का समय 96% घटाया",
+      "what_happened": "Sophos नामक साइबर सुरक्षा कंपनी ने OpenAI के Daybreak प्लेटफॉर्म का उपयोग करके साइबर-खतरे की जांच में लगने वाले समय को 96% तक कम कर दिया है। इससे 52% MDR (Managed Detection and Response) मामलों में मानवीय निगरानी बनाए रखते हुए ऑटोमेशन संभव हो पाया है।",
+      "why_it_matters": "यह दर्शाता है कि AI साइबर सुरक्षा कार्यों को कितनी प्रभावी ढंग से बेहतर बना सकता है, जिससे कंपनियां खतरों को तेजी से पहचान और उनका जवाब दे सकें।",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/sophos"
     },
     "en": {
-      "headline": "1. NVIDIA and Microsoft Usher in New Era with AI Agents for Windows PCs",
-      "what_happened": "NVIDIA and Microsoft have announced they are co-engineering hardware and software to run AI agents on Windows PCs, utilizing RTX Spark technology.",
-      "why_it_matters": "This will boost local AI capabilities, allowing users to run powerful AI agents directly on their PCs, which offers benefits for privacy and performance.",
-      "source_name": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+      "headline": "1. Sophos Reduced Cyber Threat Investigation Time by 96% Using OpenAI Daybreak",
+      "what_happened": "Cybersecurity company Sophos has reduced the time taken to investigate cyber threats by 96% using OpenAI's Daybreak platform. This has enabled automation in 52% of MDR (Managed Detection and Response) cases while maintaining human oversight.",
+      "why_it_matters": "This demonstrates how effectively AI can improve cybersecurity operations, enabling companies to quickly detect and respond to threats.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/sophos"
     }
   }
 }
