@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-09T14:56:50.234101+05:30",
-  "weekday": "Friday",
+  "generated_at": "2026-10-10T14:16:55.409080+05:30",
+  "weekday": "Saturday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Sophos એ OpenAI Daybreak નો ઉપયોગ કરીને સાયબર-ખતરાની તપાસનો સમય 96% ઘટાડ્યો.",
-      "what_happened": "Sophos નામની સાયબર સુરક્ષા કંપનીએ OpenAI ના Daybreak પ્લેટફોર્મનો ઉપયોગ કરીને સાયબર-ખતરાની તપાસમાં લાગતો સમય 96% જેટલો ઘટાડ્યો છે. આનાથી 52% MDR (Managed Detection and Response) કેસમાં માનવીય દેખરેખ જાળવી રાખીને ઓટોમેશન શક્ય બન્યું છે.",
-      "why_it_matters": "આ દર્શાવે છે કે AI સાયબર સુરક્ષા કામગીરીને કેટલી અસરકારક રીતે સુધારી શકે છે, જેનાથી કંપનીઓ ઝડપથી જોખમો શોધી અને તેનો પ્રતિસાદ આપી શકે છે.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/sophos"
+      "headline": "1. Postman 40 મિલિયન ડેવલપર્સ માટે Amazon Bedrock પર Agent Mode કેવી રીતે ચલાવે છે",
+      "what_happened": "Postman, એક લોકપ્રિય API પ્લેટફોર્મ, Amazon Bedrock નો ઉપયોગ કરીને 40 મિલિયન ડેવલપર્સ માટે AI Agent Mode ચલાવી રહ્યું છે. તેઓએ AI એજન્ટ્સને મોટા પાયે કેવી રીતે કાર્યક્ષમ રીતે ચલાવવા તે અંગેની આર્કિટેક્ચરલ પેટર્ન શેર કરી છે.",
+      "why_it_matters": "આ દર્શાવે છે કે કેવી રીતે AI એજન્ટ્સને મોટા પાયે વ્યવસાયિક એપ્લિકેશન્સમાં એકીકૃત કરી શકાય છે, ખાસ કરીને ડેવલપર ટૂલ્સમાં. તે AI એજન્ટ્સના અમલીકરણમાં આવતા પડકારો અને તેના ઉકેલો પર પ્રકાશ પાડે છે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"
     },
     "hi": {
-      "headline": "1. Sophos ने OpenAI Daybreak का उपयोग करके साइबर-खतरे की जांच का समय 96% घटाया",
-      "what_happened": "Sophos नामक साइबर सुरक्षा कंपनी ने OpenAI के Daybreak प्लेटफॉर्म का उपयोग करके साइबर-खतरे की जांच में लगने वाले समय को 96% तक कम कर दिया है। इससे 52% MDR (Managed Detection and Response) मामलों में मानवीय निगरानी बनाए रखते हुए ऑटोमेशन संभव हो पाया है।",
-      "why_it_matters": "यह दर्शाता है कि AI साइबर सुरक्षा कार्यों को कितनी प्रभावी ढंग से बेहतर बना सकता है, जिससे कंपनियां खतरों को तेजी से पहचान और उनका जवाब दे सकें।",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/sophos"
+      "headline": "1. Postman 40 मिलियन डेवलपर्स के लिए Amazon Bedrock पर एजेंट मोड कैसे चलाता है",
+      "what_happened": "Postman, एक लोकप्रिय API प्लेटफॉर्म, Amazon Bedrock का उपयोग करके 40 मिलियन डेवलपर्स के लिए AI एजेंट मोड चला रहा है। उन्होंने बताया है कि AI एजेंट्स को बड़े पैमाने पर कुशलता से कैसे चलाया जाए, इसके लिए उन्होंने आर्किटेक्चरल पैटर्न साझा किए हैं।",
+      "why_it_matters": "यह दर्शाता है कि AI एजेंट्स को बड़े पैमाने पर व्यावसायिक एप्लीकेशन्स में, खासकर डेवलपर टूल्स में कैसे एकीकृत किया जा सकता है। यह AI एजेंट्स को लागू करने में आने वाली चुनौतियों और उनके समाधानों पर प्रकाश डालता है।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"
     },
     "en": {
-      "headline": "1. Sophos Reduced Cyber Threat Investigation Time by 96% Using OpenAI Daybreak",
-      "what_happened": "Cybersecurity company Sophos has reduced the time taken to investigate cyber threats by 96% using OpenAI's Daybreak platform. This has enabled automation in 52% of MDR (Managed Detection and Response) cases while maintaining human oversight.",
-      "why_it_matters": "This demonstrates how effectively AI can improve cybersecurity operations, enabling companies to quickly detect and respond to threats.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/sophos"
+      "headline": "1. How Postman Runs Agent Mode on Amazon Bedrock for 40 Million Developers",
+      "what_happened": "Postman, a popular API platform, is running its AI Agent Mode for 40 million developers using Amazon Bedrock. They have shared architectural patterns on how to efficiently run AI agents at scale.",
+      "why_it_matters": "This shows how AI agents can be integrated into large-scale business applications, especially in developer tools. It also highlights the challenges and solutions involved in implementing AI agents.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"
     }
   }
 }
