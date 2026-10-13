@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-12T15:04:13.623104+05:30",
-  "weekday": "Monday",
+  "generated_at": "2026-10-13T15:09:23.171691+05:30",
+  "weekday": "Tuesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. એન્થ્રોપિકે પુષ્ટિ કરી કે યમનના સંગઠને ક્લાઉડ AI નો ઉપયોગ કર્યો",
-      "what_happened": "AI ડેવલપર એન્થ્રોપિકે જણાવ્યું છે કે યમનના એક સંગઠને તેમના ક્લાઉડ AI મોડેલનો ઉપયોગ માર્ગદર્શન સોફ્ટવેર માટે કર્યો હતો. આ ઘટના AI ના દુરુપયોગ અંગેની ચિંતાઓને ફરી સપાટી પર લાવી છે.",
-      "why_it_matters": "આ ઘટના દર્શાવે છે કે AI મોડેલ્સનો ઉપયોગ સંવેદનશીલ અને સંભવિત જોખમી હેતુઓ માટે થઈ શકે છે, જે AI સુરક્ષા અને દુરુપયોગ અટકાવવા માટે મજબૂત નીતિઓની જરૂરિયાત પર ભાર મૂકે છે.",
-      "source_name": "Google News - Claude AI",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEl5OTNnZWU3RnA3ZUQ1YnZNbk1lZ2ZNR0tVUTZZOHc0Q0syT2d3RWpBS2dTc2RqbmJhUUxHTkdIZVAxMC1yUkFXdVMzR1BfOE1FNTZhY3BtQk85TVRSQUMzX0xVaFh3YXY2RE1VeXVQWFJLblBPNGl3LTRYVFNhRzROTXo3S05ESXdiRjh0YWQzcGl6TTkxVzROSlZ2VlhUbFdsV2tCR0pwQ25Ib1l4bjZuUGFGV0pmZE5aNWUxVkdKc2R0SkF3?oc=5"
+      "headline": "1. AWS Bedrock પર OpenAI GPT મોડલ્સ હવે વૈશ્વિક સ્તરે ઉપલબ્ધ",
+      "what_happened": "Amazon Bedrock હવે થાઈલેન્ડ, મલેશિયા, સિંગાપોર, ઇન્ડોનેશિયા અને તાઈવાન જેવા પ્રદેશોમાં OpenAI GPT-6 Sol, Luna અને Astra મોડલ્સ માટે ગ્લોબલ ક્રોસ-રિજન ઇન્ફરન્સ સપોર્ટ આપે છે. આનાથી વિકાસકર્તાઓ Converse અને OpenAI-compatible API દ્વારા મોડલ્સને એક્સેસ કરી શકશે.",
+      "why_it_matters": "આનાથી એશિયા-પેસિફિક ક્ષેત્રમાં ગ્રાહકો માટે AI મોડલ્સની ઉપલબ્ધતા અને પ્રદર્શન સુધરશે, જે એપ્લિકેશન ડેવલપમેન્ટ માટે વધુ વિકલ્પો પૂરા પાડશે. આ વિકાસકર્તાઓને તેમની AI એપ્લિકેશન્સને વૈશ્વિક સ્તરે સ્કેલ કરવામાં મદદ કરશે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
     },
     "hi": {
-      "headline": "1. एंथ्रोपिक ने पुष्टि की कि यमन के संगठन ने क्लाउड AI का उपयोग किया",
-      "what_happened": "AI डेवलपर एंथ्रोपिक ने बताया है कि यमन के एक संगठन ने उनके क्लाउड AI मॉडल का उपयोग मार्गदर्शन सॉफ्टवेयर के लिए किया था। इस घटना ने AI के दुरुपयोग को लेकर चिंताओं को फिर से बढ़ा दिया है।",
-      "why_it_matters": "यह घटना दर्शाती है कि AI मॉडल्स का उपयोग संवेदनशील और संभावित खतरनाक उद्देश्यों के लिए किया जा सकता है, जो AI सुरक्षा और दुरुपयोग को रोकने के लिए मजबूत नीतियों की आवश्यकता पर जोर देती है।",
-      "source_name": "Google News - Claude AI",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEl5OTNnZWU3RnA3ZUQ1YnZNbk1lZ2ZNR0tVUTZZOHc0Q0syT2d3RWpBS2dTc2RqbmJhUUxHTkdIZVAxMC1yUkFXdVMzR1BfOE1FNTZhY3BtQk85TVRSQUMzX0xVaFh3YXY2RE1VeXVQWFJLblBPNGl3LTRYVFNhRzROTXo3S05ESXdiRjh0YWQzcGl6TTkxVzROSlZ2VlhUbFdsV2tCR0pwQ25Ib1l4bjZuUGFGV0pmZE5aNWUxVkdKc2R0SkF3?oc=5"
+      "headline": "1. AWS Bedrock पर OpenAI GPT मॉडल्स अब विश्व स्तर पर उपलब्ध",
+      "what_happened": "Amazon Bedrock अब थाईलैंड, मलेशिया, सिंगापुर, इंडोनेशिया और ताइवान जैसे क्षेत्रों में OpenAI GPT-6 Sol, Luna और Astra मॉडल्स के लिए ग्लोबल क्रॉस-रीजन इन्फरेंस सपोर्ट प्रदान करता है। इससे डेवलपर्स Converse और OpenAI-कंपैटिबल API के माध्यम से मॉडल्स को एक्सेस कर सकेंगे।",
+      "why_it_matters": "इससे एशिया-पैसिफिक क्षेत्र में ग्राहकों के लिए AI मॉडल्स की उपलब्धता और प्रदर्शन में सुधार होगा, जो एप्लिकेशन डेवलपमेंट के लिए अधिक विकल्प प्रदान करेगा। यह डेवलपर्स को अपनी AI एप्लीकेशंस को विश्व स्तर पर स्केल करने में मदद करेगा।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
     },
     "en": {
-      "headline": "1. Anthropic Confirms Yemeni Group Used Claude AI",
-      "what_happened": "AI developer Anthropic stated that a Yemeni organization used their Claude AI model for guidance software. This incident has resurfaced concerns about AI misuse.",
-      "why_it_matters": "This incident shows that AI models can be used for sensitive and potentially dangerous purposes, highlighting the need for strong policies to ensure AI safety and prevent misuse.",
-      "source_name": "Google News - Claude AI",
-      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdEl5OTNnZWU3RnA3ZUQ1YnZNbk1lZ2ZNR0tVUTZZOHc0Q0syT2d3RWpBS2dTc2RqbmJhUUxHTkdIZVAxMC1yUkFXdVMzR1BfOE1FNTZhY3BtQk85TVRSQUMzX0xVaFh3YXY2RE1VeXVQWFJLblBPNGl3LTRYVFNhRzROTXo3S05ESXdiRjh0YWQzcGl6TTkxVzROSlZ2VlhUbFdsV2tCR0pwQ25Ib1l4bjZuUGFGV0pmZE5aNWUxVkdKc2R0SkF3?oc=5"
+      "headline": "1. OpenAI GPT Models Now Globally Available on AWS Bedrock",
+      "what_happened": "Amazon Bedrock now offers global cross-region inference support for OpenAI GPT-6 Sol, Luna, and Astra models in regions like Thailand, Malaysia, Singapore, Indonesia, and Taiwan. This allows developers to access these models through Converse and OpenAI-compatible API.",
+      "why_it_matters": "This will improve the availability and performance of AI models for customers in the Asia-Pacific region, providing more options for application development. It will also help developers scale their AI applications globally.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
     }
   }
 }
