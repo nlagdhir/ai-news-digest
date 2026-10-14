@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-13T15:09:23.171691+05:30",
-  "weekday": "Tuesday",
+  "generated_at": "2026-10-14T13:24:16.185779+05:30",
+  "weekday": "Wednesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. AWS Bedrock પર OpenAI GPT મોડલ્સ હવે વૈશ્વિક સ્તરે ઉપલબ્ધ",
-      "what_happened": "Amazon Bedrock હવે થાઈલેન્ડ, મલેશિયા, સિંગાપોર, ઇન્ડોનેશિયા અને તાઈવાન જેવા પ્રદેશોમાં OpenAI GPT-6 Sol, Luna અને Astra મોડલ્સ માટે ગ્લોબલ ક્રોસ-રિજન ઇન્ફરન્સ સપોર્ટ આપે છે. આનાથી વિકાસકર્તાઓ Converse અને OpenAI-compatible API દ્વારા મોડલ્સને એક્સેસ કરી શકશે.",
-      "why_it_matters": "આનાથી એશિયા-પેસિફિક ક્ષેત્રમાં ગ્રાહકો માટે AI મોડલ્સની ઉપલબ્ધતા અને પ્રદર્શન સુધરશે, જે એપ્લિકેશન ડેવલપમેન્ટ માટે વધુ વિકલ્પો પૂરા પાડશે. આ વિકાસકર્તાઓને તેમની AI એપ્લિકેશન્સને વૈશ્વિક સ્તરે સ્કેલ કરવામાં મદદ કરશે.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
+      "headline": "1. ગૂગલે નવું AI મોડેલ 'જેમિની 4 આર્ગોન' રજૂ કર્યું",
+      "what_happened": "ગૂગલે તેના નવા AI મોડેલ, જેમિની 4 આર્ગોનની જાહેરાત કરી છે. આ મોડેલ ખાસ કરીને મુશ્કેલ સમસ્યાઓ ઉકેલવા માટે બનાવવામાં આવ્યું છે. ગૂગલ ડીપમાઇન્ડે રોબોટિક્સમાં તેના ઉપયોગ અને જવાબદારીપૂર્વક તથા સુરક્ષિત રીતે તેના વિકાસ વિશે પણ માહિતી આપી છે.",
+      "why_it_matters": "આ એક મુખ્ય AI મોડેલ અપડેટ છે જે વધુ જટિલ કાર્યો કરી શકશે. રોબોટિક્સ જેવા ક્ષેત્રોમાં તેની ક્ષમતાઓ AI એપ્લિકેશન્સ માટે નવી દિશાઓ ખોલશે.",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
     },
     "hi": {
-      "headline": "1. AWS Bedrock पर OpenAI GPT मॉडल्स अब विश्व स्तर पर उपलब्ध",
-      "what_happened": "Amazon Bedrock अब थाईलैंड, मलेशिया, सिंगापुर, इंडोनेशिया और ताइवान जैसे क्षेत्रों में OpenAI GPT-6 Sol, Luna और Astra मॉडल्स के लिए ग्लोबल क्रॉस-रीजन इन्फरेंस सपोर्ट प्रदान करता है। इससे डेवलपर्स Converse और OpenAI-कंपैटिबल API के माध्यम से मॉडल्स को एक्सेस कर सकेंगे।",
-      "why_it_matters": "इससे एशिया-पैसिफिक क्षेत्र में ग्राहकों के लिए AI मॉडल्स की उपलब्धता और प्रदर्शन में सुधार होगा, जो एप्लिकेशन डेवलपमेंट के लिए अधिक विकल्प प्रदान करेगा। यह डेवलपर्स को अपनी AI एप्लीकेशंस को विश्व स्तर पर स्केल करने में मदद करेगा।",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
+      "headline": "1. गूगल ने नया AI मॉडल 'जेमिनी 4 आर्गोन' पेश किया",
+      "what_happened": "गूगल ने अपने नए AI मॉडल, जेमिनी 4 आर्गोन की घोषणा की है। यह मॉडल खासकर मुश्किल समस्याओं को हल करने के लिए बनाया गया है। गूगल डीपमाइंड ने रोबोटिक्स में इसके उपयोग और जिम्मेदारीपूर्वक तथा सुरक्षित तरीके से इसके विकास के बारे में भी जानकारी दी है।",
+      "why_it_matters": "यह एक प्रमुख AI मॉडल अपडेट है जो अधिक जटिल कार्य कर सकेगा। रोबोटिक्स जैसे क्षेत्रों में इसकी क्षमताएं AI एप्लीकेशन्स के लिए नई दिशाएं खोलेंगी।",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
     },
     "en": {
-      "headline": "1. OpenAI GPT Models Now Globally Available on AWS Bedrock",
-      "what_happened": "Amazon Bedrock now offers global cross-region inference support for OpenAI GPT-6 Sol, Luna, and Astra models in regions like Thailand, Malaysia, Singapore, Indonesia, and Taiwan. This allows developers to access these models through Converse and OpenAI-compatible API.",
-      "why_it_matters": "This will improve the availability and performance of AI models for customers in the Asia-Pacific region, providing more options for application development. It will also help developers scale their AI applications globally.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/accessing-openai-gpt-models-on-amazon-bedrock-with-global-cross-region-inference-in-thailand-malaysia-singapore-indonesia-and-taiwan/"
+      "headline": "1. Google Unveils New AI Model 'Gemini 4 Argon'",
+      "what_happened": "Google has announced its new AI model, Gemini 4 Argon. This model is specifically designed to tackle difficult problems. Google DeepMind also shared details about its application in robotics and its responsible and secure development.",
+      "why_it_matters": "This is a significant AI model update that will be capable of performing more complex tasks. Its abilities in areas like robotics will create new possibilities for AI applications.",
+      "source_name": "Google AI Blog",
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
     }
   }
 }
