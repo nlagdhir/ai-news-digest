@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-14T13:24:16.185779+05:30",
-  "weekday": "Wednesday",
-  "story_count": 10,
+  "generated_at": "2026-10-15T13:09:14.866444+05:30",
+  "weekday": "Thursday",
+  "story_count": 8,
   "stories": {
     "gu": {
-      "headline": "1. ગૂગલે નવું AI મોડેલ 'જેમિની 4 આર્ગોન' રજૂ કર્યું",
-      "what_happened": "ગૂગલે તેના નવા AI મોડેલ, જેમિની 4 આર્ગોનની જાહેરાત કરી છે. આ મોડેલ ખાસ કરીને મુશ્કેલ સમસ્યાઓ ઉકેલવા માટે બનાવવામાં આવ્યું છે. ગૂગલ ડીપમાઇન્ડે રોબોટિક્સમાં તેના ઉપયોગ અને જવાબદારીપૂર્વક તથા સુરક્ષિત રીતે તેના વિકાસ વિશે પણ માહિતી આપી છે.",
-      "why_it_matters": "આ એક મુખ્ય AI મોડેલ અપડેટ છે જે વધુ જટિલ કાર્યો કરી શકશે. રોબોટિક્સ જેવા ક્ષેત્રોમાં તેની ક્ષમતાઓ AI એપ્લિકેશન્સ માટે નવી દિશાઓ ખોલશે.",
-      "source_name": "Google AI Blog",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      "headline": "1. Amazon Bedrock AgentCore નો ઉપયોગ કરીને સ્વયં-સુધારિત ડોક્યુમેન્ટ પ્રોસેસિંગ સિસ્ટમ બનાવો",
+      "what_happened": "AWS એ Amazon Bedrock AgentCore નો ઉપયોગ કરીને એક એજન્ટિક ઇન્ટેલિજન્ટ ડોક્યુમેન્ટ પ્રોસેસિંગ (IDP) સિસ્ટમ કેવી રીતે બનાવવી તે દર્શાવ્યું છે. આ સિસ્ટમ બિઝનેસ ડોક્યુમેન્ટ્સનું વર્ગીકરણ, ડેટા નિષ્કર્ષણ, માન્યતા અને ન્યૂનતમ માનવ હસ્તક્ષેપ સાથે શીખવાનું કામ કરી શકે છે.",
+      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટ્સ જટિલ અને પુનરાવર્તિત ડોક્યુમેન્ટ-આધારિત કાર્યોને સ્વચાલિત કરી શકે છે, જે કાર્યક્ષમતામાં સુધારો કરે છે અને ભૂલો ઘટાડે છે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
     },
     "hi": {
-      "headline": "1. गूगल ने नया AI मॉडल 'जेमिनी 4 आर्गोन' पेश किया",
-      "what_happened": "गूगल ने अपने नए AI मॉडल, जेमिनी 4 आर्गोन की घोषणा की है। यह मॉडल खासकर मुश्किल समस्याओं को हल करने के लिए बनाया गया है। गूगल डीपमाइंड ने रोबोटिक्स में इसके उपयोग और जिम्मेदारीपूर्वक तथा सुरक्षित तरीके से इसके विकास के बारे में भी जानकारी दी है।",
-      "why_it_matters": "यह एक प्रमुख AI मॉडल अपडेट है जो अधिक जटिल कार्य कर सकेगा। रोबोटिक्स जैसे क्षेत्रों में इसकी क्षमताएं AI एप्लीकेशन्स के लिए नई दिशाएं खोलेंगी।",
-      "source_name": "Google AI Blog",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      "headline": "1. Amazon Bedrock AgentCore का उपयोग करके स्वयं-सुधारने वाली डॉक्यूमेंट प्रोसेसिंग सिस्टम बनाएं",
+      "what_happened": "AWS ने Amazon Bedrock AgentCore का उपयोग करके एक एजेंटिक इंटेलिजेंट डॉक्यूमेंट प्रोसेसिंग (IDP) सिस्टम कैसे बनानी है, यह दिखाया है। यह सिस्टम बिजनेस डॉक्यूमेंट्स का वर्गीकरण, डेटा निष्कर्षण, सत्यापन और न्यूनतम मानवीय हस्तक्षेप के साथ सीखने का काम कर सकती है।",
+      "why_it_matters": "यह दर्शाता है कि AI एजेंट्स जटिल और दोहराए जाने वाले डॉक्यूमेंट-आधारित कार्यों को स्वचालित कर सकते हैं, जिससे कार्यक्षमता में सुधार होता है और त्रुटियां कम होती हैं।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
     },
     "en": {
-      "headline": "1. Google Unveils New AI Model 'Gemini 4 Argon'",
-      "what_happened": "Google has announced its new AI model, Gemini 4 Argon. This model is specifically designed to tackle difficult problems. Google DeepMind also shared details about its application in robotics and its responsible and secure development.",
-      "why_it_matters": "This is a significant AI model update that will be capable of performing more complex tasks. Its abilities in areas like robotics will create new possibilities for AI applications.",
-      "source_name": "Google AI Blog",
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+      "headline": "1. How to Build a Self-Improving Document Processing System Using Amazon Bedrock AgentCore",
+      "what_happened": "AWS has demonstrated how to build an agentic Intelligent Document Processing (IDP) system using Amazon Bedrock AgentCore. This system can classify business documents, extract data, validate information, and learn with minimal human intervention.",
+      "why_it_matters": "This demonstrates that AI agents can automate complex and repetitive document-based tasks, improving efficiency and reducing errors.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
     }
   }
 }
