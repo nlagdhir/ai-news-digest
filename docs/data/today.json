@@ -1,28 +1,21 @@
 {
-  "generated_at": "2026-10-15T13:09:14.866444+05:30",
-  "weekday": "Thursday",
-  "story_count": 8,
+  "generated_at": "2026-10-17T12:37:45.690340+05:30",
+  "weekday": "Saturday",
+  "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Amazon Bedrock AgentCore નો ઉપયોગ કરીને સ્વયં-સુધારિત ડોક્યુમેન્ટ પ્રોસેસિંગ સિસ્ટમ બનાવો",
-      "what_happened": "AWS એ Amazon Bedrock AgentCore નો ઉપયોગ કરીને એક એજન્ટિક ઇન્ટેલિજન્ટ ડોક્યુમેન્ટ પ્રોસેસિંગ (IDP) સિસ્ટમ કેવી રીતે બનાવવી તે દર્શાવ્યું છે. આ સિસ્ટમ બિઝનેસ ડોક્યુમેન્ટ્સનું વર્ગીકરણ, ડેટા નિષ્કર્ષણ, માન્યતા અને ન્યૂનતમ માનવ હસ્તક્ષેપ સાથે શીખવાનું કામ કરી શકે છે.",
-      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટ્સ જટિલ અને પુનરાવર્તિત ડોક્યુમેન્ટ-આધારિત કાર્યોને સ્વચાલિત કરી શકે છે, જે કાર્યક્ષમતામાં સુધારો કરે છે અને ભૂલો ઘટાડે છે.",
+      "headline": "1. AI એજન્ટ્સમાં વિશ્વાસ વધારવા માટે AWS Bedrock AgentCore સાથે મૂલ્યાંકન ફ્રેમવર્ક",
+      "what_happened": "AWS એ AI એજન્ટ્સ માટે એક નવું નવ-તબક્કાનું મૂલ્યાંકન ફ્રેમવર્ક રજૂ કર્યું છે, જે Amazon Bedrock AgentCore પર આધારિત છે. આ ફ્રેમવર્ક એજન્ટ્સની ગુણવત્તામાં થતા ઘટાડાને ઓળખવામાં મદદ કરે છે, ખાસ કરીને જ્યારે કામગીરી ધીમી પડ્યા વિના ગુણવત્તા બગડે.",
+      "why_it_matters": "AI એજન્ટ્સના વિશ્વસનીય અને સુરક્ષિત ઉપયોગ માટે આ ફ્રેમવર્ક ખૂબ જ મહત્વપૂર્ણ છે. તે કંપનીઓને ખાતરી કરવામાં મદદ કરશે કે તેમના AI એજન્ટ્સ ઉત્પાદનમાં ઉચ્ચ ગુણવત્તા જાળવી રાખે છે.",
       "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
-    },
-    "hi": {
-      "headline": "1. Amazon Bedrock AgentCore का उपयोग करके स्वयं-सुधारने वाली डॉक्यूमेंट प्रोसेसिंग सिस्टम बनाएं",
-      "what_happened": "AWS ने Amazon Bedrock AgentCore का उपयोग करके एक एजेंटिक इंटेलिजेंट डॉक्यूमेंट प्रोसेसिंग (IDP) सिस्टम कैसे बनानी है, यह दिखाया है। यह सिस्टम बिजनेस डॉक्यूमेंट्स का वर्गीकरण, डेटा निष्कर्षण, सत्यापन और न्यूनतम मानवीय हस्तक्षेप के साथ सीखने का काम कर सकती है।",
-      "why_it_matters": "यह दर्शाता है कि AI एजेंट्स जटिल और दोहराए जाने वाले डॉक्यूमेंट-आधारित कार्यों को स्वचालित कर सकते हैं, जिससे कार्यक्षमता में सुधार होता है और त्रुटियां कम होती हैं।",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
     },
     "en": {
-      "headline": "1. How to Build a Self-Improving Document Processing System Using Amazon Bedrock AgentCore",
-      "what_happened": "AWS has demonstrated how to build an agentic Intelligent Document Processing (IDP) system using Amazon Bedrock AgentCore. This system can classify business documents, extract data, validate information, and learn with minimal human intervention.",
-      "why_it_matters": "This demonstrates that AI agents can automate complex and repetitive document-based tasks, improving efficiency and reducing errors.",
+      "headline": "1. AWS Bedrock AgentCore Evaluation Framework to Boost Trust in AI Agents",
+      "what_happened": "AWS has introduced a new nine-stage evaluation framework for AI agents, based on Amazon Bedrock AgentCore. This framework helps identify when the quality of agents degrades, particularly when quality worsens without a slowdown in performance.",
+      "why_it_matters": "This framework is crucial for the reliable and secure use of AI agents. It will help companies ensure their AI agents maintain high quality when used in real-world applications.",
       "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/"
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
     }
   }
 }
