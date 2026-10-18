@@ -1,21 +1,28 @@
 {
-  "generated_at": "2026-10-17T12:37:45.690340+05:30",
-  "weekday": "Saturday",
+  "generated_at": "2026-10-18T12:52:15.263464+05:30",
+  "weekday": "Sunday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. AI એજન્ટ્સમાં વિશ્વાસ વધારવા માટે AWS Bedrock AgentCore સાથે મૂલ્યાંકન ફ્રેમવર્ક",
-      "what_happened": "AWS એ AI એજન્ટ્સ માટે એક નવું નવ-તબક્કાનું મૂલ્યાંકન ફ્રેમવર્ક રજૂ કર્યું છે, જે Amazon Bedrock AgentCore પર આધારિત છે. આ ફ્રેમવર્ક એજન્ટ્સની ગુણવત્તામાં થતા ઘટાડાને ઓળખવામાં મદદ કરે છે, ખાસ કરીને જ્યારે કામગીરી ધીમી પડ્યા વિના ગુણવત્તા બગડે.",
-      "why_it_matters": "AI એજન્ટ્સના વિશ્વસનીય અને સુરક્ષિત ઉપયોગ માટે આ ફ્રેમવર્ક ખૂબ જ મહત્વપૂર્ણ છે. તે કંપનીઓને ખાતરી કરવામાં મદદ કરશે કે તેમના AI એજન્ટ્સ ઉત્પાદનમાં ઉચ્ચ ગુણવત્તા જાળવી રાખે છે.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
+      "headline": "1. Deepseek V4.1 Flash 1017: ઓછા ખર્ચે વધુ કાર્યક્ષમ AI એજન્ટ્સ",
+      "what_happened": "Deepseek ના નવા V4.1 Flash 1017 મોડેલે AI એજન્ટ કાર્યોમાં મોટા મોડેલોને પાછળ છોડી દીધા છે, અને આ કાર્યોનો ખર્ચ પણ નોંધપાત્ર રીતે ઘટાડ્યો છે.",
+      "why_it_matters": "આ દર્શાવે છે કે નાના, વધુ કાર્યક્ષમ AI મોડેલો પણ જટિલ એજન્ટ કાર્યોને ઓછા ખર્ચે કરી શકે છે. આનાથી AI એજન્ટ્સનો વ્યાપક ઉપયોગ શક્ય બનશે.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+    },
+    "hi": {
+      "headline": "1. Deepseek V4.1 Flash 1017: कम लागत पर अधिक कुशल AI एजेंट्स",
+      "what_happened": "Deepseek के नए V4.1 Flash 1017 मॉडल ने AI एजेंट कार्यों में बड़े मॉडलों को पीछे छोड़ दिया है, और इन कार्यों की लागत भी काफी कम कर दी है।",
+      "why_it_matters": "यह दर्शाता है कि छोटे, अधिक कुशल AI मॉडल भी जटिल एजेंट कार्यों को कम लागत पर कर सकते हैं। इससे AI एजेंट्स का व्यापक उपयोग संभव हो पाएगा।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
     },
     "en": {
-      "headline": "1. AWS Bedrock AgentCore Evaluation Framework to Boost Trust in AI Agents",
-      "what_happened": "AWS has introduced a new nine-stage evaluation framework for AI agents, based on Amazon Bedrock AgentCore. This framework helps identify when the quality of agents degrades, particularly when quality worsens without a slowdown in performance.",
-      "why_it_matters": "This framework is crucial for the reliable and secure use of AI agents. It will help companies ensure their AI agents maintain high quality when used in real-world applications.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
+      "headline": "1. Deepseek V4.1 Flash 1017: More Efficient AI Agents at Lower Cost",
+      "what_happened": "Deepseek's new V4.1 Flash 1017 model has surpassed larger models in AI agent tasks and significantly reduced the cost of these tasks.",
+      "why_it_matters": "This shows that even smaller, more efficient AI models can perform complex agent tasks at a lower cost. This will enable wider use of AI agents.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
     }
   }
 }
