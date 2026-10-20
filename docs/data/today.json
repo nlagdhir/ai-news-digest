@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-18T12:52:15.263464+05:30",
-  "weekday": "Sunday",
+  "generated_at": "2026-10-20T13:20:51.857560+05:30",
+  "weekday": "Tuesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Deepseek V4.1 Flash 1017: ઓછા ખર્ચે વધુ કાર્યક્ષમ AI એજન્ટ્સ",
-      "what_happened": "Deepseek ના નવા V4.1 Flash 1017 મોડેલે AI એજન્ટ કાર્યોમાં મોટા મોડેલોને પાછળ છોડી દીધા છે, અને આ કાર્યોનો ખર્ચ પણ નોંધપાત્ર રીતે ઘટાડ્યો છે.",
-      "why_it_matters": "આ દર્શાવે છે કે નાના, વધુ કાર્યક્ષમ AI મોડેલો પણ જટિલ એજન્ટ કાર્યોને ઓછા ખર્ચે કરી શકે છે. આનાથી AI એજન્ટ્સનો વ્યાપક ઉપયોગ શક્ય બનશે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+      "headline": "1. Nvidia એ એન્ટરપ્રાઇઝ અને PC માટે નવા ઓપન AI મોડેલ્સ લોન્ચ કર્યા",
+      "what_happened": "Nvidia એ નવા ઓપન મોડેલ્સ રજૂ કર્યા છે જે કંપનીઓને તેમના પોતાના ડેટા સેન્ટર્સમાં AI એજન્ટ્સ ચલાવવાની અને PC પર પ્રાઇવેટ AI એજન્ટ્સ બનાવવાની સુવિધા આપશે.",
+      "why_it_matters": "આનાથી કંપનીઓ માટે AI એજન્ટ્સનો ઉપયોગ કરવો વધુ સરળ અને સુરક્ષિત બનશે, ખાસ કરીને જ્યાં ડેટા પ્રાઇવસી અને કંટ્રોલ મહત્વના હોય. આ એન્ટરપ્રાઇઝમાં AI એજન્ટ્સના વ્યાપક અપનાવવા માટેનો માર્ગ મોકળો કરશે.",
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
     },
     "hi": {
-      "headline": "1. Deepseek V4.1 Flash 1017: कम लागत पर अधिक कुशल AI एजेंट्स",
-      "what_happened": "Deepseek के नए V4.1 Flash 1017 मॉडल ने AI एजेंट कार्यों में बड़े मॉडलों को पीछे छोड़ दिया है, और इन कार्यों की लागत भी काफी कम कर दी है।",
-      "why_it_matters": "यह दर्शाता है कि छोटे, अधिक कुशल AI मॉडल भी जटिल एजेंट कार्यों को कम लागत पर कर सकते हैं। इससे AI एजेंट्स का व्यापक उपयोग संभव हो पाएगा।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+      "headline": "1. Nvidia ने एंटरप्राइज और PC के लिए नए ओपन AI मॉडल लॉन्च किए",
+      "what_happened": "Nvidia ने नए ओपन मॉडल पेश किए हैं जो कंपनियों को अपने डेटा सेंटर्स में AI एजेंट्स चलाने और PC पर प्राइवेट AI एजेंट्स बनाने की सुविधा देंगे।",
+      "why_it_matters": "इससे कंपनियों के लिए AI एजेंट्स का उपयोग करना ज़्यादा आसान और सुरक्षित हो जाएगा, खासकर उन जगहों पर जहाँ डेटा प्राइवेसी और कंट्रोल महत्वपूर्ण हैं। यह एंटरप्राइज में AI एजेंट्स को बड़े पैमाने पर अपनाने का रास्ता साफ करेगा।",
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
     },
     "en": {
-      "headline": "1. Deepseek V4.1 Flash 1017: More Efficient AI Agents at Lower Cost",
-      "what_happened": "Deepseek's new V4.1 Flash 1017 model has surpassed larger models in AI agent tasks and significantly reduced the cost of these tasks.",
-      "why_it_matters": "This shows that even smaller, more efficient AI models can perform complex agent tasks at a lower cost. This will enable wider use of AI agents.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+      "headline": "1. Nvidia Launches New Open AI Models for Enterprise and PCs",
+      "what_happened": "Nvidia introduced new open models that will allow companies to run AI agents in their own data centers and create private AI agents on PCs.",
+      "why_it_matters": "This will make it easier and more secure for companies to use AI agents, especially where data privacy and control are important. This will pave the way for widespread adoption of AI agents in enterprises.",
+      "source_name": "TechCrunch AI",
+      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
     }
   }
 }
