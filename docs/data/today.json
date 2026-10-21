@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-20T13:20:51.857560+05:30",
-  "weekday": "Tuesday",
+  "generated_at": "2026-10-21T13:24:25.635367+05:30",
+  "weekday": "Wednesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Nvidia એ એન્ટરપ્રાઇઝ અને PC માટે નવા ઓપન AI મોડેલ્સ લોન્ચ કર્યા",
-      "what_happened": "Nvidia એ નવા ઓપન મોડેલ્સ રજૂ કર્યા છે જે કંપનીઓને તેમના પોતાના ડેટા સેન્ટર્સમાં AI એજન્ટ્સ ચલાવવાની અને PC પર પ્રાઇવેટ AI એજન્ટ્સ બનાવવાની સુવિધા આપશે.",
-      "why_it_matters": "આનાથી કંપનીઓ માટે AI એજન્ટ્સનો ઉપયોગ કરવો વધુ સરળ અને સુરક્ષિત બનશે, ખાસ કરીને જ્યાં ડેટા પ્રાઇવસી અને કંટ્રોલ મહત્વના હોય. આ એન્ટરપ્રાઇઝમાં AI એજન્ટ્સના વ્યાપક અપનાવવા માટેનો માર્ગ મોકળો કરશે.",
-      "source_name": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+      "headline": "1. ChatGPT Workથી ફ્રેન્ચાઇઝીએ કેશ રિકન્સિલિએશનનો સમય 94% ઘટાડ્યો",
+      "what_happened": "એક સ્વતંત્ર રેસ્ટોરન્ટ ફ્રેન્ચાઇઝીએ ChatGPT Workનો ઉપયોગ કરીને મેનુના ભાવ બદલવાનો સમય 95% ઘટાડ્યો અને કેશ ફ્લોમાં $100K બચાવ્યા.",
+      "why_it_matters": "આ દર્શાવે છે કે AI નાના અને મધ્યમ કદના વ્યવસાયોમાં પણ નોંધપાત્ર કાર્યક્ષમતા લાવી શકે છે અને નાણાકીય પ્રક્રિયાઓને સ્વચાલિત કરી શકે છે.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/ted-taylor-restaurant"
     },
     "hi": {
-      "headline": "1. Nvidia ने एंटरप्राइज और PC के लिए नए ओपन AI मॉडल लॉन्च किए",
-      "what_happened": "Nvidia ने नए ओपन मॉडल पेश किए हैं जो कंपनियों को अपने डेटा सेंटर्स में AI एजेंट्स चलाने और PC पर प्राइवेट AI एजेंट्स बनाने की सुविधा देंगे।",
-      "why_it_matters": "इससे कंपनियों के लिए AI एजेंट्स का उपयोग करना ज़्यादा आसान और सुरक्षित हो जाएगा, खासकर उन जगहों पर जहाँ डेटा प्राइवेसी और कंट्रोल महत्वपूर्ण हैं। यह एंटरप्राइज में AI एजेंट्स को बड़े पैमाने पर अपनाने का रास्ता साफ करेगा।",
-      "source_name": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+      "headline": "1. ChatGPT Work से फ्रेंचाइजी ने कैश रिकॉन्सिलिएशन का समय 94% घटाया",
+      "what_happened": "एक स्वतंत्र रेस्टोरेंट फ्रेंचाइजी ने ChatGPT Work का उपयोग करके मेनू के दाम बदलने का समय 95% कम कर दिया और कैश फ्लो में $100K बचाए।",
+      "why_it_matters": "यह दर्शाता है कि AI छोटे और मध्यम आकार के व्यवसायों में भी महत्वपूर्ण दक्षता ला सकता है और वित्तीय प्रक्रियाओं को स्वचालित कर सकता है।",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/ted-taylor-restaurant"
     },
     "en": {
-      "headline": "1. Nvidia Launches New Open AI Models for Enterprise and PCs",
-      "what_happened": "Nvidia introduced new open models that will allow companies to run AI agents in their own data centers and create private AI agents on PCs.",
-      "why_it_matters": "This will make it easier and more secure for companies to use AI agents, especially where data privacy and control are important. This will pave the way for widespread adoption of AI agents in enterprises.",
-      "source_name": "TechCrunch AI",
-      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/"
+      "headline": "1. Franchise Cuts Cash Reconciliation Time by 94% with ChatGPT Work",
+      "what_happened": "An independent restaurant franchise used ChatGPT Work to reduce the time spent changing menu prices by 95% and saved $100K in cash flow.",
+      "why_it_matters": "This demonstrates that AI can bring significant efficiency to small and medium-sized businesses and automate financial processes.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/ted-taylor-restaurant"
     }
   }
 }
