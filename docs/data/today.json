@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-21T13:24:25.635367+05:30",
-  "weekday": "Wednesday",
+  "generated_at": "2026-10-22T13:20:26.730152+05:30",
+  "weekday": "Thursday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. ChatGPT Workથી ફ્રેન્ચાઇઝીએ કેશ રિકન્સિલિએશનનો સમય 94% ઘટાડ્યો",
-      "what_happened": "એક સ્વતંત્ર રેસ્ટોરન્ટ ફ્રેન્ચાઇઝીએ ChatGPT Workનો ઉપયોગ કરીને મેનુના ભાવ બદલવાનો સમય 95% ઘટાડ્યો અને કેશ ફ્લોમાં $100K બચાવ્યા.",
-      "why_it_matters": "આ દર્શાવે છે કે AI નાના અને મધ્યમ કદના વ્યવસાયોમાં પણ નોંધપાત્ર કાર્યક્ષમતા લાવી શકે છે અને નાણાકીય પ્રક્રિયાઓને સ્વચાલિત કરી શકે છે.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/ted-taylor-restaurant"
+      "headline": "1. Google Cloud હવે OpenAI, Gemini અને Claude એમ ત્રણેય મોડેલ્સ પ્રદાન કરનાર એકમાત્ર મુખ્ય પ્રદાતા બન્યું.",
+      "what_happened": "Google Cloud એ તેની સેવાઓમાં OpenAI ના મોડેલ્સનો સમાવેશ કર્યો છે. આ સાથે, Google Cloud હવે એકમાત્ર મુખ્ય ક્લાઉડ પ્રદાતા છે જે OpenAI, Google Gemini અને Anthropic Claude એમ ત્રણેય અગ્રણી AI મોડેલ્સ ઓફર કરે છે.",
+      "why_it_matters": "આનાથી ગ્રાહકોને તેમની AI એપ્લિકેશન્સ માટે વધુ પસંદગી અને લવચીકતા મળશે. તેઓ એક જ પ્લેટફોર્મ પરથી જુદા જુદા મોડેલ્સનો ઉપયોગ કરી શકશે, જે નવીનતા અને કાર્યક્ષમતા વધારશે.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
     },
     "hi": {
-      "headline": "1. ChatGPT Work से फ्रेंचाइजी ने कैश रिकॉन्सिलिएशन का समय 94% घटाया",
-      "what_happened": "एक स्वतंत्र रेस्टोरेंट फ्रेंचाइजी ने ChatGPT Work का उपयोग करके मेनू के दाम बदलने का समय 95% कम कर दिया और कैश फ्लो में $100K बचाए।",
-      "why_it_matters": "यह दर्शाता है कि AI छोटे और मध्यम आकार के व्यवसायों में भी महत्वपूर्ण दक्षता ला सकता है और वित्तीय प्रक्रियाओं को स्वचालित कर सकता है।",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/ted-taylor-restaurant"
+      "headline": "1. Google Cloud अब OpenAI, Gemini और Claude तीनों मॉडल्स प्रदान करने वाला एकमात्र प्रमुख प्रदाता बन गया है।",
+      "what_happened": "Google Cloud ने अपनी सेवाओं में OpenAI के मॉडल्स को शामिल किया है। इसके साथ, Google Cloud अब एकमात्र प्रमुख क्लाउड प्रदाता है जो OpenAI, Google Gemini और Anthropic Claude तीनों अग्रणी AI मॉडल्स प्रदान करता है।",
+      "why_it_matters": "इससे ग्राहकों को अपनी AI एप्लीकेशन्स के लिए अधिक विकल्प और लचीलापन मिलेगा। वे एक ही प्लेटफॉर्म से अलग-अलग मॉडल्स का उपयोग कर सकेंगे, जिससे नवाचार और कार्यक्षमता बढ़ेगी।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
     },
     "en": {
-      "headline": "1. Franchise Cuts Cash Reconciliation Time by 94% with ChatGPT Work",
-      "what_happened": "An independent restaurant franchise used ChatGPT Work to reduce the time spent changing menu prices by 95% and saved $100K in cash flow.",
-      "why_it_matters": "This demonstrates that AI can bring significant efficiency to small and medium-sized businesses and automate financial processes.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/ted-taylor-restaurant"
+      "headline": "1. Google Cloud Becomes Only Major Provider to Offer OpenAI, Gemini, and Claude Models",
+      "what_happened": "Google Cloud has added OpenAI's models to its services. This makes Google Cloud the only major cloud provider to offer all three leading AI models: OpenAI, Google Gemini, and Anthropic Claude.",
+      "why_it_matters": "This gives customers more choices and flexibility for their AI applications. They can now use different models from a single platform, which will boost innovation and efficiency.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
     }
   }
 }
