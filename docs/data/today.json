@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-22T13:20:26.730152+05:30",
-  "weekday": "Thursday",
+  "generated_at": "2026-10-23T13:19:44.288243+05:30",
+  "weekday": "Friday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Google Cloud હવે OpenAI, Gemini અને Claude એમ ત્રણેય મોડેલ્સ પ્રદાન કરનાર એકમાત્ર મુખ્ય પ્રદાતા બન્યું.",
-      "what_happened": "Google Cloud એ તેની સેવાઓમાં OpenAI ના મોડેલ્સનો સમાવેશ કર્યો છે. આ સાથે, Google Cloud હવે એકમાત્ર મુખ્ય ક્લાઉડ પ્રદાતા છે જે OpenAI, Google Gemini અને Anthropic Claude એમ ત્રણેય અગ્રણી AI મોડેલ્સ ઓફર કરે છે.",
-      "why_it_matters": "આનાથી ગ્રાહકોને તેમની AI એપ્લિકેશન્સ માટે વધુ પસંદગી અને લવચીકતા મળશે. તેઓ એક જ પ્લેટફોર્મ પરથી જુદા જુદા મોડેલ્સનો ઉપયોગ કરી શકશે, જે નવીનતા અને કાર્યક્ષમતા વધારશે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
+      "headline": "1. NVIDIA Minerva: AI ફેક્ટરીઓ માટે એન્ડ-ટુ-એન્ડ ઓબ્ઝર્વેબિલિટી",
+      "what_happened": "NVIDIA એ Minerva નામનું નવું AIOps પ્લેટફોર્મ લોન્ચ કર્યું છે. આ પ્લેટફોર્મ AI ફેક્ટરીઓમાં સમસ્યાઓ વહેલી તકે શોધવામાં અને AI વર્કલોડ્સને કાર્યક્ષમ રાખવામાં મદદ કરે છે.",
+      "why_it_matters": "AI સિસ્ટમ્સનું સંચાલન અને દેખરેખ વધુ જટિલ બની રહી છે. Minerva જેવું પ્લેટફોર્મ AI ઇન્ફ્રાસ્ટ્રક્ચરની કાર્યક્ષમતા અને વિશ્વસનીયતા સુધારવા માટે મહત્ત્વપૂર્ણ છે.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/"
     },
     "hi": {
-      "headline": "1. Google Cloud अब OpenAI, Gemini और Claude तीनों मॉडल्स प्रदान करने वाला एकमात्र प्रमुख प्रदाता बन गया है।",
-      "what_happened": "Google Cloud ने अपनी सेवाओं में OpenAI के मॉडल्स को शामिल किया है। इसके साथ, Google Cloud अब एकमात्र प्रमुख क्लाउड प्रदाता है जो OpenAI, Google Gemini और Anthropic Claude तीनों अग्रणी AI मॉडल्स प्रदान करता है।",
-      "why_it_matters": "इससे ग्राहकों को अपनी AI एप्लीकेशन्स के लिए अधिक विकल्प और लचीलापन मिलेगा। वे एक ही प्लेटफॉर्म से अलग-अलग मॉडल्स का उपयोग कर सकेंगे, जिससे नवाचार और कार्यक्षमता बढ़ेगी।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
+      "headline": "1. NVIDIA Minerva: AI फैक्ट्रियों के लिए एंड-टू-एंड ऑब्जर्वेबिलिटी",
+      "what_happened": "NVIDIA ने Minerva नामक एक नया AIOps प्लेटफॉर्म लॉन्च किया है। यह प्लेटफॉर्म AI फैक्ट्रियों में समस्याओं को जल्दी पहचानने और AI वर्कलोड्स को कुशल बनाए रखने में मदद करता है।",
+      "why_it_matters": "AI सिस्टम्स का प्रबंधन और निगरानी अधिक जटिल होती जा रही है। Minerva जैसा प्लेटफॉर्म AI इंफ्रास्ट्रक्चर की कार्यक्षमता और विश्वसनीयता में सुधार के लिए महत्वपूर्ण है।",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/"
     },
     "en": {
-      "headline": "1. Google Cloud Becomes Only Major Provider to Offer OpenAI, Gemini, and Claude Models",
-      "what_happened": "Google Cloud has added OpenAI's models to its services. This makes Google Cloud the only major cloud provider to offer all three leading AI models: OpenAI, Google Gemini, and Anthropic Claude.",
-      "why_it_matters": "This gives customers more choices and flexibility for their AI applications. They can now use different models from a single platform, which will boost innovation and efficiency.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/"
+      "headline": "1. NVIDIA Minerva: End-to-End Observability for AI Factories",
+      "what_happened": "NVIDIA has launched a new AIOps platform called Minerva. This platform helps detect problems early in AI factories and keeps AI workloads efficient.",
+      "why_it_matters": "Managing and monitoring AI systems is becoming more complex. A platform like Minerva is crucial for improving the efficiency and reliability of AI infrastructure.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/"
     }
   }
 }
