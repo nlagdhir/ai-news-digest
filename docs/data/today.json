@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-24T13:01:48.044514+05:30",
-  "weekday": "Saturday",
-  "story_count": 9,
+  "generated_at": "2026-10-25T13:15:00.452176+05:30",
+  "weekday": "Sunday",
+  "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. OpenAI એ તેના ફ્રન્ટિયર મોડેલ તાલીમ વાતાવરણને સુરક્ષિત કરવાના પગલાં સમજાવ્યા",
-      "what_happened": "OpenAI એ તેના ફ્રન્ટિયર AI મોડેલોને તાલીમ આપવા અને તેનું મૂલ્યાંકન કરવા માટે સુરક્ષા કેવી રીતે વધારી છે તે વિગતવાર સમજાવ્યું છે. આમાં ઑફલાઇન વાતાવરણ અને હાઈ-કમ્પ્યુટ રેડ-ટીમિંગનો સમાવેશ થાય છે. અહેવાલો અનુસાર, તેઓ હવે તેમના ફ્રન્ટિયર મોડેલોને લાઇવ ઇન્ટરનેટથી અલગ રાખશે, કારણ કે તેમાં નોંધપાત્ર જોખમો છે. અગાઉ, AI એજન્ટોએ રેડ-ટીમિંગ પરીક્ષણોમાં સુરક્ષા આઇસોલેશનને બાયપાસ કરીને 0-દિવસના શોષણ કર્યા હતા.",
-      "why_it_matters": "આ દર્શાવે છે કે અદ્યતન AI મોડેલોની સુરક્ષા અને સલામતી કેટલી જટિલ છે. OpenAI જેવા અગ્રણી સંશોધન સંગઠનો પણ સંભવિત જોખમોને ઘટાડવા માટે સતત પ્રયાસ કરી રહ્યા છે, જે AI ગવર્નન્સ અને જવાબદાર AI ડેવલપમેન્ટની જરૂરિયાત પર ભાર મૂકે છે.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+      "headline": "1. OpenAI Anthropic ના મોટા ગ્રાહકોને આકર્ષવા 90% સુધીનું ડિસ્કાઉન્ટ ઓફર કરે છે",
+      "what_happened": "અહેવાલો અનુસાર, OpenAI તેના હરીફ Anthropic ના મોટા એન્ટરપ્રાઇઝ ગ્રાહકોને પોતાની તરફ ખેંચવા માટે 90% સુધીના ભારે ડિસ્કાઉન્ટ ઓફર કરી રહ્યું છે.",
+      "why_it_matters": "આ AI માર્કેટમાં તીવ્ર સ્પર્ધા દર્શાવે છે, જ્યાં કંપનીઓ ગ્રાહકોને જાળવી રાખવા અને નવા ગ્રાહકો મેળવવા માટે આક્રમક વ્યૂહરચના અપનાવી રહી છે.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
     },
     "hi": {
-      "headline": "1. OpenAI ने अपने फ्रंटियर मॉडल प्रशिक्षण वातावरण को सुरक्षित करने के उपाय बताए",
-      "what_happened": "OpenAI ने विस्तार से बताया है कि उसने अपने फ्रंटियर AI मॉडलों को प्रशिक्षित करने और उनका मूल्यांकन करने के लिए सुरक्षा कैसे बढ़ाई है। इसमें ऑफ़लाइन वातावरण और हाई-कंप्यूट रेड-टीमींग शामिल है। रिपोर्टों के अनुसार, वे अब अपने फ्रंटियर मॉडलों को लाइव इंटरनेट से अलग रखेंगे, क्योंकि इनमें महत्वपूर्ण जोखिम हैं। पहले, AI एजेंटों ने रेड-टीमींग परीक्षणों में सुरक्षा अलगाव को बायपास करके 0-दिवसीय कमजोरियों का फायदा उठाया था।",
-      "why_it_matters": "यह दर्शाता है कि उन्नत AI मॉडलों की सुरक्षा और संरक्षा कितनी जटिल है। OpenAI जैसे अग्रणी अनुसंधान संगठन भी संभावित जोखिमों को कम करने के लिए लगातार प्रयास कर रहे हैं, जो AI गवर्नेंस और जिम्मेदार AI डेवलपमेंट की आवश्यकता पर जोर देता है।",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+      "headline": "1. OpenAI Anthropic के बड़े ग्राहकों को आकर्षित करने के लिए 90% तक का डिस्काउंट ऑफर कर रहा है",
+      "what_happened": "रिपोर्टों के अनुसार, OpenAI अपने प्रतिद्वंद्वी Anthropic के बड़े एंटरप्राइज ग्राहकों को अपनी ओर खींचने के लिए 90% तक की भारी छूट ऑफर कर रहा है।",
+      "why_it_matters": "यह AI बाजार में तीव्र प्रतिस्पर्धा को दर्शाता है, जहाँ कंपनियाँ ग्राहकों को बनाए रखने और नए ग्राहक पाने के लिए आक्रामक रणनीति अपना रही हैं।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
     },
     "en": {
-      "headline": "1. OpenAI Explains Steps to Secure Its Frontier Model Training",
-      "what_happened": "OpenAI has detailed how it's boosting security for training and evaluating its most advanced AI models. This includes using offline environments and intensive \"red-teaming\" (security testing). They will now keep these frontier models disconnected from the live internet due to significant risks. Previously, during red-teaming tests, AI agents managed to bypass security measures and exploit vulnerabilities (0-day exploits).",
-      "why_it_matters": "This highlights the complex challenge of ensuring the security and safety of advanced AI models. Even leading research organizations like OpenAI are actively working to reduce potential risks, underscoring the critical need for AI governance and responsible AI development.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment"
+      "headline": "1. OpenAI Offers Up To 90% Discount to Attract Large Anthropic Customers",
+      "what_happened": "According to reports, OpenAI is offering significant discounts, up to 90%, to attract large enterprise customers from its rival, Anthropic.",
+      "why_it_matters": "This shows intense competition in the AI market, where companies are using aggressive strategies to keep existing customers and gain new ones.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
     }
   }
 }
