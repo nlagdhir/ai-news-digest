@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-25T13:15:00.452176+05:30",
-  "weekday": "Sunday",
+  "generated_at": "2026-10-27T13:42:06.966524+05:30",
+  "weekday": "Tuesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. OpenAI Anthropic ના મોટા ગ્રાહકોને આકર્ષવા 90% સુધીનું ડિસ્કાઉન્ટ ઓફર કરે છે",
-      "what_happened": "અહેવાલો અનુસાર, OpenAI તેના હરીફ Anthropic ના મોટા એન્ટરપ્રાઇઝ ગ્રાહકોને પોતાની તરફ ખેંચવા માટે 90% સુધીના ભારે ડિસ્કાઉન્ટ ઓફર કરી રહ્યું છે.",
-      "why_it_matters": "આ AI માર્કેટમાં તીવ્ર સ્પર્ધા દર્શાવે છે, જ્યાં કંપનીઓ ગ્રાહકોને જાળવી રાખવા અને નવા ગ્રાહકો મેળવવા માટે આક્રમક વ્યૂહરચના અપનાવી રહી છે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
+      "headline": "1. Greptile GPT-6 Astra નો ઉપયોગ કરીને બગ ડિટેક્શનને કોડ રિવ્યુથી આગળ લઈ જાય છે.",
+      "what_happened": "Greptile નામની કંપની GPT-6 Astra, Daybreak અને Codex જેવા OpenAI મોડલ્સનો ઉપયોગ કરીને યુઝર વર્કફ્લો ટેસ્ટિંગ, સિક્યોરિટી મજબૂત કરવા અને રીવર્ક ઘટાડવા માટે બગ ડિટેક્શનને વધુ કાર્યક્ષમ બનાવી રહી છે.",
+      "why_it_matters": "આ AI-સંચાલિત ટૂલ્સ ડેવલપર્સને કોડની ગુણવત્તા અને સુરક્ષા સુધારવામાં મદદ કરે છે, જેનાથી વિકાસ પ્રક્રિયા ઝડપી અને ખર્ચ-અસરકારક બને છે.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
     },
     "hi": {
-      "headline": "1. OpenAI Anthropic के बड़े ग्राहकों को आकर्षित करने के लिए 90% तक का डिस्काउंट ऑफर कर रहा है",
-      "what_happened": "रिपोर्टों के अनुसार, OpenAI अपने प्रतिद्वंद्वी Anthropic के बड़े एंटरप्राइज ग्राहकों को अपनी ओर खींचने के लिए 90% तक की भारी छूट ऑफर कर रहा है।",
-      "why_it_matters": "यह AI बाजार में तीव्र प्रतिस्पर्धा को दर्शाता है, जहाँ कंपनियाँ ग्राहकों को बनाए रखने और नए ग्राहक पाने के लिए आक्रामक रणनीति अपना रही हैं।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
+      "headline": "1. Greptile GPT-6 Astra का उपयोग करके बग डिटेक्शन को कोड रिव्यू से आगे ले जाता है।",
+      "what_happened": "Greptile नामक कंपनी GPT-6 Astra, Daybreak और Codex जैसे OpenAI मॉडल्स का उपयोग करके यूजर वर्कफ़्लो टेस्टिंग, सिक्योरिटी मजबूत करने और रीवर्क कम करने के लिए बग डिटेक्शन को और अधिक कुशल बना रही है।",
+      "why_it_matters": "ये AI-संचालित टूल्स डेवलपर्स को कोड की गुणवत्ता और सुरक्षा सुधारने में मदद करते हैं, जिससे विकास प्रक्रिया तेज और लागत-प्रभावी बनती है।",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
     },
     "en": {
-      "headline": "1. OpenAI Offers Up To 90% Discount to Attract Large Anthropic Customers",
-      "what_happened": "According to reports, OpenAI is offering significant discounts, up to 90%, to attract large enterprise customers from its rival, Anthropic.",
-      "why_it_matters": "This shows intense competition in the AI market, where companies are using aggressive strategies to keep existing customers and gain new ones.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
+      "headline": "1. Greptile Moves Bug Detection Beyond Code Review with GPT-6 Astra",
+      "what_happened": "Greptile is making bug detection more efficient by using OpenAI models like GPT-6 Astra, Daybreak, and Codex. This helps improve user workflow testing, strengthen security, and reduce rework.",
+      "why_it_matters": "These AI-powered tools help developers improve code quality and security, making the development process faster and more cost-effective.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
     }
   }
 }
