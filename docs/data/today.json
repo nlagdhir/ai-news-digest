@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-27T13:42:06.966524+05:30",
-  "weekday": "Tuesday",
+  "generated_at": "2026-10-28T14:20:29.101231+05:30",
+  "weekday": "Wednesday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Greptile GPT-6 Astra નો ઉપયોગ કરીને બગ ડિટેક્શનને કોડ રિવ્યુથી આગળ લઈ જાય છે.",
-      "what_happened": "Greptile નામની કંપની GPT-6 Astra, Daybreak અને Codex જેવા OpenAI મોડલ્સનો ઉપયોગ કરીને યુઝર વર્કફ્લો ટેસ્ટિંગ, સિક્યોરિટી મજબૂત કરવા અને રીવર્ક ઘટાડવા માટે બગ ડિટેક્શનને વધુ કાર્યક્ષમ બનાવી રહી છે.",
-      "why_it_matters": "આ AI-સંચાલિત ટૂલ્સ ડેવલપર્સને કોડની ગુણવત્તા અને સુરક્ષા સુધારવામાં મદદ કરે છે, જેનાથી વિકાસ પ્રક્રિયા ઝડપી અને ખર્ચ-અસરકારક બને છે.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
+      "headline": "1. Google DeepMind નું Genie 4: વાસ્તવિક સમયના સિમ્યુલેશન માટે નવું વિશ્વ મોડેલ",
+      "what_happened": "Google DeepMind એ Genie 4 નામનું નવું વિશ્વ મોડેલ રજૂ કર્યું છે, જે વાસ્તવિક સમયના સિમ્યુલેશનમાં અસાધારણ વાસ્તવિકતા પ્રદાન કરે છે. આ મોડેલ વિશ્વને અનુકરણ કરવાની ક્ષમતામાં નોંધપાત્ર પ્રગતિ દર્શાવે છે.",
+      "why_it_matters": "આ નવી ક્ષમતા AI સિમ્યુલેશન, રોબોટિક્સ અને વર્ચ્યુઅલ વાતાવરણના વિકાસ માટે ખૂબ જ મહત્વપૂર્ણ છે. તે AI ને ભૌતિક વિશ્વને વધુ સારી રીતે સમજવામાં અને તેની સાથે ક્રિયાપ્રતિક્રિયા કરવામાં મદદ કરી શકે છે.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     },
     "hi": {
-      "headline": "1. Greptile GPT-6 Astra का उपयोग करके बग डिटेक्शन को कोड रिव्यू से आगे ले जाता है।",
-      "what_happened": "Greptile नामक कंपनी GPT-6 Astra, Daybreak और Codex जैसे OpenAI मॉडल्स का उपयोग करके यूजर वर्कफ़्लो टेस्टिंग, सिक्योरिटी मजबूत करने और रीवर्क कम करने के लिए बग डिटेक्शन को और अधिक कुशल बना रही है।",
-      "why_it_matters": "ये AI-संचालित टूल्स डेवलपर्स को कोड की गुणवत्ता और सुरक्षा सुधारने में मदद करते हैं, जिससे विकास प्रक्रिया तेज और लागत-प्रभावी बनती है।",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
+      "headline": "1. Google DeepMind का Genie 4: वास्तविक समय के सिमुलेशन के लिए नया विश्व मॉडल",
+      "what_happened": "Google DeepMind ने Genie 4 नामक एक नया विश्व मॉडल पेश किया है, जो वास्तविक समय के सिमुलेशन में असाधारण यथार्थता प्रदान करता है। यह मॉडल दुनिया का अनुकरण करने की क्षमता में एक महत्वपूर्ण प्रगति दर्शाता है।",
+      "why_it_matters": "यह नई क्षमता AI सिमुलेशन, रोबोटिक्स और वर्चुअल वातावरण के विकास के लिए बहुत महत्वपूर्ण है। यह AI को भौतिक दुनिया को बेहतर ढंग से समझने और उसके साथ बातचीत करने में मदद कर सकता है।",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     },
     "en": {
-      "headline": "1. Greptile Moves Bug Detection Beyond Code Review with GPT-6 Astra",
-      "what_happened": "Greptile is making bug detection more efficient by using OpenAI models like GPT-6 Astra, Daybreak, and Codex. This helps improve user workflow testing, strengthen security, and reduce rework.",
-      "why_it_matters": "These AI-powered tools help developers improve code quality and security, making the development process faster and more cost-effective.",
-      "source_name": "OpenAI News",
-      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
+      "headline": "1. Google DeepMind's Genie 4: New World Model for Real-Time Simulations",
+      "what_happened": "Google DeepMind has introduced a new world model called Genie 4, which offers exceptional realism in real-time simulations. This model shows significant progress in its ability to simulate the world.",
+      "why_it_matters": "This new capability is very important for the development of AI simulations, robotics, and virtual environments. It can help AI better understand and interact with the physical world.",
+      "source_name": "Google DeepMind Blog",
+      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     }
   }
 }
