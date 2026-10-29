@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-28T14:20:29.101231+05:30",
-  "weekday": "Wednesday",
+  "generated_at": "2026-10-29T14:14:54.786006+05:30",
+  "weekday": "Thursday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Google DeepMind નું Genie 4: વાસ્તવિક સમયના સિમ્યુલેશન માટે નવું વિશ્વ મોડેલ",
-      "what_happened": "Google DeepMind એ Genie 4 નામનું નવું વિશ્વ મોડેલ રજૂ કર્યું છે, જે વાસ્તવિક સમયના સિમ્યુલેશનમાં અસાધારણ વાસ્તવિકતા પ્રદાન કરે છે. આ મોડેલ વિશ્વને અનુકરણ કરવાની ક્ષમતામાં નોંધપાત્ર પ્રગતિ દર્શાવે છે.",
-      "why_it_matters": "આ નવી ક્ષમતા AI સિમ્યુલેશન, રોબોટિક્સ અને વર્ચ્યુઅલ વાતાવરણના વિકાસ માટે ખૂબ જ મહત્વપૂર્ણ છે. તે AI ને ભૌતિક વિશ્વને વધુ સારી રીતે સમજવામાં અને તેની સાથે ક્રિયાપ્રતિક્રિયા કરવામાં મદદ કરી શકે છે.",
+      "headline": "1. Google DeepMind એ Gemini 4 Carbon મોડેલ રજૂ કર્યું",
+      "what_happened": "Google DeepMind એ તેમનું નવું ફ્રન્ટિયર મોડેલ, Gemini 4 Carbon, રજૂ કર્યું છે. આ મોડેલ AI ક્ષમતાઓમાં નવી સીમાઓ સર કરશે તેવી અપેક્ષા છે.",
+      "why_it_matters": "આ નવા મોડેલથી AI એપ્લિકેશન્સ અને સેવાઓમાં નોંધપાત્ર સુધારા જોવા મળી શકે છે, જે ભવિષ્યમાં વધુ શક્તિશાળી AI સોલ્યુશન્સનો માર્ગ મોકળો કરશે.",
       "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      "source_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
     },
     "hi": {
-      "headline": "1. Google DeepMind का Genie 4: वास्तविक समय के सिमुलेशन के लिए नया विश्व मॉडल",
-      "what_happened": "Google DeepMind ने Genie 4 नामक एक नया विश्व मॉडल पेश किया है, जो वास्तविक समय के सिमुलेशन में असाधारण यथार्थता प्रदान करता है। यह मॉडल दुनिया का अनुकरण करने की क्षमता में एक महत्वपूर्ण प्रगति दर्शाता है।",
-      "why_it_matters": "यह नई क्षमता AI सिमुलेशन, रोबोटिक्स और वर्चुअल वातावरण के विकास के लिए बहुत महत्वपूर्ण है। यह AI को भौतिक दुनिया को बेहतर ढंग से समझने और उसके साथ बातचीत करने में मदद कर सकता है।",
+      "headline": "1. Google DeepMind ने Gemini 4 Carbon मॉडल पेश किया",
+      "what_happened": "Google DeepMind ने अपना नया फ्रंटियर मॉडल, Gemini 4 Carbon, पेश किया है। उम्मीद है कि यह मॉडल AI क्षमताओं में नई ऊंचाइयों को छुएगा।",
+      "why_it_matters": "इस नए मॉडल से AI एप्लीकेशन्स और सेवाओं में महत्वपूर्ण सुधार देखने को मिल सकते हैं, जो भविष्य में और अधिक शक्तिशाली AI सॉल्यूशंस का मार्ग प्रशस्त करेगा।",
       "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      "source_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
     },
     "en": {
-      "headline": "1. Google DeepMind's Genie 4: New World Model for Real-Time Simulations",
-      "what_happened": "Google DeepMind has introduced a new world model called Genie 4, which offers exceptional realism in real-time simulations. This model shows significant progress in its ability to simulate the world.",
-      "why_it_matters": "This new capability is very important for the development of AI simulations, robotics, and virtual environments. It can help AI better understand and interact with the physical world.",
+      "headline": "1. Google DeepMind Unveils Gemini 4 Carbon Model",
+      "what_happened": "Google DeepMind has introduced its new frontier model, Gemini 4 Carbon. This model is expected to push new boundaries in AI capabilities.",
+      "why_it_matters": "This new model could bring significant improvements to AI applications and services, paving the way for more powerful AI solutions in the future.",
       "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      "source_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
     }
   }
 }
