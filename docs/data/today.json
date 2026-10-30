@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-29T14:14:54.786006+05:30",
-  "weekday": "Thursday",
+  "generated_at": "2026-10-30T14:27:58.271114+05:30",
+  "weekday": "Friday",
   "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Google DeepMind એ Gemini 4 Carbon મોડેલ રજૂ કર્યું",
-      "what_happened": "Google DeepMind એ તેમનું નવું ફ્રન્ટિયર મોડેલ, Gemini 4 Carbon, રજૂ કર્યું છે. આ મોડેલ AI ક્ષમતાઓમાં નવી સીમાઓ સર કરશે તેવી અપેક્ષા છે.",
-      "why_it_matters": "આ નવા મોડેલથી AI એપ્લિકેશન્સ અને સેવાઓમાં નોંધપાત્ર સુધારા જોવા મળી શકે છે, જે ભવિષ્યમાં વધુ શક્તિશાળી AI સોલ્યુશન્સનો માર્ગ મોકળો કરશે.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      "headline": "1. NVIDIA Nemotron 3.5 Super VL મોડેલ AWS પર ઉપલબ્ધ, AI એજન્ટ્સને વેગ આપશે.",
+      "what_happened": "NVIDIA એ તેનું 120-બિલિયન-પેરામીટરનું Nemotron 3.5 Super VL મોડેલ રજૂ કર્યું છે, જે મલ્ટિમોડલ સમજણ, તર્ક અને ટૂલનો ઉપયોગ કરી શકે છે. આ મોડેલ હવે Amazon EKS અને SageMaker HyperPod EKS પર ડિપ્લોય કરી શકાય છે.",
+      "why_it_matters": "આ મોડેલ AI એજન્ટ્સને વધુ શક્તિશાળી બનાવશે અને જટિલ કાર્યો કરવા સક્ષમ બનાવશે. AWS પર તેની ઉપલબ્ધતા ડેવલપર્સ માટે તેને સરળતાથી એક્સેસ અને ઉપયોગ કરવાનું શક્ય બનાવશે.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
     },
     "hi": {
-      "headline": "1. Google DeepMind ने Gemini 4 Carbon मॉडल पेश किया",
-      "what_happened": "Google DeepMind ने अपना नया फ्रंटियर मॉडल, Gemini 4 Carbon, पेश किया है। उम्मीद है कि यह मॉडल AI क्षमताओं में नई ऊंचाइयों को छुएगा।",
-      "why_it_matters": "इस नए मॉडल से AI एप्लीकेशन्स और सेवाओं में महत्वपूर्ण सुधार देखने को मिल सकते हैं, जो भविष्य में और अधिक शक्तिशाली AI सॉल्यूशंस का मार्ग प्रशस्त करेगा।",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      "headline": "1. NVIDIA Nemotron 3.5 Super VL मॉडल AWS पर उपलब्ध, AI एजेंट्स को गति देगा।",
+      "what_happened": "NVIDIA ने अपना 120-बिलियन-पैरामीटर का Nemotron 3.5 Super VL मॉडल पेश किया है, जो मल्टीमॉडल समझ, तर्क और टूल का उपयोग कर सकता है। यह मॉडल अब Amazon EKS और SageMaker HyperPod EKS पर डिप्लॉय किया जा सकता है।",
+      "why_it_matters": "यह मॉडल AI एजेंट्स को अधिक शक्तिशाली बनाएगा और जटिल कार्य करने में सक्षम बनाएगा। AWS पर इसकी उपलब्धता डेवलपर्स के लिए इसे आसानी से एक्सेस और उपयोग करना संभव बनाएगी।",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
     },
     "en": {
-      "headline": "1. Google DeepMind Unveils Gemini 4 Carbon Model",
-      "what_happened": "Google DeepMind has introduced its new frontier model, Gemini 4 Carbon. This model is expected to push new boundaries in AI capabilities.",
-      "why_it_matters": "This new model could bring significant improvements to AI applications and services, paving the way for more powerful AI solutions in the future.",
-      "source_name": "Google DeepMind Blog",
-      "source_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
+      "headline": "1. NVIDIA Nemotron 3.5 Super VL Model Now on AWS, Boosts AI Agents",
+      "what_happened": "NVIDIA has launched its Nemotron 3.5 Super VL model, which features 120 billion parameters. This model is capable of multimodal understanding, reasoning, and tool use. It can now be deployed on Amazon EKS and SageMaker HyperPod EKS.",
+      "why_it_matters": "This model will make AI agents more powerful, enabling them to handle complex tasks. Its availability on AWS means developers can easily access and use it.",
+      "source_name": "AWS Machine Learning Blog",
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
     }
   }
 }
