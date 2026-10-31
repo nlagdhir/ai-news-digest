@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-30T14:27:58.271114+05:30",
-  "weekday": "Friday",
-  "story_count": 10,
+  "generated_at": "2026-10-31T14:09:31.830059+05:30",
+  "weekday": "Saturday",
+  "story_count": 8,
   "stories": {
     "gu": {
-      "headline": "1. NVIDIA Nemotron 3.5 Super VL મોડેલ AWS પર ઉપલબ્ધ, AI એજન્ટ્સને વેગ આપશે.",
-      "what_happened": "NVIDIA એ તેનું 120-બિલિયન-પેરામીટરનું Nemotron 3.5 Super VL મોડેલ રજૂ કર્યું છે, જે મલ્ટિમોડલ સમજણ, તર્ક અને ટૂલનો ઉપયોગ કરી શકે છે. આ મોડેલ હવે Amazon EKS અને SageMaker HyperPod EKS પર ડિપ્લોય કરી શકાય છે.",
-      "why_it_matters": "આ મોડેલ AI એજન્ટ્સને વધુ શક્તિશાળી બનાવશે અને જટિલ કાર્યો કરવા સક્ષમ બનાવશે. AWS પર તેની ઉપલબ્ધતા ડેવલપર્સ માટે તેને સરળતાથી એક્સેસ અને ઉપયોગ કરવાનું શક્ય બનાવશે.",
+      "headline": "1. Amazon Bedrock AgentCore વડે કોડિંગ એજન્ટ્સ દ્વારા બનતી વેબ એપ્સનું લાઇવ પ્રિવ્યુ",
+      "what_happened": "Amazon Bedrock AgentCore Session endpoints હવે ડેવલપર્સને AI કોડિંગ એજન્ટ્સ દ્વારા બનાવવામાં આવતી વેબ એપ્લિકેશન્સનું લાઇવ પ્રિવ્યુ જોવાની સુવિધા આપે છે.",
+      "why_it_matters": "આનાથી ડેવલપર્સ AI એજન્ટ્સના કામને રીઅલ-ટાઇમમાં જોઈ અને સુધારી શકે છે, જેનાથી વેબ એપ્લિકેશન ડેવલપમેન્ટ પ્રક્રિયા વધુ કાર્યક્ષમ બને છે અને ક્લાયન્ટ્સ માટે ઝડપી પ્રોટોટાઇપિંગ શક્ય બને છે.",
       "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/"
     },
     "hi": {
-      "headline": "1. NVIDIA Nemotron 3.5 Super VL मॉडल AWS पर उपलब्ध, AI एजेंट्स को गति देगा।",
-      "what_happened": "NVIDIA ने अपना 120-बिलियन-पैरामीटर का Nemotron 3.5 Super VL मॉडल पेश किया है, जो मल्टीमॉडल समझ, तर्क और टूल का उपयोग कर सकता है। यह मॉडल अब Amazon EKS और SageMaker HyperPod EKS पर डिप्लॉय किया जा सकता है।",
-      "why_it_matters": "यह मॉडल AI एजेंट्स को अधिक शक्तिशाली बनाएगा और जटिल कार्य करने में सक्षम बनाएगा। AWS पर इसकी उपलब्धता डेवलपर्स के लिए इसे आसानी से एक्सेस और उपयोग करना संभव बनाएगी।",
+      "headline": "1. Amazon Bedrock AgentCore के साथ कोडिंग एजेंट्स द्वारा बनाई जा रही वेब ऐप्स का लाइव प्रीव्यू",
+      "what_happened": "Amazon Bedrock AgentCore Session endpoints अब डेवलपर्स को एआई कोडिंग एजेंट्स द्वारा बनाई जा रही वेब एप्लीकेशन्स का लाइव प्रीव्यू देखने की सुविधा देता है।",
+      "why_it_matters": "इससे डेवलपर्स एआई एजेंट्स के काम को रीयल-टाइम में देख और सुधार सकते हैं, जिससे वेब एप्लीकेशन डेवलपमेंट प्रक्रिया अधिक कुशल बनती है और क्लाइंट्स के लिए तेज प्रोटोटाइपिंग संभव हो पाता है।",
       "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/"
     },
     "en": {
-      "headline": "1. NVIDIA Nemotron 3.5 Super VL Model Now on AWS, Boosts AI Agents",
-      "what_happened": "NVIDIA has launched its Nemotron 3.5 Super VL model, which features 120 billion parameters. This model is capable of multimodal understanding, reasoning, and tool use. It can now be deployed on Amazon EKS and SageMaker HyperPod EKS.",
-      "why_it_matters": "This model will make AI agents more powerful, enabling them to handle complex tasks. Its availability on AWS means developers can easily access and use it.",
+      "headline": "1. Amazon Bedrock AgentCore Offers Live Previews of Web Apps Built by Coding Agents",
+      "what_happened": "Amazon Bedrock AgentCore Session endpoints now allow developers to see a live preview of web applications being created by AI coding agents.",
+      "why_it_matters": "This enables developers to monitor and refine the AI agents' work in real-time, making the web application development process more efficient and allowing for faster prototyping for clients.",
       "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/"
+      "source_url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/"
     }
   }
 }
