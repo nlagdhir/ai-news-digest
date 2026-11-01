@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-31T14:09:31.830059+05:30",
-  "weekday": "Saturday",
-  "story_count": 8,
+  "generated_at": "2026-11-01T15:00:53.018146+05:30",
+  "weekday": "Sunday",
+  "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. Amazon Bedrock AgentCore વડે કોડિંગ એજન્ટ્સ દ્વારા બનતી વેબ એપ્સનું લાઇવ પ્રિવ્યુ",
-      "what_happened": "Amazon Bedrock AgentCore Session endpoints હવે ડેવલપર્સને AI કોડિંગ એજન્ટ્સ દ્વારા બનાવવામાં આવતી વેબ એપ્લિકેશન્સનું લાઇવ પ્રિવ્યુ જોવાની સુવિધા આપે છે.",
-      "why_it_matters": "આનાથી ડેવલપર્સ AI એજન્ટ્સના કામને રીઅલ-ટાઇમમાં જોઈ અને સુધારી શકે છે, જેનાથી વેબ એપ્લિકેશન ડેવલપમેન્ટ પ્રક્રિયા વધુ કાર્યક્ષમ બને છે અને ક્લાયન્ટ્સ માટે ઝડપી પ્રોટોટાઇપિંગ શક્ય બને છે.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/"
+      "headline": "1. OpenAI સાયબર સુરક્ષા ડેટા પર મોડેલ્સને તાલીમ આપશે",
+      "what_happened": "OpenAI હવે Daybreak Blue ના સાયબર સુરક્ષા સેશન ડેટાનો ઉપયોગ તેના AI મોડેલ્સને તાલીમ આપવા માટે કરશે, જે અગાઉ પ્રતિબંધિત હતો.",
+      "why_it_matters": "આનાથી OpenAI ના મોડેલ્સની સાયબર સુરક્ષા ક્ષમતાઓમાં સુધારો થઈ શકે છે, જે ભવિષ્યમાં વધુ મજબૂત AI-સંચાલિત સુરક્ષા સોલ્યુશન્સ તરફ દોરી જશે.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/"
     },
     "hi": {
-      "headline": "1. Amazon Bedrock AgentCore के साथ कोडिंग एजेंट्स द्वारा बनाई जा रही वेब ऐप्स का लाइव प्रीव्यू",
-      "what_happened": "Amazon Bedrock AgentCore Session endpoints अब डेवलपर्स को एआई कोडिंग एजेंट्स द्वारा बनाई जा रही वेब एप्लीकेशन्स का लाइव प्रीव्यू देखने की सुविधा देता है।",
-      "why_it_matters": "इससे डेवलपर्स एआई एजेंट्स के काम को रीयल-टाइम में देख और सुधार सकते हैं, जिससे वेब एप्लीकेशन डेवलपमेंट प्रक्रिया अधिक कुशल बनती है और क्लाइंट्स के लिए तेज प्रोटोटाइपिंग संभव हो पाता है।",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/"
+      "headline": "1. OpenAI साइबर सुरक्षा डेटा पर मॉडल्स को प्रशिक्षित करेगा",
+      "what_happened": "OpenAI अब Daybreak Blue के साइबर सुरक्षा सेशन डेटा का उपयोग अपने AI मॉडल्स को प्रशिक्षित करने के लिए करेगा, जो पहले प्रतिबंधित था।",
+      "why_it_matters": "इससे OpenAI के मॉडल्स की साइबर सुरक्षा क्षमताओं में सुधार हो सकता है, जो भविष्य में अधिक मजबूत AI-संचालित सुरक्षा सॉल्यूशंस की ओर ले जाएगा।",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/"
     },
     "en": {
-      "headline": "1. Amazon Bedrock AgentCore Offers Live Previews of Web Apps Built by Coding Agents",
-      "what_happened": "Amazon Bedrock AgentCore Session endpoints now allow developers to see a live preview of web applications being created by AI coding agents.",
-      "why_it_matters": "This enables developers to monitor and refine the AI agents' work in real-time, making the web application development process more efficient and allowing for faster prototyping for clients.",
-      "source_name": "AWS Machine Learning Blog",
-      "source_url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/"
+      "headline": "1. OpenAI to Train Models on Cybersecurity Data",
+      "what_happened": "OpenAI will now use Daybreak Blue's cybersecurity session data to train its AI models. This data was previously restricted.",
+      "why_it_matters": "This could improve the cybersecurity capabilities of OpenAI's models, potentially leading to more robust AI-powered security solutions in the future.",
+      "source_name": "The Decoder",
+      "source_url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/"
     }
   }
 }
