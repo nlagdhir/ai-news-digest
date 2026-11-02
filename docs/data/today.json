@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-01T15:00:53.018146+05:30",
-  "weekday": "Sunday",
-  "story_count": 10,
+  "generated_at": "2026-11-02T15:16:32.531058+05:30",
+  "weekday": "Monday",
+  "story_count": 7,
   "stories": {
     "gu": {
-      "headline": "1. OpenAI સાયબર સુરક્ષા ડેટા પર મોડેલ્સને તાલીમ આપશે",
-      "what_happened": "OpenAI હવે Daybreak Blue ના સાયબર સુરક્ષા સેશન ડેટાનો ઉપયોગ તેના AI મોડેલ્સને તાલીમ આપવા માટે કરશે, જે અગાઉ પ્રતિબંધિત હતો.",
-      "why_it_matters": "આનાથી OpenAI ના મોડેલ્સની સાયબર સુરક્ષા ક્ષમતાઓમાં સુધારો થઈ શકે છે, જે ભવિષ્યમાં વધુ મજબૂત AI-સંચાલિત સુરક્ષા સોલ્યુશન્સ તરફ દોરી જશે.",
+      "headline": "1. OpenAI ChatGPT માં નવા pricing મોડેલ તરફ આગળ વધી રહ્યું છે.",
+      "what_happened": "OpenAI ChatGPT માં \"ચેટ-એન્ડ-વર્ક\" મોડેલને એકીકૃત કરી રહ્યું છે, જે \"ઓલ-યુ-કેન-પ્રોમ્પ્ટ\" pricing ના અંતનો સંકેત આપે છે. આનો અર્થ એ થઈ શકે કે વપરાશકર્તાઓને ભવિષ્યમાં તેમના ઉપયોગના આધારે વધુ ચૂકવણી કરવી પડશે.",
+      "why_it_matters": "આ ફેરફાર OpenAI ના બિઝનેસ મોડેલને અસર કરશે અને ChatGPT ના એન્ટરપ્રાઇઝ વપરાશકર્તાઓ માટે ખર્ચમાં વધારો કરી શકે છે. કંપનીઓ માટે AI સેવાઓના ખર્ચનું સંચાલન કરવું વધુ મહત્વપૂર્ણ બનશે.",
       "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/"
+      "source_url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
     },
     "hi": {
-      "headline": "1. OpenAI साइबर सुरक्षा डेटा पर मॉडल्स को प्रशिक्षित करेगा",
-      "what_happened": "OpenAI अब Daybreak Blue के साइबर सुरक्षा सेशन डेटा का उपयोग अपने AI मॉडल्स को प्रशिक्षित करने के लिए करेगा, जो पहले प्रतिबंधित था।",
-      "why_it_matters": "इससे OpenAI के मॉडल्स की साइबर सुरक्षा क्षमताओं में सुधार हो सकता है, जो भविष्य में अधिक मजबूत AI-संचालित सुरक्षा सॉल्यूशंस की ओर ले जाएगा।",
+      "headline": "1. OpenAI ChatGPT में नए प्राइसिंग मॉडल की ओर बढ़ रहा है।",
+      "what_happened": "OpenAI ChatGPT में \"चैट-एंड-वर्क\" मॉडल को एकीकृत कर रहा है, जो \"ऑल-यू-कैन-प्रॉम्प्ट\" प्राइसिंग के अंत का संकेत देता है। इसका मतलब यह हो सकता है कि उपयोगकर्ताओं को भविष्य में उनके उपयोग के आधार पर अधिक भुगतान करना पड़ेगा।",
+      "why_it_matters": "यह बदलाव OpenAI के बिजनेस मॉडल को प्रभावित करेगा और ChatGPT के एंटरप्राइज उपयोगकर्ताओं के लिए लागत में वृद्धि कर सकता है। कंपनियों के लिए AI सेवाओं की लागत का प्रबंधन करना अधिक महत्वपूर्ण हो जाएगा।",
       "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/"
+      "source_url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
     },
     "en": {
-      "headline": "1. OpenAI to Train Models on Cybersecurity Data",
-      "what_happened": "OpenAI will now use Daybreak Blue's cybersecurity session data to train its AI models. This data was previously restricted.",
-      "why_it_matters": "This could improve the cybersecurity capabilities of OpenAI's models, potentially leading to more robust AI-powered security solutions in the future.",
+      "headline": "1. OpenAI is moving ChatGPT towards a new pricing model.",
+      "what_happened": "OpenAI is integrating a 'chat-and-work' model into ChatGPT, which signals the end of 'all-you-can-prompt' pricing. This could mean users will have to pay more in the future based on their usage.",
+      "why_it_matters": "This change will affect OpenAI's business model and could increase costs for ChatGPT's enterprise users. It will become more important for companies to manage the cost of AI services.",
       "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/"
+      "source_url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
     }
   }
 }
