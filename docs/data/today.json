@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-02T15:16:32.531058+05:30",
-  "weekday": "Monday",
-  "story_count": 7,
+  "generated_at": "2026-11-03T15:20:07.443151+05:30",
+  "weekday": "Tuesday",
+  "story_count": 10,
   "stories": {
     "gu": {
-      "headline": "1. OpenAI ChatGPT માં નવા pricing મોડેલ તરફ આગળ વધી રહ્યું છે.",
-      "what_happened": "OpenAI ChatGPT માં \"ચેટ-એન્ડ-વર્ક\" મોડેલને એકીકૃત કરી રહ્યું છે, જે \"ઓલ-યુ-કેન-પ્રોમ્પ્ટ\" pricing ના અંતનો સંકેત આપે છે. આનો અર્થ એ થઈ શકે કે વપરાશકર્તાઓને ભવિષ્યમાં તેમના ઉપયોગના આધારે વધુ ચૂકવણી કરવી પડશે.",
-      "why_it_matters": "આ ફેરફાર OpenAI ના બિઝનેસ મોડેલને અસર કરશે અને ChatGPT ના એન્ટરપ્રાઇઝ વપરાશકર્તાઓ માટે ખર્ચમાં વધારો કરી શકે છે. કંપનીઓ માટે AI સેવાઓના ખર્ચનું સંચાલન કરવું વધુ મહત્વપૂર્ણ બનશે.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
+      "headline": "1. NVIDIA ની ફિઝિકલ અને એજેન્ટિક AI દ્વારા શહેરોમાં AI સેવાઓનું નિર્માણ અને વિસ્તરણ",
+      "what_happened": "NVIDIA એ જાહેરાત કરી છે કે વિશ્વભરના શહેરો તેમની ફિઝિકલ અને એજેન્ટિક AI ટેકનોલોજીનો ઉપયોગ કરીને સ્માર્ટ સિટી સેવાઓ બનાવી રહ્યા છે અને તેને મોટા પાયે લાગુ કરી રહ્યા છે. આનાથી કેમેરા, સેન્સર અને ઓપરેશનલ સિસ્ટમ્સમાંથી મળતા ડેટાને ઉપયોગી કાર્યવાહીમાં રૂપાંતરિત કરવામાં મદદ મળે છે.",
+      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટ્સ અને ફિઝિકલ AIનો ઉપયોગ શહેરી આયોજન, જાળવણી અને જાહેર સેવાઓમાં ક્રાંતિ લાવી શકે છે. આનાથી શહેરો વધુ કાર્યક્ષમ અને સુરક્ષિત બની શકે છે.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
     },
     "hi": {
-      "headline": "1. OpenAI ChatGPT में नए प्राइसिंग मॉडल की ओर बढ़ रहा है।",
-      "what_happened": "OpenAI ChatGPT में \"चैट-एंड-वर्क\" मॉडल को एकीकृत कर रहा है, जो \"ऑल-यू-कैन-प्रॉम्प्ट\" प्राइसिंग के अंत का संकेत देता है। इसका मतलब यह हो सकता है कि उपयोगकर्ताओं को भविष्य में उनके उपयोग के आधार पर अधिक भुगतान करना पड़ेगा।",
-      "why_it_matters": "यह बदलाव OpenAI के बिजनेस मॉडल को प्रभावित करेगा और ChatGPT के एंटरप्राइज उपयोगकर्ताओं के लिए लागत में वृद्धि कर सकता है। कंपनियों के लिए AI सेवाओं की लागत का प्रबंधन करना अधिक महत्वपूर्ण हो जाएगा।",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
+      "headline": "1. NVIDIA की फिजिकल और एजेंटिक AI द्वारा शहरों में AI सेवाओं का निर्माण और विस्तार",
+      "what_happened": "NVIDIA ने घोषणा की है कि दुनिया भर के शहर अपनी फिजिकल और एजेंटिक AI टेक्नोलॉजी का उपयोग करके स्मार्ट सिटी सेवाएं बना रहे हैं और उन्हें बड़े पैमाने पर लागू कर रहे हैं। इससे कैमरा, सेंसर और ऑपरेशनल सिस्टम से मिलने वाले डेटा को उपयोगी कार्रवाई में बदलने में मदद मिलती है।",
+      "why_it_matters": "यह दर्शाता है कि AI एजेंट्स और फिजिकल AI का उपयोग शहरी नियोजन, रखरखाव और सार्वजनिक सेवाओं में क्रांति ला सकता है। इससे शहर अधिक कुशल और सुरक्षित बन सकते हैं।",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
     },
     "en": {
-      "headline": "1. OpenAI is moving ChatGPT towards a new pricing model.",
-      "what_happened": "OpenAI is integrating a 'chat-and-work' model into ChatGPT, which signals the end of 'all-you-can-prompt' pricing. This could mean users will have to pay more in the future based on their usage.",
-      "why_it_matters": "This change will affect OpenAI's business model and could increase costs for ChatGPT's enterprise users. It will become more important for companies to manage the cost of AI services.",
-      "source_name": "The Decoder",
-      "source_url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/"
+      "headline": "1. NVIDIA's Physical and Agentic AI Helps Cities Build and Expand AI Services",
+      "what_happened": "NVIDIA announced that cities worldwide are using its Physical and Agentic AI technology to create and scale smart city services. This technology helps turn data from cameras, sensors, and operational systems into useful actions.",
+      "why_it_matters": "This shows how AI agents and Physical AI can revolutionize urban planning, maintenance, and public services. It can make cities more efficient and safer.",
+      "source_name": "NVIDIA Blog",
+      "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
     }
   }
 }
