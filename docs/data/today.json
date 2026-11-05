@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-11-03T15:20:07.443151+05:30",
-  "weekday": "Tuesday",
-  "story_count": 10,
+  "generated_at": "2026-11-05T15:13:43.125600+05:30",
+  "weekday": "Thursday",
+  "story_count": 9,
   "stories": {
     "gu": {
-      "headline": "1. NVIDIA ની ફિઝિકલ અને એજેન્ટિક AI દ્વારા શહેરોમાં AI સેવાઓનું નિર્માણ અને વિસ્તરણ",
-      "what_happened": "NVIDIA એ જાહેરાત કરી છે કે વિશ્વભરના શહેરો તેમની ફિઝિકલ અને એજેન્ટિક AI ટેકનોલોજીનો ઉપયોગ કરીને સ્માર્ટ સિટી સેવાઓ બનાવી રહ્યા છે અને તેને મોટા પાયે લાગુ કરી રહ્યા છે. આનાથી કેમેરા, સેન્સર અને ઓપરેશનલ સિસ્ટમ્સમાંથી મળતા ડેટાને ઉપયોગી કાર્યવાહીમાં રૂપાંતરિત કરવામાં મદદ મળે છે.",
-      "why_it_matters": "આ દર્શાવે છે કે AI એજન્ટ્સ અને ફિઝિકલ AIનો ઉપયોગ શહેરી આયોજન, જાળવણી અને જાહેર સેવાઓમાં ક્રાંતિ લાવી શકે છે. આનાથી શહેરો વધુ કાર્યક્ષમ અને સુરક્ષિત બની શકે છે.",
-      "source_name": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
+      "headline": "1. OpenAI એ Pierre Computer Company નું અધિગ્રહણ કર્યું",
+      "what_happened": "OpenAI એ Pierre Computer Company ને ખરીદી લીધી છે, જે Codex ના કોડ બનાવવા, સમજવા અને સમીક્ષા કરવાના ટૂલ્સને વધુ મજબૂત બનાવશે.",
+      "why_it_matters": "આ અધિગ્રહણ OpenAI ની કોડિંગ AI ક્ષમતાઓને વધારશે, જે ડેવલપર્સ માટે વધુ શક્તિશાળી AI ટૂલ્સ ઉપલબ્ધ કરાવશે અને AI-આસિસ્ટેડ ડેવલપમેન્ટને વેગ આપશે.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre"
     },
     "hi": {
-      "headline": "1. NVIDIA की फिजिकल और एजेंटिक AI द्वारा शहरों में AI सेवाओं का निर्माण और विस्तार",
-      "what_happened": "NVIDIA ने घोषणा की है कि दुनिया भर के शहर अपनी फिजिकल और एजेंटिक AI टेक्नोलॉजी का उपयोग करके स्मार्ट सिटी सेवाएं बना रहे हैं और उन्हें बड़े पैमाने पर लागू कर रहे हैं। इससे कैमरा, सेंसर और ऑपरेशनल सिस्टम से मिलने वाले डेटा को उपयोगी कार्रवाई में बदलने में मदद मिलती है।",
-      "why_it_matters": "यह दर्शाता है कि AI एजेंट्स और फिजिकल AI का उपयोग शहरी नियोजन, रखरखाव और सार्वजनिक सेवाओं में क्रांति ला सकता है। इससे शहर अधिक कुशल और सुरक्षित बन सकते हैं।",
-      "source_name": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
+      "headline": "1. OpenAI ने Pierre Computer Company का अधिग्रहण किया",
+      "what_happened": "OpenAI ने Pierre Computer Company को खरीद लिया है, जिससे Codex के कोड बनाने, समझने और समीक्षा करने वाले टूल्स और मजबूत बनेंगे।",
+      "why_it_matters": "यह अधिग्रहण OpenAI की कोडिंग AI क्षमताओं को बढ़ाएगा, जिससे डेवलपर्स के लिए और अधिक शक्तिशाली AI टूल्स उपलब्ध होंगे और AI-असिस्टेड डेवलपमेंट को गति मिलेगी।",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre"
     },
     "en": {
-      "headline": "1. NVIDIA's Physical and Agentic AI Helps Cities Build and Expand AI Services",
-      "what_happened": "NVIDIA announced that cities worldwide are using its Physical and Agentic AI technology to create and scale smart city services. This technology helps turn data from cameras, sensors, and operational systems into useful actions.",
-      "why_it_matters": "This shows how AI agents and Physical AI can revolutionize urban planning, maintenance, and public services. It can make cities more efficient and safer.",
-      "source_name": "NVIDIA Blog",
-      "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
+      "headline": "1. OpenAI Acquires Pierre Computer Company",
+      "what_happened": "OpenAI has bought Pierre Computer Company. This acquisition will make Codex's tools for creating, understanding, and reviewing code even stronger.",
+      "why_it_matters": "This acquisition will boost OpenAI's AI coding abilities. It will give developers more powerful AI tools and speed up AI-assisted development.",
+      "source_name": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre"
     }
   }
 }
